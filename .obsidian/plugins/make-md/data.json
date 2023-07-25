@@ -48,7 +48,12 @@
       "Active Projects/Bladerunner (1982)",
       "Active Projects",
       "Active Projects",
-      "Active Projects/Bladerunner (1982)"
+      "Active Projects/Bladerunner (1982)",
+      "Active Projects/(Current Project) Bladerunner (1982)",
+      "Active Projects/(Current Project) Bladerunner (1982)",
+      "Active Projects/(Current Project) Bladerunner (1982)",
+      "Active Projects/(Current Project) Bladerunner (1982)",
+      "Active Projects/(Current Project) Bladerunner (1982)"
     ]
   },
   "expandedSpaces": [
@@ -86,7 +91,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1690328949563,
+  "spacesAutoBackupLast": 1690329139447,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
