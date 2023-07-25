@@ -153,9 +153,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "838970afdc065dfa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -178,10 +186,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "62c6268edf44fc1b",
+  "active": "359dd1785c644dbe",
   "lastOpenFiles": [
-    "Untitled.loom",
     "Active Projects/Channel Planning.md",
+    "Untitled.loom",
     "Untitled.md",
     "Active Projects/Bladerunner (1982)/Bladerunner(1982).jpg",
     "Active Projects/Bladerunner (1983) .md",
