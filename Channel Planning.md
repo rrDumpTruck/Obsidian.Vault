@@ -13,17 +13,10 @@ Leading others to meaningfully understand the non-obvious and ask more than surf
 
 A sharing of personal reflection about my enjoyment of a piece of art or history. 
 
-  
-
-  
-
-  
-
 Some thoughts on how to structure my videos: 
 
 I’ll list some ideas that I have based on what I have seen is “industry standard” and list my thoughts as well as pros and cons of each. 
 
-  
 ---
 “Video Essay”: A brief plot synopsis followed by interesting facts about the media I am presenting, then follow up with interesting ideas the movie presents, cinematic overtures that it uses to convey information and lastly my personal thoughts on the media and some sentiment on how it’s effected my life. This lends to the video generally being a total view on both sides (good and bad) of the media. 
 
@@ -44,8 +37,6 @@ Channels I know of that use this format: @habie147, @Wisecrack
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
 |                                                                                        Pros                                                                                         |                                                                     Cons                                                                     |
 | - Lighthearted and “popcorn”<br>- Easier to make (self propelled nature)<br>- Clearer tone (lack of outside influence)<br>- More flexibility in content (decreased time investment) | - Won’t teach me as much<br>- Lacks gravitas required by some media<br>- Less room to ask questions in videos (lack of dual sided criticism) |
-
-  
 
 “The Cynical/Mocking Review”: A very brief plot synopsis, followed by what the media does or doesn’t do well. Followed with a objective view on how popular the media is and why it is that way. Lastly my personal views and opinions on the media with supporting evidence of why I think this. This lends to the video being more laid back at the start, and more subjective while being easier to watch due to the lack of rigidity. 
 
