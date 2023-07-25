@@ -45,6 +45,9 @@
       "Untitled",
       "Active Projects",
       "Active Projects/Bladerunner (1982)",
+      "Active Projects/Bladerunner (1982)",
+      "Active Projects",
+      "Active Projects",
       "Active Projects/Bladerunner (1982)"
     ]
   },
@@ -83,7 +86,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1690324608702,
+  "spacesAutoBackupLast": 1690325549937,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

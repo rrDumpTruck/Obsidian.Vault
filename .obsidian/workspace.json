@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Projects/Channel Planning.md",
+                "file": "Channel Planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Projects/Channel Planning.md",
+                "file": "Channel Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Projects/Channel Planning.md",
+                "file": "Channel Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Projects/Channel Planning.md"
+                "file": "Channel Planning.md"
               }
             }
           }
@@ -158,22 +158,24 @@
       "command-palette:Open command palette": false,
       "notion-like-tables:Create new loom": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "f1cd5e835de3a596",
   "lastOpenFiles": [
     "Active Projects/Bladerunner (1982)/Bladerunner.md",
     "Active Projects/Bladerunner (1982)/Bladerunner(1982).jpg",
-    "Active Projects/Channel Planning.md",
+    "Active Projects/Bladerunner (1982)/Bladerunner (1982).md",
+    "Active Projects/Active Projects.md",
+    "Active Projects/Bladerunner (1982)/Untitled.md",
     "Untitled.loom",
+    "Untitled 1.loom",
+    "Channel Planning.md",
     "Untitled.md",
     "Active Projects/Bladerunner (1983) .md",
-    "Active Projects/Bladerunner (1982)/Untitled.md",
     "Active Projects/Bladerunner (1982)/Bladerunner(1982).jpg.crdownload",
-    "Active Projects/Bladerunner (1982)/Bladerunner (1982).md",
     "Active Projects/Bladerunner (1982)",
-    "Active Projects/Active Projects.md",
     "test #369.md",
     "Active Projects",
     "repository",

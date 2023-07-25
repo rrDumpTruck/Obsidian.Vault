@@ -1,3 +1,6 @@
+---
+sticker: emoji//1f6a9
+---
 ## Channel Planning
 
 Name: TBD
@@ -26,10 +29,10 @@ I’ll list some ideas that I have based on what I have seen is “industry stan
 
 Channels I know of that use this format: @JacobGeller, @CinemaStix. @TheCanvasArtHistory
 
-|   |   |
-|---|---|
-|Pros|Cons|
-|- Comes across as well thought <br>- Forces you to be thorough<br>- Grants a “complete picture”<br>- Represents multi faceted issues well (both sides of critique)|- Videos will usually take/be longer<br>- Unopinionated nature could lead to boredom<br>- Takes more patience to watch<br>- Can easily come across as derivative|
+|                                                                                                                                                                    |                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pros                                                                                                                                                               | Cons                                                                                                                                                             |
+| - Comes across as well thought <br>- Forces you to be thorough<br>- Grants a “complete picture”<br>- Represents multi faceted issues well (both sides of critique) | - Videos will usually take/be longer<br>- Unopinionated nature could lead to boredom<br>- Takes more patience to watch<br>- Can easily come across as derivative                                                                                                                                                                   |                                                                                                                                                                  |
 
   
 
