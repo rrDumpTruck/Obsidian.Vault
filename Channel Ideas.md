@@ -3,16 +3,10 @@ Scale 1 2 3 4 5 (try and reevaluate video ideas after each project to ensu
 ### Format
 
 Title of Project : a deeper description of subtext and important notes for later use  
-
 (Colored according to idea viability)
-
 Description of stance on project as of last evaluation (most recent project completion.)
+Notes/Progress already obtained towards project. <br>
 
-Notes/Progress already obtained towards project.
-
-  
-
-  
 
 Dark (Netflix tv show) a study on dramatic irony: 
 
