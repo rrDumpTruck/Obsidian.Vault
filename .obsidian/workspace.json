@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Channel Planning.md",
+                "file": "Channel Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Channel Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Channel Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Channel Planning.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -162,8 +158,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f1cd5e835de3a596",
+  "active": "6681bfd0a62049e6",
   "lastOpenFiles": [
+    "Channel Ideas.md",
+    "context.mdb",
+    "Channel Planning.md",
     "Active Projects/Bladerunner (1982)/Bladerunner.md",
     "Active Projects/Bladerunner (1982)/Bladerunner(1982).jpg",
     "Active Projects/Bladerunner (1982)/Bladerunner (1982).md",
@@ -171,8 +170,6 @@
     "Active Projects/Bladerunner (1982)/Untitled.md",
     "Untitled.loom",
     "Untitled 1.loom",
-    "Channel Planning.md",
-    "Untitled.md",
     "Active Projects/Bladerunner (1983) .md",
     "Active Projects/Bladerunner (1982)/Bladerunner(1982).jpg.crdownload",
     "Active Projects/Bladerunner (1982)",

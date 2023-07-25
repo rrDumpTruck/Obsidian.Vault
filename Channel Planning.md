@@ -28,7 +28,6 @@ Channels I know of that use this format: @JacobGeller, @CinemaStix. @TheCanvas
 | - Comes across as well thought <br>- Forces you to be thorough<br>- Grants a “complete picture”<br>- Represents multi faceted issues well (both sides of critique) | - Videos will usually take/be longer<br>- Unopinionated nature could lead to boredom<br>- Takes more patience to watch<br>- Can easily come across as derivative                                                                                                                                                                   |                                                                                                                                                                  |
 
   
-
 **“The One Sided Critique”**: Assume that the audience has seen the media, present most general views on the matter. Follow this up with sequential supporting evidence, ignoring most “questionable” points about the media. This lends to videos that feel shorter and more concise, due to lack of need to structure it in an argumentative and logical view but ultimately allows the content to fit into other categories of media easier due to its lack of extreme subject depth. 
 
 Channels I know of that use this format: @habie147, @Wisecrack  
@@ -47,7 +46,6 @@ Channels I know of that use this format: @CinemaSins, @TheCriticalDrinker
 |Pros|Cons|
 |- Laid back and comical<br>- Concise (comedic timing)<br>- Less audience investment<br>- Staying power (radical viewers = more long term support?)|- Less audience investment<br>- Highly subjective views on things (lack of dual perspective critique)<br>- A difficulty expressing complex ideas (jumps in reasoning required by assumption of shared subjectivity)|
 
-  
 
 “Objective Philosophy”: A brief synopsis of the video followed by an in depth philosophical view on the setting, the characters, and the major themes surrounding the media. Lastly how this media effected my life and what I like/dislike about it. This lends to ideas being more lofty, and a much easier writing process with some major work needed in the background supporting texts of major philosophers. 
 
