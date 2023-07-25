@@ -15,7 +15,6 @@
   "make-md",
   "obsidian-mind-map",
   "note-refactor-obsidian",
-  "obsidian-git",
   "omnisearch",
   "obsidian-outliner",
   "obsidian-pandoc",
@@ -23,5 +22,6 @@
   "obsidian-style-settings",
   "obsidian-tasks-plugin",
   "text-extractor",
-  "obsidian-textgenerator-plugin"
+  "obsidian-textgenerator-plugin",
+  "obsidian-git"
 ]

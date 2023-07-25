@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test .md",
+                "file": "omg git dis.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test .md",
+                "file": "omg git dis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test .md",
+                "file": "omg git dis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test .md"
+                "file": "omg git dis.md"
               }
             }
           },
@@ -144,14 +145,21 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "76c2779d2bdd7264",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,11 +178,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6b7899d135f6e7d0",
+  "active": "62c6268edf44fc1b",
   "lastOpenFiles": [
+    "Test .md",
+    "omg git dis.md",
     "Untitled",
     "Untitled.md",
-    "Test .md",
     "repository",
     "Context/spacesLastSync.log",
     "Context"
