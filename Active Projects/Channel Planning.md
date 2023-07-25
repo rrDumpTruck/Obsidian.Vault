@@ -37,10 +37,10 @@ Channels I know of that use this format: @JacobGeller, @CinemaStix. @TheCanvas
 
 Channels I know of that use this format: @habie147, @Wisecrack  
 
-|   |   |
-|---|---|
-|Pros|Cons|
-|- Lighthearted and “popcorn”<br>- Easier to make (self propelled nature)<br>- Clearer tone (lack of outside influence)<br>- More flexibility in content (decreased time investment)|- Won’t teach me as much<br>- Lacks gravitas required by some media<br>- Less room to ask questions in videos (lack of dual sided criticism)|
+|                                                                                                                                                                                     |                                                                                                                                              |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                                                        Pros                                                                                         |                                                                     Cons                                                                     |
+| - Lighthearted and “popcorn”<br>- Easier to make (self propelled nature)<br>- Clearer tone (lack of outside influence)<br>- More flexibility in content (decreased time investment) | - Won’t teach me as much<br>- Lacks gravitas required by some media<br>- Less room to ask questions in videos (lack of dual sided criticism) |
 
   
 
