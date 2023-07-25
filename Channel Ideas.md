@@ -1,4 +1,4 @@
-Scale <span style="color:#ff0000">1</span> <span style="color:#ffc000">2</span> <span style="color:#00b0f0">3</span> <span style="color:#7030a0">4</span> <span style="color:#00b050">5</span> (try and reevaluate video ideas after each project to ensure best pick)
+Scale <span style="color:#ff0000">1</span> <span style="color:#ffc000">2</span> <span style="color:#7030a0">3</span> <span style="color:#00b0f0">4</span> <span style="color:#00b050">5</span> (try and reevaluate video ideas after each project to ensure best pick)
 
 ### Format
 
@@ -17,13 +17,15 @@ Notes/Progress already obtained towards project.
 
 ---
 
-Fargo: Talking about the importance of repetitive dialogue in tv and movies. 
+<span style="color:#7030a0">Fargo</span>: Talking about the importance of repetitive dialogue in tv and movies. 
 
 Fargo season 5 is scheduled to air late 2023. Maybe wait until the season is finished to make a 5 season vid. Alternatively make a video for just the first season as it is the most thematically stable. 
 
+Limited audience reach, unless it becomes popular again or I get really creative.  
+
 ---
 
-**Classical Music: Understanding the psychology and effects of music with a focus on classical and baroque styled works.** Work on developing an understanding of what causes us to react certain ways to different types of music. 
+<span style="color:#7030a0">Classical Music</span>: Understanding the psychology and effects of music with a focus on classical and baroque styled works.** Work on developing an understanding of what causes us to react certain ways to different types of music. 
 
 This is good in principle but may lack a popular audience, maybe a good one for when an audience is already formed. 
 
