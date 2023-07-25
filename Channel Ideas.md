@@ -31,13 +31,13 @@ This is good in principle but may lack a popular audience, maybe a good one for 
 
 ---
 
-**PKA**: Talking about the history and impact (personal or otherwise)
+**<span style="color:#ff0000">PKA</span>**: Talking about the history and impact (personal or otherwise)
 
 This may be bad timing for this style of video. Some may say I am eliciting “hype” off of the recent boxing event starring Wingsofredemtion and Boogie2988. Also a advertiser hazard, may be a much later project, probably more interesting too. Best to put as much time between my video and the [down the rabbit hole](https://youtu.be/LNHbm7GBHwg "https://youtu.be/LNHbm7GBHwg") about Wings
 
 ---
 
-Bladerunner (2049 AND OG): Talking about what makes us human, and/or how empathy is purposefully elicited in film. 
+<span style="color:#00b050">Bladerunner</span> (2049 AND OG): Talking about what makes us human, and/or how empathy is purposefully elicited in film. 
 
 I am pretty sure I watched a video about this, just need to check. 
 
