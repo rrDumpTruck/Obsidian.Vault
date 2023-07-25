@@ -1,1 +1,11 @@
-{}
+{
+  "colored-text:get-color-input": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ]
+}
