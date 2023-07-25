@@ -34,7 +34,13 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {},
+  "expandedFolders": {
+    "Test": [
+      "Untitled",
+      "Untitled",
+      "Untitled"
+    ]
+  },
   "expandedSpaces": [
     "/",
     null,
@@ -70,7 +76,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1690323810848,
+  "spacesAutoBackupLast": 1690323836244,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
