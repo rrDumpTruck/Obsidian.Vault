@@ -1,5 +1,4 @@
 [
-  "table-editor-obsidian",
   "obsidian-banners",
   "better-word-count",
   "buttons",
@@ -23,5 +22,6 @@
   "obsidian-tasks-plugin",
   "text-extractor",
   "obsidian-textgenerator-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian"
 ]

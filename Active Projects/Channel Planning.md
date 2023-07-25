@@ -21,7 +21,7 @@ Some thoughts on how to structure my videos: 
 I’ll list some ideas that I have based on what I have seen is “industry standard” and list my thoughts as well as pros and cons of each. 
 
   
-
+---
 “Video Essay”: A brief plot synopsis followed by interesting facts about the media I am presenting, then follow up with interesting ideas the movie presents, cinematic overtures that it uses to convey information and lastly my personal thoughts on the media and some sentiment on how it’s effected my life. This lends to the video generally being a total view on both sides (good and bad) of the media. 
 
 Channels I know of that use this format: @JacobGeller, @CinemaStix. @TheCanvasArtHistory
