@@ -23,5 +23,7 @@
   "text-extractor",
   "obsidian-textgenerator-plugin",
   "obsidian-git",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "colored-text",
+  "colorful-note-borders"
 ]

@@ -1,0 +1,28 @@
+{
+  "colorRules": [
+    {
+      "id": "1690326205188",
+      "value": "1",
+      "type": "folder",
+      "color": "#000000"
+    },
+    {
+      "id": "1690326277757",
+      "value": "2",
+      "type": "folder",
+      "color": "#fa0000"
+    },
+    {
+      "id": "1690326282825",
+      "value": "3",
+      "type": "folder",
+      "color": "#1100ff"
+    },
+    {
+      "id": "1690326293378",
+      "value": "",
+      "type": "folder",
+      "color": "#008026"
+    }
+  ]
+}
