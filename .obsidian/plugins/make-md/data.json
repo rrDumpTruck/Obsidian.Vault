@@ -39,19 +39,24 @@
       "Untitled",
       "Untitled",
       "Untitled"
+    ],
+    "You-Tube": [
+      "Untitled",
+      "Untitled",
+      "Active Projects"
     ]
   },
   "expandedSpaces": [
     "/",
     null,
     "Obsidian.Vault",
-    "Test",
+    "You-Tube",
     null
   ],
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
-    "Test"
+    "You-Tube"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -76,7 +81,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1690323836244,
+  "spacesAutoBackupLast": 1690324125010,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

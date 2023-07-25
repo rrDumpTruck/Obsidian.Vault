@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test .md",
+                "file": "Active Projects/Test .md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test .md",
+                "file": "Active Projects/Test .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test .md",
+                "file": "Active Projects/Test .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test .md"
+                "file": "Active Projects/Test .md"
               }
             }
           },
@@ -178,12 +178,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "359dd1785c644dbe",
+  "active": "62c6268edf44fc1b",
   "lastOpenFiles": [
-    "Untitled/Untitled.md",
-    "Test .md",
+    "Active Projects/Bladerunner.md",
+    "Active Projects/Test .md",
+    "Active Projects/Active Projects.md",
     "test #369.md",
-    "Untitled",
+    "Active Projects",
     "Untitled.md",
     "repository",
     "Context/spacesLastSync.log",
