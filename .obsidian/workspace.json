@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -137,9 +137,16 @@
                 "file": "Channel Ideas.md"
               }
             }
+          },
+          {
+            "id": "c623cd3ff6ef6d81",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,11 +169,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f1cd5e835de3a596",
+  "active": "1e496599bac132ee",
   "lastOpenFiles": [
+    "Active Projects/Bladerunner (1982)/obsidian-colored-text.zip",
+    "Active Projects/Bladerunner (1982)/Unconfirmed 946169.crdownload",
+    "Home.md",
+    "Channel Planning.md",
     "Channel Ideas.md",
     "context.mdb",
-    "Channel Planning.md",
     "Active Projects/Bladerunner (1982)/Bladerunner.md",
     "Active Projects/Bladerunner (1982)/Bladerunner(1982).jpg",
     "Active Projects/Bladerunner (1982)/Bladerunner (1982).md",
