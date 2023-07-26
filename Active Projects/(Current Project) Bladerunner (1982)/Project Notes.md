@@ -22,7 +22,7 @@ Blade Runner 2049 - Empathy Propaganda [Video Essay] (((Movies I Love (and so ca
 [https://www.youtube.com/watch?v=WTKmaJa3Ci0](https://www.youtube.com/watch?v=WTKmaJa3Ci0)  
 
 summary and relevance?
-
+	
   
 
 Everything Wrong With Blade Runner 2049 (((CinemaSins)))
