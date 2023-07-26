@@ -1,21 +1,13 @@
 ---
 sticker: emoji//1f4cd
 ---
-**Director:**  
+**Director:**  Ridley Scott
 
-Ridley Scott
+**Writers:** Hampton Fancher, David Peoples
 
-**Writers:**
+**Music:** “Vangelis”
 
-Hampton Fancher
-
-David Peoples
-
-**Music:**
-
-“Vangelis”
-
-  
+---
 
 Production notes: 
 
