@@ -61,8 +61,8 @@
     "/",
     null,
     "Obsidian.Vault",
-    null,
-    "Personal Stuff"
+    "Personal Stuff",
+    null
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -93,7 +93,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1701908656811,
+  "spacesAutoBackupLast": 1701908936744,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

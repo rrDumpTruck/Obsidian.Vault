@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DoA.md",
+                "file": "Working Title, a Personal Journal.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "fc69cf84cba57862",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
               }
             }
           }
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DoA.md",
+                "file": "Working Title, a Personal Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DoA.md",
+                "file": "Working Title, a Personal Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DoA.md"
+                "file": "Working Title, a Personal Journal.md"
               }
             }
           },
@@ -171,10 +181,10 @@
   },
   "active": "f1cd5e835de3a596",
   "lastOpenFiles": [
-    "Working Title, a Personal Journal.md",
-    "DoA.md",
     "Memories.md",
+    "Working Title, a Personal Journal.md",
     "Home.md",
+    "DoA.md",
     "Channel Ideas.md",
     "Active Projects/(Current Project) Bladerunner (1982)/Project Notes.md",
     "Active Projects/(Current Project) Bladerunner (1982)/Video Script.md",

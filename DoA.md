@@ -45,7 +45,7 @@ This particular period in my life is probably the most painful to talk about. It
 
   
 
-My Full Understanding of Talent
+My Full Understanding of Talent 
 
   
 
