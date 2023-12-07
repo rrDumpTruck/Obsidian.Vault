@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Working Title, a Personal Journal.md",
+                "file": "DoA.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working Title, a Personal Journal.md",
+                "file": "DoA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Working Title, a Personal Journal.md",
+                "file": "DoA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working Title, a Personal Journal.md"
+                "file": "DoA.md"
               }
             }
           },
@@ -172,6 +172,8 @@
   "active": "f1cd5e835de3a596",
   "lastOpenFiles": [
     "Working Title, a Personal Journal.md",
+    "DoA.md",
+    "Memories.md",
     "Home.md",
     "Channel Ideas.md",
     "Active Projects/(Current Project) Bladerunner (1982)/Project Notes.md",
