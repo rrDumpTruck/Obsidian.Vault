@@ -61,12 +61,13 @@
     "/",
     null,
     "Obsidian.Vault",
-    "You-Tube",
-    null
+    null,
+    "Personal Stuff"
   ],
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
+    "Personal Stuff",
     "You-Tube"
   ],
   "menuTriggerChar": "/",
@@ -92,7 +93,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1690329407665,
+  "spacesAutoBackupLast": 1701908341865,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
