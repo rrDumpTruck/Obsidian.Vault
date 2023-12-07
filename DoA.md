@@ -46,6 +46,7 @@ This particular period in my life is probably the most painful to talk about. It
   
 
 My Full Understanding of Talent 
+In seventh or eighth grade I was taken on a trip with my parents to the beach (Ocean City, Maryland). On this trip I was brought to a music night a biker bar 
 
   
 
