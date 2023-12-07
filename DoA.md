@@ -46,7 +46,7 @@ This particular period in my life is probably the most painful to talk about. It
   
 
 My Full Understanding of Talent 
-In seventh or eighth grade I was taken on a trip with my parents to the beach (Ocean City, Maryland). On this trip I was brought to a music night a biker bar 
+In seventh or eighth grade I was taken on a trip with my parents to the beach (Ocean City, Maryland). On this trip I was brought to a music night a biker bar, at the time it was legal as long as it was an "open air" establishment. There was a drummer there that played songs that I like quite a lot and I watched him play for nearly 4 hours that night. Doing amazing solo's and even keeping perfect time so far as I could tell. 
 
   
 
