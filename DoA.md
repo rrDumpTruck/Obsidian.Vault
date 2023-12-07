@@ -13,7 +13,7 @@ Mom and Dad encouraged me to be curious, in this stage it was largely reading an
 
   
 
-**Naive and Curious** (2005-2010)
+**Naïve and Curious** (2005-2010)
 
 Just after I started at Salisbury Elementary I feel that I had my "Awakening"... meaning when I started making decisions for myself, solving my own problems and most importantly I realized what my strengths and weaknesses were. The first few years (Kindergarten, 1st and most of 2nd grade) went with out event, I was slow to wake but once the fire was lit I started seeing things very differently, I used my size and intellectual superiority over my peers in detriment to my own life. I suffered from severe anger issues, disrespect for authority and was altogether an annoying little shit to anyone I didn't feel respected me, including teachers, fellow students, my principle and vice principle. In the end the thing that pulled me out of it happened in about 4th grade I think.
 
