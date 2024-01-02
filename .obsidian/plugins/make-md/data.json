@@ -67,6 +67,7 @@
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
+    "D&D",
     "Personal Stuff",
     "You-Tube"
   ],
@@ -93,7 +94,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1701908936744,
+  "spacesAutoBackupLast": 1701914848714,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
