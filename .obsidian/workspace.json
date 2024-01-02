@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Channel Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Channel Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Channel Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Channel Ideas.md"
               }
             }
           },
@@ -182,9 +182,9 @@
   "active": "f1cd5e835de3a596",
   "lastOpenFiles": [
     "Working Title, a Personal Journal.md",
-    "Memories.md",
-    "Home.md",
     "DoA.md",
+    "Home.md",
+    "Memories.md",
     "Channel Ideas.md",
     "Active Projects/(Current Project) Bladerunner (1982)/Project Notes.md",
     "Active Projects/(Current Project) Bladerunner (1982)/Video Script.md",

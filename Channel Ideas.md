@@ -11,6 +11,12 @@ Description of stance on project as of last evaluation (most recent project comp
 Notes/Progress already obtained towards project.
 
 ---
+(drunk birthday idea: a video showing your progressing of gaming and how it has driven you to hate it)
+---
+
+---
+
+---
 
 
 <span style="color:#00b0f0">Dark</span> (Netflix tv show) a study on dramatic irony: 
