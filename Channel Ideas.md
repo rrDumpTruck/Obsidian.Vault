@@ -15,7 +15,7 @@ Notes/Progress already obtained towards project.
 ---
 
 ---
-Fatherhood and a recognition of the unrecognized greatness in society. *drum video *
+Fatherhood and a recognition of the unrecognized greatness in society. *drum video supported and maybe vhs collection conversion project for old home videos*
 ---
 
 
