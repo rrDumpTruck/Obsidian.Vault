@@ -515,7 +515,7 @@ Execute, Execute, Execute.
 
 My anger and sadness have been growing at an alarming rate and I'm really not sure what to think anymore. It's obvious to those around me I am struggling with something, they have started to notice and I need to make a change. The anger, I feel comes from the lack of forward progress I am making in aspects of my life. I am making attempts but nothing seems to find traction in the motivation department, that or something else important demands my attention. I think I've just realized that for the first time I'm in a position where if I wanted to I could do the absolute bear minimum and still pass by with flying colors due to my nature. Deep down I know the sadness comes from the old part of me that fears hard work... I am hurtling towards a bright future that will be very demanding on my time and attention, less room for play means that deep down I am sad for the loss of free time. 
 
-Its time to start the purge. I have used the last of my supply and shall be starting my 
+Its time to start the purge. I have used the last of my supply and shall be starting my four week detox. I have pretty much quit cold as of two days ago, a small puff here and there if I feel too edgy... but now its gone so that means its time to learn some new emotional skills. Part of me wants to stay in the dark, letting a dulled sense of life wash over instead of through me. The human mind is capable of so much and yet so little, my thoughts are at one moment stagnate but then take a panic inducing pace. I do feel I have been having panic attacks since stopping, usually a few moments 
 
 Fear and the engagement of new ideas is something I struggle with, especially when dealing with professional outcomes.
 
