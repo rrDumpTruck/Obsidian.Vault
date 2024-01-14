@@ -504,4 +504,19 @@ Next professional steps: It's become obvious that I need to further pursue a pro
 
   
 
-I have been smoking THC again for about two months after quitting for nearly four to find a new job. I can't tell if I feel bad because of the drug or if I feel bad because I think I should feel bad about it. I'm certain I need to stop though, at least for a while. According to the internet it takes three to four weeks to feel the effects of a full detox. I am going to write a full journal entry about the experience throughout the four weeks. It will start when I have finished the last of my supply. Dependant on the outcome of the detox I will quit forever or only occasionally partake. This will make me a better person, so long as I find the skills to cope with the loss of a vice such as this.
+I have been smoking THC again for about two months after quitting for nearly four to find a new job. I can't tell if I feel bad because of the drug or if I feel bad because I think I should feel bad about it. I'm certain I need to stop though, at least for a while. According to the internet it takes three to four weeks to feel the effects of a full detox. I am going to write a full journal entry about the experience throughout the four weeks. It will start when I have finished the last of my supply. Dependent on the outcome of the detox I will quit forever or only occasionally partake. This will make me a better person, so long as I find the skills to cope with the loss of a vice such as this.
+
+
+---
+
+1/13/24
+
+Execute, Execute, Execute.
+
+My anger and sadness have been growing at an alarming rate.
+
+Its time to start the purge.
+
+Fear and the engagement of new ideas.
+
+Follow through is a thing that I lack in some aspects of my life. 
