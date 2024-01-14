@@ -496,7 +496,7 @@ My mental health isn't great right now. Neither is my physical health really, I 
 
   
 
-My mother is a very challenging person to love. I love her more than anyone and that is quite difficult on me sometimes. She has less emotional understanding than most people, almost childlike in some ways but there's just something special about her and everyone else in her life sees it too. God saw fit to put us together, I saw the need to take care of her and now I'm having to deal with the repercussions of my decision. She is one of my major foundations in my emotional well being. So when she is unavailing in her efforts to have a small amount of patience or tact it makes me feel all the more worse. Prevailing wisdom would have me buckle down and provide to her demands, but doing so would only give her a new pedestal off of which to request more. It's happened before and its only human nature to expect what you do when you do, but I wish it was possible.
+My mother is a very challenging person to love. I love her more than anyone and that is quite difficult on me sometimes. She has less emotional understanding than most people, almost childlike in some ways but there's just something special about her and everyone else in her life sees it too. God saw fit to put us together, I saw the need to take care of her and now I'm having to deal with the repercussions of my decision. She is one of my major foundations in my emotional well being. So when she is unavailing in her efforts to have a small amount of patience or tact it makes me feel all the more worse. Prevailing wisdom would have me buckle down and provide to her demands, but doing so would only give her a new pedestal off of which to request more. It's happened before and its only human nature to expect what you do when you do, but I only wish it were possible.
 
   
 
@@ -513,10 +513,10 @@ I have been smoking THC again for about two months after quitting for nearly fou
 
 Execute, Execute, Execute.
 
-My anger and sadness have been growing at an alarming rate.
+My anger and sadness have been growing at an alarming rate and I'm really not sure what to think anymore. It's obvious to those around me I am struggling with something, they have started to notice and I need to make a change. The anger, I feel comes from the lack of forward progress I am making in aspects of my life. 
 
 Its time to start the purge.
 
-Fear and the engagement of new ideas.
+Fear and the engagement of new ideas is something I struggle with, especially when dealing with professional outcomes.
 
 Follow through is a thing that I lack in some aspects of my life. 
