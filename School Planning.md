@@ -11,8 +11,9 @@ Computer Engineering:
 Electrical Engineering: 
 	Design, develop, test, and supervise the manufacture of electrical equipment. Basically everything a CE is and then some.
 	What is learned: Circuits, very hard math, physics. 
-Bachelors in Psychology: 
-	
+History: 
+	Not really a viable outcome... lower salary, job choice and value of degree.
+Psychology: 
 
 
 Thoughts on progress and which school(s) to choose: 
