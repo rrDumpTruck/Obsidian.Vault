@@ -14,6 +14,12 @@ Electrical Engineering:
 History: 
 	Not really a viable outcome... lower salary, job choice and value of degree.
 Psychology: 
+	The road for a psychologist is long and can take far more than 4 years of schooling, is very expensive and hard to transfer. Salary is ok but job demand may dwindle/ be unrecognizable by the time I have all required education. 
 
 
 Thoughts on progress and which school(s) to choose: 
+The ball must start rolling. Find a school, ask the hard questions. Prepare for a fight.
+
+Depending on which community college I go to I may be able to waive the SATs. 
+Go to community college for gen ed. courses to save money.
+Transfer credits to as highly accredited an online program as I can. 
