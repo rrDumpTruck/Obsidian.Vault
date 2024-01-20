@@ -23,3 +23,6 @@ The ball must start rolling. Find a school, ask the hard questions. Prepare for 
 Depending on which community college I go to I may be able to waive the SATs. 
 Go to community college for gen ed. courses to save money.
 Transfer credits to as highly accredited an online program as I can. 
+
+
+https://amspub.abet.org/aps/name-search?searchType=institution
