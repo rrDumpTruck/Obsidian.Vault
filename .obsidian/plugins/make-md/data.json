@@ -61,12 +61,14 @@
     "/",
     null,
     "Obsidian.Vault",
-    "Personal Stuff",
-    null
+    null,
+    "D&D",
+    "Personal Stuff"
   ],
   "openFolders": [],
   "fileIcons": [],
   "cachedSpaces": [
+    "School",
     "D&D",
     "Personal Stuff",
     "You-Tube"
@@ -94,7 +96,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1701914848714,
+  "spacesAutoBackupLast": 1705778351908,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
