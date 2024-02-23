@@ -525,9 +525,9 @@ Follow through is a thing that I lack in some aspects of my life and it's starti
 Trying Harder
 2/22/24
 
-Usually when I try to accomplish tasks I follow a thought process of: Knowing the task, asking why the task needs to be done, what is the most efficient way to complete the task. If I fail at completing the task, for a long time I thought it was my fault or a shortcoming of my knowledge as a problem solver. I have realized recently that when I am hard on myself for re
+Usually when I try to accomplish tasks I follow a thought process of: Knowing the task, asking why the task needs to be done, what is the most efficient way to complete the task. If I fail at completing the task, for a long time I thought it was my fault or a shortcoming of my knowledge as a problem solver. I have realized recently that when I am hard on myself for reasons that are beyond my control it takes the motivation from me, like oil from a well. The longer and harder I dwell on my mistakes, shortcomings or failures... the longer it will take to be comfortable with the person that I am, and the world that I occupy. From now on I will redirect negative emotion relating to this feeling, to a more constructive outlet and not take it out on myself, my outlook on life or those around me. I have a hunch that all this underlying anger is just anxiety directed inward in the form of self flagellation. 
 
-I completed the detox and am taking a new approach when it comes to THC. 
+I completed the four week detox and am taking a new approach when it comes to THC. I have smoked the past weekend fairly heavily and the past two days as well
 
 The Fear of new things 
 
