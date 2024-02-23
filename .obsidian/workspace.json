@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School Planning.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School Planning.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School Planning.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School Planning.md"
+                "file": "Home.md"
               }
             }
           },
@@ -172,9 +172,9 @@
   "active": "f1cd5e835de3a596",
   "lastOpenFiles": [
     "School Planning.md",
+    "Home.md",
     "Channel Ideas.md",
     "Channel Planning.md",
-    "Home.md",
     "School Planning 1/School Planning 1.md",
     "School Planning 1",
     "Working Title, a Personal Journal.md",
