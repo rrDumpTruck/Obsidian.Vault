@@ -523,5 +523,16 @@ Follow through is a thing that I lack in some aspects of my life and it's starti
 
 ---
 Trying Harder
+2/22/24
 
-I completed the detox a
+Usually when I try to accomplish tasks it comes at the request of my mind
+
+I completed the detox and am taking a new approach when it comes to THC. 
+
+The Fear of new things 
+
+The knowing acceptance of the unknowingness of oneself
+
+Finding something to live for
+
+The hatred I have for my own mistakes
