@@ -525,7 +525,7 @@ Follow through is a thing that I lack in some aspects of my life and it's starti
 Trying Harder
 2/22/24
 
-Usually when I try to accomplish tasks it comes at the request of my mind
+Usually when I try to accomplish tasks I follow a thought process of: Knowing the task, asking why the task needs to be done, what is the most efficient way to complete the task. If I fail at completing the task, for a long time I thought it was my fault or a shortcoming of my knowledge as a problem solver. I have realized recently that when I am hard on myself for re
 
 I completed the detox and am taking a new approach when it comes to THC. 
 
