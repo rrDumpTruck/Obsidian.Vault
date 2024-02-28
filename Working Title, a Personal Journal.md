@@ -513,6 +513,7 @@ I have been smoking THC again for about two months after quitting for nearly fou
 
 Execute, Execute, Execute.
 
+
 My anger and sadness have been growing at an alarming rate and I'm really not sure what to think anymore. It's obvious to those around me I am struggling with something, they have started to notice and I need to make a change. The anger, I feel comes from the lack of forward progress I am making in aspects of my life. I am making attempts but nothing seems to find traction in the motivation department, that or something else important demands my attention. I think I've just realized that for the first time I'm in a position where if I wanted to I could do the absolute bear minimum and still pass by with flying colors due to my nature. Deep down I know the sadness comes from the old part of me that fears hard work... I am hurtling towards a bright future that will be very demanding on my time and attention, less room for play means that deep down I am sad for the loss of free time. 
 
 Its time to start the purge. I have used the last of my supply and shall be starting my four week detox. I have pretty much quit cold as of two days ago, at first a small puff here and there if I feel too edgy... but now its gone so that means its time to learn some new emotional skills. Part of me wants to stay in the dark, letting a dulled sense of life wash over instead of through me. The human mind is capable of so much and yet so little, my thoughts are at one moment stagnate but then take a panic inducing pace. I do feel I have been having panic attacks since stopping, usually under a minute but sometimes if I'm alone it just wont stop until I do some breathing exercises. My mind feels as if a touched nerve, rapidly perceiving the world I live in and spotting the doom in everything. I've been through this before though so its at least a little less bad than last year when I had to quit to find a job. Emotional Rampage is a term I have made up for this detoxing phase, if I recall correctly it will subside in a few days... hopefully. 
@@ -522,8 +523,11 @@ Fear and the engagement of new ideas is something I struggle with, especially wh
 Follow through is a thing that I lack in some aspects of my life and it's starting to seem like its related to the problem from the previous paragraph. It may come from my "all or nothing attitude" that I have had for as long as I can remember. A hyperfixation precedes any problem I foresee myself having through the course of any action, almost like locusts devouring a tree my mind sprints to the nearest source of information and queries away. This doesn't play well with my fear of engagement of new ideas/ general anxiety and is something I will need to fix asap. A good plan for this would be: ...
 
 ---
-Trying Harder
+
 2/22/24
+
+Trying Harder
+
 
 Usually when I try to accomplish tasks I follow a thought process of: Knowing the task, asking why the task needs to be done, what is the most efficient way to complete the task. If I fail at completing the task, for a long time I thought it was my fault or a shortcoming of my knowledge as a problem solver. I have realized recently that when I am hard on myself for reasons that are beyond my control it takes the motivation from me, like oil from a well. The longer and harder I dwell on my mistakes, shortcomings or failures... the longer it will take to be comfortable with the person that I am, and the world that I occupy. From now on I will redirect negative emotion relating to this feeling, to a more constructive outlet and not take it out on myself, my outlook on life or those around me. I have a hunch that all this underlying anger is just anxiety directed inward in the form of self flagellation. 
 
