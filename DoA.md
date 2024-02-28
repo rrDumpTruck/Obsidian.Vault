@@ -1,11 +1,11 @@
 ---
 sticker: emoji//1f9e0
 ---
+(Excerpt removed from "Working Title, a Personal Journal") 
 Previously I mentioned that I viewed a couple of different periodical Epochs preceding or being caused by large events in my life. I hope to outline these epochs of experience so that I may glean information on how I developed into the person that I am today. Additionally it may lead to a deeper understanding of who I am, and help me remember that I am a good person.
 
 
-
-**Innocent and Intangible** (1997-2005)
+**Innocent and Intangible (1997-2005)**
 
 From birth until I was about 8 years old I have very little memory, I know that it was largely a non-traumatizing part of my life due to me being fairly fortunate when it comes to having a comfortable and enriching home life at that age. Things that I think helped me grow in this period of time were:
 
@@ -13,7 +13,7 @@ Mom and Dad encouraged me to be curious, in this stage it was largely reading an
 
   
 
-**Naïve and Curious** (2005-2010)
+**Naïve and Curious (2005-2010)**
 
 Just after I started at Salisbury Elementary I feel that I had my "Awakening"... meaning when I started making decisions for myself, solving my own problems and most importantly I realized what my strengths and weaknesses were. The first few years (Kindergarten, 1st and most of 2nd grade) went with out event, I was slow to wake but once the fire was lit I started seeing things very differently, I used my size and intellectual superiority over my peers in detriment to my own life. I suffered from severe anger issues, disrespect for authority and was altogether an annoying little shit to anyone I didn't feel respected me, including teachers, fellow students, my principle and vice principle. In the end the thing that pulled me out of it happened in about 4th grade I think.
 
@@ -37,15 +37,13 @@ Baseball was something that I really enjoyed for a long time. I played from abou
 
 One of the first times I remember experiencing a forlorn feeling of the past is one day when we were living at our house on Wertztown Rd.. I had a habit during the summer of going outside and just hitting the ball around the yard, chasing after it time and time. One time I hit the ball so far it went deep into the woods and I couldn't find it after an hour of looking. This happened the summer after I graduated middle school I think, and after the travel league ended. I sat on the steps of the back porch and cried long and hard. I didn't know why, but now I know that I was grieving over the loss of my team. Looking back I know it was fine for me to feel this way, but I felt like a baby for it, so I hid my love for baseball and eventually grew out of it and my love for it turned into a love of reading, video games and playing the drums.
 
-  
 
-**Morbid Inquisition** (2010-2017) aka. "Past Me"
+**Morbid Inquisition (2010-2017) aka. "Past Me"**
 
 This particular period in my life is probably the most painful to talk about. It will probably end up being the longest of the "Epoch"s of my life as it housed the largest amount of catalytic moments of my life.
 
-  
 
-My Full Understanding of Talent 
+**My Full Understanding of Talent** 
 In seventh or eighth grade I was taken on a trip with my parents to the beach (Ocean City, Maryland). On this trip I was brought to a music night a biker bar, at the time it was legal as long as it was an "open air" establishment. There was a drummer there that played songs that I enjoyed quite a lot and I watched him play for nearly 4 hours that night. Doing amazing solo's and even keeping perfect time so far as I could tell. I approached him with my father and told him that he was awesome and sounded great. My father spoke up after me and told him that I was an aspiring drummer. The look in my fathers eyes as he said it was that of pure pride and excitement. 
 
 On the ride home I kept telling my parents I was going to be like him (the drummer). (During this ride, mom was quite drunk) both applauded my aspiration and mom even cried saying how proud she was and some other praise I don't quite remember. Later that year they bought my PDPx7 drum set and I began a great journey in my life. At first I probably sounded like a trash can being thrown down staircase, but in time I learned discipline and skill are very intermixed. I put as much thought into drumming as I did into video games (not a lot). It wasn't very long until I was playing along to my favorite metal songs and my parents were actually able to recognize the beat. There is a video of my early playing (It's quite bad) that was filmed by my dad and his voice is clearly audible. I have gone back and watched this video and a few other home videos so many times I've lost count, I now have it backed up in numerous places so I never lose it because to me he is still watching me each time I play. 
@@ -54,11 +52,11 @@ I realized too late how much my dad expected of me. To me the true beauty of mus
 
   
 
-What it Means to be Creative
+**What it Means to be Creative**
 
   
 
-The Death of My Father
+**The Death of My Father**
 
 Richard Lee Heist, Jr., 52, of Paradise, died on Monday, September 23, 2013 as a result of an truck accident near Roanoke, VA. He was the beloved husband of Judy A. Hollinger Heist with whom he shared 20 years of marriage. Born in  Somerset, PA, he was the son of Richard Lee Heist Sr. of Somerset and the late Dolores Weimer Heist. 
 
@@ -101,8 +99,6 @@ Back In Black - AC DC
   
 
 I underestimated just how difficult this was to record/write. I always knew it was a very difficult part of my life but I wasn't sure how detached I was from the events following. I was 16 years old when my father died. Ironically the same songs play quite often at weddings, family reunions and even at celebrations. It reminds me every step of the way, certain bands (namely CCR, Metallica, and Journey I keep on current playlists to this day). I hope he is up there listening, and that my listening to it brings me closer to him, it does in my heart at least. The last song I have accurate memory of listening to in his memory is Chicken Fried, as corny as it may be... it holds a special meaning to me and probably always will. I love you Dad.
-
-  
 
 I miss my father so fucking much that it hurts me physically to say it out loud, I am very glad I don't have to speak to record words here because I don't think I ever could otherwise. My father is an unending font of lessons, even if he didn't teach them to me himself I have found the capability to learn them postpartum, for better or for worse. Even today (07/23/23) I was literally incapable of exclaiming to my friends just how much I missed my father.
 
