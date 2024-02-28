@@ -66,17 +66,15 @@ He is survived, in addition to his wife and father, by one son Richard M. Heist 
 
   
 
-The day before he left I helped him write and print multiple copies of a "trip sheet". He always had trouble with formatting in google docs and similar word processors, but I had no issue with helping him and did so excitedly. The following documents can be found on [rmh6055@gmail.com](mailto:rmh6055@gmail.com) 's google drive account... being that the format still exists when you are reading this (hopefully).
+The day before he left I helped him write and print multiple copies of a "trip sheet". He always had trouble with formatting in google docs and similar word processors, but I had no issue with helping him and did so excitedly. The documents can be found on [rmh6055@gmail.com](mailto:rmh6055@gmail.com) 's google drive account... being that the format still exists when you are reading this (hopefully).
 
   
+I wrote the below obituary two days after my fathers passing. It took me a very long time to realize who my father actually was. Like everyone else, he wasn't perfect... he made mistakes but to me he was a hero.
 
-I wrote the above obituary two days after my fathers passing. It took me a very long time to realize who my father actually was. Like everyone else, he wasn't perfect... he made mistakes but to me he was a hero.
-
-  
 
 "There are many things that you do not wish to do in this life and one of them is having to lose someone that you love. He was my dad and I was not expecting this. This week has been the beginning of a change that will take the rest of my life. I will never forget you, I will just keep your memories beside along the journey. I will never forget the memories that I have made with you. Weather it be; Hunting, Riding motorcycles, and spending time with you. And I dread not being able to make more. All that I have to say is I love you and I will miss you. "
 
-Above is an exact transcript of the prepared speech that I had leading up to the day of the funeral. I will list below what I remember saying, based on the fact that I was too emotional to go off of cues I spoke from the heart and delivered a very personal speech. I was told afterwards that the words I said would touch their hearts "forever" and I hope they were telling the truth because it may be the most true statement I have said.
+Above is an exact transcript of the prepared speech that I had leading up to the day of the funeral. I will list below what I remember saying, based on the fact that I was too emotional to read the speech verbatim I spoke from the heart and delivered a very personal speech. I was told afterwards that the words I said would touch their hearts "forever" and I hope they were telling the truth because it may be the most true statement I have said.
 
 "There are many things that you don't wish to have happen to you in this life, for me it was losing someone so close to you... He was my dad, and I wasn't expecting this. This week has been the beginning of a change that will take the rest of my life. I will never forget you, I will just keep the memories alongside the journey. I will never forget the memories that I have made with you. Weather it be hunting, riding motorcycles or spending time with you... I dread not being able to make more. All that I have to say is that this moment is like a blade being forged, this being the quenching bath after leaving the furnace of grief that this event has and will continue to be... All that I have to say is that I love you, and I will miss you. "
 
