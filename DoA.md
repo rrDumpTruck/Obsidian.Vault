@@ -133,24 +133,16 @@ Second Job at Dutch Wonderland (Ride Opp.)
 
 Christmas Museum & Rachel
 
-
-
-
-  
-
-  
-
 and so on
 
-  
 
 **Banal Partiality** (2018-2021)
+
+My Job at Hershey Farm Inn
 
 Reading: Dostoevsky, Tolstoy, Steppenwolf, Lolita, Fahrenheit 451, Blood Meridian, Catcher in the Rye, Game of Thrones, and the Hyperion Cantos (in that order)
 
 
-
-My Job at Hershey Farm Inn
 
 
 
