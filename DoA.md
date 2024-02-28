@@ -142,9 +142,7 @@ My Job at Hershey Farm Inn
 
 Reading: Dostoevsky, Tolstoy, Steppenwolf, Lolita, Fahrenheit 451, Blood Meridian, Catcher in the Rye, Game of Thrones, and the Hyperion Cantos (in that order)
 
-
-
-
+Applying 
 
 John's Hard Metal Band
 
@@ -154,7 +152,13 @@ John's Hard Metal Band
 
 **Ignorant Enlightenment** (2022-Present?)
 
-  
+Leaving Hershey Farm Inn
+
+New Job at Clark Electric
+
+Trying Dungeons & Dragons
+
+
 
   
 
