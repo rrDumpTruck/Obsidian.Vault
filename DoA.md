@@ -64,13 +64,9 @@ Richard was employed by Schumaker Trucking.
 
 He is survived, in addition to his wife and father, by one son Richard M. Heist at home, one stepdaughter; Amanda Daily of Narvon, three step grandchildren and two sisters Tammy Higgins of Alexandria, VA and Nancy Heist of Woodbridge, VA. He was preceded in death by  one brother Michael Heist and one stepdaughter Heather Daily.
 
-  
-
 The day before he left I helped him write and print multiple copies of a "trip sheet". He always had trouble with formatting in google docs and similar word processors, but I had no issue with helping him and did so excitedly. The documents can be found on [rmh6055@gmail.com](mailto:rmh6055@gmail.com) 's google drive account... being that the format still exists when you are reading this (hopefully).
-
   
 I wrote the below obituary two days after my fathers passing. It took me a very long time to realize who my father actually was. Like everyone else, he wasn't perfect... he made mistakes but to me he was a hero.
-
 
 "There are many things that you do not wish to do in this life and one of them is having to lose someone that you love. He was my dad and I was not expecting this. This week has been the beginning of a change that will take the rest of my life. I will never forget you, I will just keep your memories beside along the journey. I will never forget the memories that I have made with you. Weather it be; Hunting, Riding motorcycles, and spending time with you. And I dread not being able to make more. All that I have to say is I love you and I will miss you. "
 
@@ -95,12 +91,9 @@ Butterfly Kisses - Bob Carlisle
 Back In Black - AC DC
 (Everything I Do)I Do It For You - Journey
   
-
 I underestimated just how difficult this was to record/write. I always knew it was a very difficult part of my life but I wasn't sure how detached I was from the events following. I was 16 years old when my father died. Ironically the same songs play quite often at weddings, family reunions and even at celebrations. It reminds me every step of the way, certain bands (namely CCR, Metallica, and Journey I keep on current playlists to this day). I hope he is up there listening, and that my listening to it brings me closer to him, it does in my heart at least. The last song I have accurate memory of listening to in his memory is Chicken Fried, as corny as it may be... it holds a special meaning to me and probably always will. I love you Dad.
 
 I miss my father so fucking much that it hurts me physically to say it out loud, I am very glad I don't have to speak to record words here because I don't think I ever could otherwise. My father is an unending font of lessons, even if he didn't teach them to me himself I have found the capability to learn them postpartum, for better or for worse. Even today (07/23/23) I was literally incapable of exclaiming to my friends just how much I missed my father.
-
-  
 
 I may not be prepared to write this section of my life but I will try anyway, regardless of consequence. In chronological order...
 
@@ -110,19 +103,11 @@ I was performing under expectations, not focusing on the correct things for some
 
 I was coming home from school on a Monday afternoon, wheeling the trash can in from the Sunday trash pickup, when I realized that my entire extended family was on my front porch. I immediately asked what was wrong, intuitively knowing that this doesn't usually happen. The first person I remember seeing was my sister, who led me to my mother and we all collectively convulsed and sobbed together... lamenting the unfortified death of the only man I had looked up to in my life. Turns out... my father had died the night before I went to school, and "people" thought it would be a good idea to wait until I went home to tell me. I don't remember my classes, barely what grade I was in... but what I do remember is the cries of my mother and myself. Like wounded animals we lamented the loss, crying without thought, feeling without thinking the grief poured over all of us like a waterfall on a speck of dust. I cannot find one person who was there that remembers what happened exactly during this event, I believe we all blocked it from our memory... we found it so traumatizing. But I remember,  it was an extremely extended period of  existential anguish. Nothing more. The pain radiates like Chernobyl, the memory still as real as the day all of it happened, yet still I can't find a single account that remembers the same events that I do.
 
-  
-
 The first memory I have after this is multiple days after. I sprang into action, determining myself as the most valid candidate to form my fathers obituary and funeral playlist. I have recorded the obit/playlist above before the recollection of the day of death. The process was therapeutic for me at the time. I think it was because it turned out to be the only thing I had control of during that time, though I believe that I probably shouldn't have been put on my shoulders as squarely as it was. I feel I did a stupendous job for a sophomore in high school, and would gladly write the same speech again, if in exclusion of the minor spelling and typos... but that is forgiven due to the circumstance.
-
-  
 
 I was slow to rejoin my friends at school, thinking at every moment in the back of my mind that Dad wasn't there to watch so "what was the point". This was entirely my fault, Dad has been watching me from the day that he left this world. A part of me at this point, and a smaller part still wonders if he left accidentally as the reports say. So many of the conversations between me and my mother regarding Dad usually end in her exclaiming that "Paul Barthel" killed him while negotiating a new business they were planning on starting. I think this is unlikely, but only due to Occam's razor and no concrete evidence like I would prefer. Sometimes when I am drunk I claim to be on a vengeance path to "Paul", but honestly I doubt I will ever consider following that avenue to its end. If I am wrong I am sure that Dad will give me a sign otherwise.
 
-  
-
 A friend I made during my late freshman and late sophomore year named John Simmers showed great support during a time of great need for me. He showed up to the funeral, played games with me while I was grieving and even encouraged me to find bigger and better things once he moved on from school (he was one year ahead of me in school). (I tried reaching out recently, he said that he is into fishing but has 3 kids so finding the time is difficult lol).  We lost touch for a while after he graduated, trying to start a band later but that idea fell apart for reasons beyond our control.
-
-  
 
 A year after John went into vocational school during my junior year I found myself without friends. I gravitated towards people I knew already (Zach Martin, Nick Detore, Steven Boepel, and a few others not worth mentioning primarily. I have since realized this group of friends to be my actual friend group from my freshman year and beyond, I ignored them due to a misunderstanding in a videogame from my freshman year, possibly before that even. I was lost... and eventually I found a purpose, a friend (Nick Detore) recommended I join "Chamber Singers" or concert choir to start. I was lucky, I tried out for concert choir and the teacher who I was auditioning for (Nathan Bankert) granted me a spot almost immediately, even going as far as recommending I join Chamber Singers. That was it, I was in... the first choir experience was one of the weirdest things I have experienced... a feeling of belonging and yet still foreign like a language you do not yet speak. I remember my mothers reaction when I told her I changed my schedule to include concert choir, and eventually chamber singers. I can't really remember a time where she was a happy for me as then, and I can understand why. Personally I believe this was one of the most important moments in my life. I could have chosen to sit back, take what comes to me and apply myself to a course of study that isn't requiring of my creative skills like math or physics. Instead I was led down a road of perpetual growth and replenishment of my will to live... I cannot think of anything to say except thank you Nick. I may have just become another statistic, or even worse... "you" have no idea what my mind was like during this time, and the fact that you recommended this and were there for me throughout means the universe to me... I am still searching for ways to repay you.
 
@@ -136,9 +121,16 @@ I rode very highly on the aftershock of this event. My grades in my senior year 
 
 Unfortunately I am too drunk/tired to continue this incredibly heart wrenching memoir, I hope in the future to make it much worse (and more painful) for myself by way of relaying the past🙂
 
-  
+Into The Woods
 
-  
+Graduation
+
+
+
+
+
+Absentminded stagnation
+
 
   
 
@@ -152,7 +144,11 @@ and so on
 
 Reading: Dostoevsky, Tolstoy, Steppenwolf, Lolita, Fahrenheit 451, Blood Meridian, Catcher in the Rye, Game of Thrones, and the Hyperion Cantos (in that order)
 
-  
+
+
+My Job at Hershey Farm Inn
+
+
 
 John's Hard Metal Band
 
