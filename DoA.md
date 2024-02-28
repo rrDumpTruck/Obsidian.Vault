@@ -125,11 +125,15 @@ Into The Woods
 
 Graduation
 
-
-
-
-
 Absentminded stagnation
+
+First Job at Weis
+
+Second Job at Dutch Wonderland (Ride Opp.)
+
+Christmas Museum & Rachel
+
+
 
 
   
