@@ -142,7 +142,9 @@ My Job at Hershey Farm Inn
 
 Reading: Dostoevsky, Tolstoy, Steppenwolf, Lolita, Fahrenheit 451, Blood Meridian, Catcher in the Rye, Game of Thrones, and the Hyperion Cantos (in that order)
 
-Applying 
+Applying myself at learning more on drums, writing and speaking
+
+
 
 John's Hard Metal Band
 
