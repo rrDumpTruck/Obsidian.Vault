@@ -50,7 +50,7 @@ In seventh or eighth grade I was taken on a trip with my parents to the beach (O
 
 On the ride home I kept telling my parents I was going to be like him (the drummer). (During this ride, mom was quite drunk) both applauded my aspiration and mom even cried saying how proud she was and some other praise I don't quite remember. Later that year they bought my PDPx7 drum set and I began a great journey in my life. At first I probably sounded like a trash can being thrown down staircase, but in time I learned discipline and skill are very intermixed. I put as much thought into drumming as I did into video games (not a lot). It wasn't very long until I was playing along to my favorite metal songs and my parents were actually able to recognize the beat. There is a video of my early playing (It's quite bad) that was filmed by my dad and his voice is clearly audible. I have gone back and watched this video and a few other home videos so many times I've lost count, I now have it backed up in numerous places so I never lose it because to me he is still watching me each time I play. 
 
-I realized too late how much my dad expected of me. 
+I realized too late how much my dad expected of me. To me the true beauty of musical talent is that it lies bare the soul of the player if played well. Even a "noisy" instrument like a drum-set can show your passions and love for music. I was only in a band for a short time in high school, and a fractional upstart after high school. This is one of my only regrets; I wish I would have tried harder to pursue drums as a career possibility or even as a professional interest. Its obviously not too late, considering how my playing has improved in even just the last year(2024). 
 
   
 
@@ -76,7 +76,7 @@ I wrote the above obituary two days after my fathers passing. It took me a very 
 
   
 
-"There are many things that you do not wish to do in this life and one of them is having to lose someone that you love. He was my dad and I was not expecting this. This week has been the beginning of a change that will take the rest of my life. I will never forget you, I will just keep your memories beside along the journey. I will never forget the memories that I have made with [you.Weather](http://you.Weather) it be; Hunting, Riding motorcycles, and spending time with you. And I dread not being able to make more. All that I have to say is I love you and I will miss you. "
+"There are many things that you do not wish to do in this life and one of them is having to lose someone that you love. He was my dad and I was not expecting this. This week has been the beginning of a change that will take the rest of my life. I will never forget you, I will just keep your memories beside along the journey. I will never forget the memories that I have made with you. Weather it be; Hunting, Riding motorcycles, and spending time with you. And I dread not being able to make more. All that I have to say is I love you and I will miss you. "
 
 Above is an exact transcript of the prepared speech that I had leading up to the day of the funeral. I will list below what I remember saying, based on the fact that I was too emotional to go off of cues I spoke from the heart and delivered a very personal speech. I was told afterwards that the words I said would touch their hearts "forever" and I hope they were telling the truth because it may be the most true statement I have said.
 
@@ -85,36 +85,22 @@ Above is an exact transcript of the prepared speech that I had leading up to the
 Below for reasons of posterity, are the tracks I prepared with my mother and sister for my fathers funeral "soundtrack" (In order)
 
 With Your Love - Journey
-
 Fade to Black - Metallica
-
 Sweet Home Alabama -Lynyrd Skynyrd
-
 I'm Already There - Lonestar
-
 Faithfully - Journey
-
 I've been watching you - Rodney Adkins
-
 I Was Made For Lovin' You Baby - Kiss
-
 Have You Ever Seen The Rain - Creedence Clearwater Revival
-
 Far Away - Nickelback
-
 Fortunate Son - Creedence Clearwater Revival
-
 Chicken Fried - Zac Brown Band
-
 Butterfly Kisses - Bob Carlisle
-
 Back In Black - AC DC
-
 (Everything I Do)I Do It For You - Journey
-
   
 
-I underestimated just how difficult this was to record/write. I always knew it was a very difficult part of my life but I wasn't sure how detached I was from the events following. I was 16 years old when my father died. Ironically the same songs play quite often at weddings, family reunions and even at celebrations. It reminds me every step of the way, certain bands (namely CCR, Metallica, and Journey I keep on current playlists to this day). I hope he is up there listening, and that my listening to it brings me closer to him, it does in my heart at least. The last song I have accurate memory of lisenting to in his memory is Chicken Fried, as corny as it may be... it holds a special meaning to me and probably always will. I love you Dad.
+I underestimated just how difficult this was to record/write. I always knew it was a very difficult part of my life but I wasn't sure how detached I was from the events following. I was 16 years old when my father died. Ironically the same songs play quite often at weddings, family reunions and even at celebrations. It reminds me every step of the way, certain bands (namely CCR, Metallica, and Journey I keep on current playlists to this day). I hope he is up there listening, and that my listening to it brings me closer to him, it does in my heart at least. The last song I have accurate memory of listening to in his memory is Chicken Fried, as corny as it may be... it holds a special meaning to me and probably always will. I love you Dad.
 
   
 
