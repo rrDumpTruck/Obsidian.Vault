@@ -1,0 +1,3 @@
+First and foremost fuck your spelling and puncutation, it can be corrected later, you must let the thoughts flow then go back and fix them later. Secondly feel your emotions and let them flow here and be honest with yourself about them so that you have a full and thourough flow of inner dialouge. 
+
+I am a broken man. A man nontheless... I have all my life felt like something was missing, I have trouble starting this thought simply due to the difficult nature of the questions it encompasses. First thing that comes to mind is the fact that I feel simultaneously that I worship a god that I dont belive in, yet part of me has the firm belief 

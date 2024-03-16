@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Fragmented.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Fragmented.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Fragmented.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Fragmented.md"
               }
             }
           },
@@ -182,6 +182,8 @@
   "active": "f1cd5e835de3a596",
   "lastOpenFiles": [
     "Working Title, a Personal Journal.md",
+    "Fragmented.md",
+    "DoA.md",
     "Home.md",
     "School Planning.md",
     "Channel Ideas.md",
@@ -189,7 +191,6 @@
     "School Planning 1/School Planning 1.md",
     "School Planning 1",
     "school .md",
-    "DoA.md",
     "Memories.md",
     "Active Projects/(Current Project) Bladerunner (1982)/Project Notes.md",
     "Active Projects/(Current Project) Bladerunner (1982)/Video Script.md",
