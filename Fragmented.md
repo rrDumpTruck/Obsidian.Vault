@@ -10,4 +10,4 @@ My sister plays  abig part in my outlook on life. She had every possibility to m
 
 It is becoming ever more obvious to me that I need to ask for heplp from someone who understantds these type of problems, there has eto be some kind of person that is able to fix the ciclical pattern that my brain is ikn currently. 
 
-I see a thing that 
+I see a thing that needs to be done, look at all the details and find onereason of chance that the thing that causes  me pause has over my situation, and decide not to execute. This  one problem is the thing that causes me the most pain in my life I think. My drinking, past smoking, and even my worldview is caused by this one problem I think. But then again I had the idea that my hearty was failing and that turend out to just be an anxiety problem. A regual rhearrtt beat, nearly perfect bloodwork, minor vitimin deficiency, and for some reason I have a hard time beliving that I am ok. I want to be thankful to god, but I fear that he doesn't exist and that I am lying to myself about his existence to mane myself feel better. 
