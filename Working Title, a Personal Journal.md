@@ -544,3 +544,5 @@ The hatred I have for my own mistakes is a common downfall for people like me, i
 ---
 
 The Future?
+
+I have taken many steps forward towards the acceptance and requital of the fact that my future will not come and pick me up, like some sort of mother after football practice. I need to go out and get it. For too long I have been kept low by my own expectations of merely meeting the cultural requisites of effort and interest. I need to make myself better... still. For a long time I thought that I was wise avoiding the course of college>job>family. But the 
