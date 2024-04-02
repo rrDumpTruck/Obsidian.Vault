@@ -30,4 +30,5 @@ https://amspub.abet.org/aps/name-search?searchType=institution
 
 Possible Schools: 
 1. Arizona State University (Electrical Engineering Online Program)
-2. 
+2. The University of Southern Mississippi (Electronics Engineering Program)
+3. 
