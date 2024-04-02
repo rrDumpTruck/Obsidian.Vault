@@ -25,13 +25,14 @@ Go to community college for gen ed. courses to save money.
 Transfer credits to as highly accredited an online program as I can. 
 
 
-https://amspub.abet.org/aps/name-search?searchType=institution
-
+https://www.abet.org/
 
 Possible Schools: 
 1. Arizona State University (Electrical Engineering Online Program)
 *Last interaction, contacted ASU for information on their Electrical Engineering Program*
 Cost: ?
+First Year Requirements: 
+
 Transferability from CC (if necessary)
 1. The University of Southern Mississippi (Electronics Engineering Program) - UNSURE IF STILL AVAILABLE
 2. 
