@@ -42,4 +42,4 @@ Transferability from CC (if necessary)
 **Wait to hear from ASU, follow their steps? Follow up in a week.**
 
 
-Willow Valley Colledge fund?
+Willow Valley Team Member Education Fund: ??? Find out from management. 
