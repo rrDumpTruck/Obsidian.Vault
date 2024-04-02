@@ -35,5 +35,11 @@ First Year Requirements:
 https://admission.asu.edu/apply/first-year/admission#:~:text=ACT%20or%20SAT%20scores%20(optional,ASU%20in%20our%20FAQ%20section.
 
 Transferability from CC (if necessary)
-1. The University of Southern Mississippi (Electronics Engineering Program) - UNSURE IF STILL AVAILABLE
-2. 
+1.The University of Southern Mississippi (Electronics Engineering Program) - UNSURE IF STILL AVAILABLE
+
+
+**Next steps:** 
+**Wait to hear from ASU, follow their steps? Follow up in a week.**
+
+
+Willow Valley Colledge fund?
