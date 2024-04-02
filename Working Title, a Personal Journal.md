@@ -543,6 +543,12 @@ The hatred I have for my own mistakes is a common downfall for people like me, i
 
 ---
 
-The Future?
+The Future? 4/2/24
 
-I have taken many steps forward towards the acceptance and requital of the fact that my future will not come and pick me up, like some sort of mother after football practice. I need to go out and get it. For too long I have been kept low by my own expectations of merely meeting the cultural requisites of effort and interest. I need to make myself better... still. For a long time I thought that I was wise avoiding the course of college>job>family. But the 
+I have taken many steps forward towards the acceptance and requital of the fact that my future will not come and pick me up, like some sort of mother after football practice. I need to go out and get it. For too long I have been kept low by my own expectations of merely meeting the cultural requisites of effort and interest. I need to make myself better... still. For a long time I thought that I was wise avoiding the course of college>job>family. But the closer I look the more I realize that if I want to use my mind to make money it is the only way. College expects much of me in the way of hard work but I can and will pass through the process no matter how long it takes me. 
+
+I constantly doubt myself. It is a primary flaw of mine, that I will learn to work through one way or another. I am slowly realizing that everyone else is like me (or so I think), falling constantly simply grabbing around them in the dark for handholds of permanency, only to realize everything nearby is impermanent by its mere e 
+
+Somehow I am still alive... 
+
+To bear witness. 
