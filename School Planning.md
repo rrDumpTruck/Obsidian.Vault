@@ -26,3 +26,7 @@ Transfer credits to as highly accredited an online program as I can.
 
 
 https://amspub.abet.org/aps/name-search?searchType=institution
+
+
+Possible Schools: 
+1. Arizona State University (Electrical Engineering Online Program)
