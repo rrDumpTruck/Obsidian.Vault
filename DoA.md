@@ -133,6 +133,7 @@ Christmas Museum & Rachel
 
 and so on
 
+BECAUSE YOU FEEL THE CONSTANT INEQUIUTDE WHEN FACED WITH THE TRUE VERSION OF TODAYS EVENTS you find it plausible to not follow up wit todays constraints. 
 
 **Banal Partiality** (2018-2021)
 
