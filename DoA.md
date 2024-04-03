@@ -113,15 +113,9 @@ A year after John went into vocational school during my junior year I found myse
 
 Shortly after my involvement in Chamber Singers started I began my interest in Musical, initially believing I would get a chorus part but being encouraged (by Mr. Bankert) to join as a lead role. I prepared it, sang it time and again... then eventually I got it, the role of Ubaldo Piangi in my local High School production of Phantom of the Opera. Rehearsals taught me a lot about accountability and responsibility. Eventually we made it to the production dates... believe it or not my grandpa came, along with both of my aunts on my Dad's side. It felt so bittersweet, all my life my grandpa and Dad had a difficult relationship... he was happy to see me but I feel it was in spite of my father's relationship to it all... but all I cared about during opening night was the opinion of my mother and aunt. I killed it, I was told I sang so loud during my part that they could hear me from the parking lot... not surprising considering how loud I am as a singer, especially when trying to reach higher notes.
 
-I rode very highly on the aftershock of this event. My grades in my senior year were affected, people considered me "healed" but I was not in fact... not even fucking close. I edged closer to accepting my lot in life before ultimately "coming to reality" in 
+I rode very highly on the aftershock of this event. My grades in my senior year were affected, people considered me "healed" but I was not in fact... not even fucking close. I edged closer to accepting my lot in life before ultimately "coming to reality" in the second quarter of my senior year, when I came to the conclusion that my mother was unable to continue on by herself long enough for me to pursue a college career. I had secured a nearly full ride at a liberal arts school for a computer science degree at Cabrini University in King of Prussia, Pennsylvania. This fact and the fact that I was terrified of what came after high school led to me ultimately shutting down my response to deadlines due to the overwhelming feeling of an impossible decision. 
 
-  
-
-  
-
-Unfortunately I am too drunk/tired to continue this incredibly heart wrenching memoir, I hope in the future to make it much worse (and more painful) for myself by way of relaying the past🙂
-
-Into The Woods
+During my senior year Into The Woods
 
 Graduation
 

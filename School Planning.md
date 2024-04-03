@@ -43,3 +43,5 @@ Transferability from CC (if necessary)
 
 
 Willow Valley Team Member Education Fund: ??? Find out from management. 
+
+Contact Cabrini to see if the scholarship they offer is still applicable? 
