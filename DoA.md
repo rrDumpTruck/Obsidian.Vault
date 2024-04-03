@@ -125,7 +125,7 @@ Contrary to popular belief I did in fact get my high school diploma, thanks in n
 
 Absentminded stagnation is how I would describe the time that followed graduation. Nearly a year and a half of quietly trying to make my life the most comfortable it could be. The lack of memory speaks to the state of mind I was in during this time. I viewed any sort of "work" as something not worth seeking. All the while being the most negative version I remember of myself, most days barely getting out of bed with less than 12hrs of sleep. I am my own constant ruination during this stage of my life. My mother tried her best to get me out of the slump I found myself, but no matter her efforts I stayed stagnant without influence from friends or family. Most of my school friends pretty much abandoned me immediately (showing their actual level of care) but some stuck by my side, forging the path by way of their own lives (going to college, along with companionship) I follow them now, for better or worse but delayed is better than never at all. Luckily it turns out that college is accessible even after high school.
 
-My First Job was at Weis markets, in Gap PA. 
+My First Job was at Weis markets, in Gap PA. I am unable to find bank records of it(which is alarming) but I belive it was around when I was 
 
 Second Job at Dutch Wonderland (Ride Opp.)
 
