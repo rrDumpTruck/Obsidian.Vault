@@ -127,7 +127,7 @@ Absentminded stagnation is how I would describe the time that followed graduatio
 
 My First Job was at Weis markets, in Gap PA. I am unable to find bank records of it(which is alarming) but I believe it was around when I was 19-20. The main thing I recall is that it was confusingly accordant to regulations. People would constantly claim it was against regulation and then violate the rule they were setting, I remember most how my ankles hurt when I started, I was unused to constant standing in place, it seemed so inconsequential even when based on the current state of things (it burned down in 2020-2022 not sure). I quit in 2020 due to lack of attendance, I was lazy, not fit for a job or a place and probably deserving a firing round if I was honest with myself.
 
-My Second Job was  at Dutch Wonderland. I was so infatuated with video games namely Rust, that I was unable to maintain my consequences to myself. I have a major memorty when I recall myself 
+My Second Job was  at Dutch Wonderland. I was so infatuated with video games namely Rust, that I was unable to maintain my consequences to myself. I have a major memory when I recall myself 
 
 Christmas Museum & Rachel
 
@@ -174,6 +174,8 @@ When did I get my first rifle?
 
 Was I good at football?
 
-  
+I REEALY WANT TO KNOW WHEN DAN(WV) EXPERIENCED WHAT FEELS LIKE TO LIMIT HUMANITY
+
+
 
 I will have to come back to this later, it's more that I thought I remembered, and needs to be written down somewhere before I forget it or change my memories of it.
