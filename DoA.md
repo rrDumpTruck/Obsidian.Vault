@@ -115,7 +115,7 @@ Shortly after my involvement in Chamber Singers started I began my interest in M
 
 I rode very highly on the aftershock of this event. My grades in my senior year were affected, people considered me "healed" but I was not in fact... not even fucking close. I edged closer to accepting my lot in life before ultimately "coming to reality" in the second quarter of my senior year, when I came to the conclusion that my mother was unable to continue on by herself long enough for me to pursue a college career. I had secured a nearly full ride at a liberal arts school for a computer science degree at Cabrini University in King of Prussia, Pennsylvania. This fact and the fact that I was terrified of what came after high school led to me ultimately shutting down my response to deadlines due to the overwhelming feeling of an impossible decision. 
 
-During my senior year Into The Woods
+During my senior year I was in the Musical program, and that year they decided to perform Into The Woods, a Disney musical about the amalgamation of a slew of fairy tale characters for a "modern audience". Quite a good musical on paper, I was nonplussed when I received the role of the narrator and "old man" who played a minor role as the father to the main character "the baker". I think this is where my feeling of inequity started, but it's as likely as not. In the tail end of that school year my school decided out of the blue to implement a program where if you had a C in any class you could no longer attend after school functions (this excluded sports for some fucking reason), since I got a a singular test in my Honors Calculus 
 
 Graduation
 
