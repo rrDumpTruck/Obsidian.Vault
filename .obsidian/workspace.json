@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs.md",
+                "file": "Locations.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs.md",
+                "file": "Locations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs.md",
+                "file": "Locations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs.md"
+                "file": "Locations.md"
               }
             }
           },
@@ -205,15 +205,16 @@
   },
   "active": "94acf2b26de4a6e1",
   "lastOpenFiles": [
-    "The Timeline.md",
+    "Locations.md",
+    "TO DO.md",
     "NPCs.md",
+    "The Timeline.md",
     "Home.md",
     "Channel Ideas.md",
     "Active Projects/(Current Project) Bladerunner (1982)/Video Script.md",
     "Active Projects/(Current Project) Bladerunner (1982)/Project Notes.md",
     "Active Projects/(Current Project) Bladerunner (1982)/Plot Summary.md",
     "The Veins Session 0 Handout .md",
-    "TO DO.md",
     "School Planning.md",
     "DoA.md",
     "Working Title, a Personal Journal.md",

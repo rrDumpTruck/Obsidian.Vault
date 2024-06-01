@@ -2,6 +2,7 @@
 sticker: emoji//1f9cd
 ---
 # <span style="color:#ffc000">The Precursors</span>
+	The precursors are those who exist in the plane of The Veins, but are stuck as outside observers due to their immense power. You may call on them but at great peril. 
 
 **Eresiod** - also known as “THE WATCHER” by the denizens of The Veins
 
@@ -60,30 +61,25 @@ _and (following the most recent world Convergence event)_
 ---
 
 # <span style="color:#ff0000">The Formless</span> 
-
-The Formless are an entity of forgotten origin and inconclusive complexity. It is composed of countless personifications of people who are a representative of one or many Sins. Currently the only form with a name goes by the name of the Sleeper, she used to be the wife of the Warden during their mortal life. 
+	The Formless are an entity of forgotten origin and inconclusive complexity. It is composed of countless personifications of people who are a representative of one or many Sins. Currently the only form with a name goes by the name of the Sleeper, she used to be the wife of the Warden during their mortal life. 
 
 <span style="color:#ffc000">The Limper (Highlands) </span>
-
-(Ereball) - gain through violence, vengeance, greed
+	(Ereball) - gain through violence, vengeance, greed
 
  Saint Haelou (Saint of Vengeance) - Ruler of Galolir and her vast armies.   
 
 <span style="color:#7030a0">The Sleeper (Stygian Forest)</span>
-
-(Lyralel) - gain through romance, lust, poisoning, deceit 
+	(Lyralel) - gain through romance, lust, poisoning, deceit 
 
 Backstory: she used to be the wife of the Warden during their mortal life. Only those who are chosen know her real name (previously her mortal name). 
 
 <span style="color:#ff0000">The Harvester (Plateau) </span>
-
-(Damocan) -  hatred, cruelty, bloody conquest, torture  
+	(Damocan) -  hatred, cruelty, bloody conquest, torture  
 
  **Saint Damius** (Saint of Conquest for greed) - Founder of Opportunity and now ruler of The Plateau. 
 
 <span style="color:#92d050">The Listener (Wastes) </span>
-
-(Radigan) - forgotten knowledge, craving for knowledge, addiction, jealousy  
+	(Radigan) - forgotten knowledge, craving for knowledge, addiction, jealousy  
 
  **Saint Tynen** (Saint of Jealousy) - Ruler of the Ashen Wastes and leader of the Profligate City during its fall.  Lurks in his laboratory trying to decipher the Amulet of the Herald. 
 
@@ -103,12 +99,12 @@ No named locations yet because of lack of contextual evidence for one. Just tale
 
 <span style="color:#ffc000">The Ashen Wastes - E </span>
 
-Asher’s Garden
-
-M - Asher the Wanderer: Characterized by his want to be left alone, this eclectic older man leads a solitary lifestyle and is secretly working on a organic version of the key provided by the Amulet of the Herald, that will allow him to pass through the convergence after having failed to convince Saint Tynen of his need for the Amulet. 
+<span style="color:#7030a0">Asher’s Garden</span>
+	M - Asher the Wanderer: Characterized by his want to be left alone, this eclectic older man leads a solitary lifestyle and is secretly working on a organic version of the key provided by the Amulet of the Herald, that will allow him to pass through the convergence after having failed to convince Saint Tynen of his need for the Amulet. 
 
 ---
 
-## The Glistering Highlands - South
+<span style="color:#ffc000">The Glistering Highlands - South</span>
 
-M - Vassa: A man whose time has run out. Three months ago he arrived here as “the second Herald” according to the Ripper, who is currently holding him captive in his tower located at the top of the highest mountain in the Glistering Highlands.
+<span style="color:#7030a0">Mysterious Tower (tm)</span>
+	M - Vassa: A man whose time has run out. Three months ago he arrived here as “the second Herald” according to the Ripper, who is currently holding him captive in his tower located at the top of the highest mountain in the Glistering Highlands.
