@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "The Veins Session 0 Handout .md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "The Veins Session 0 Handout .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "The Veins Session 0 Handout .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "The Veins Session 0 Handout .md"
               }
             }
           },
@@ -201,11 +201,12 @@
   },
   "active": "f1cd5e835de3a596",
   "lastOpenFiles": [
+    "The Veins Session 0 Handout .md",
+    "Home.md",
     "School Planning.md",
     "DoA.md",
     "Working Title, a Personal Journal.md",
     "Fragmented.md",
-    "Home.md",
     "Channel Ideas.md",
     "Channel Planning.md",
     "School Planning 1/School Planning 1.md",

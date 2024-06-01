@@ -61,8 +61,6 @@
     "/",
     null,
     "Obsidian.Vault",
-    "Personal Stuff",
-    "D&D",
     null
   ],
   "openFolders": [],
@@ -96,7 +94,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1710559179971,
+  "spacesAutoBackupLast": 1717279981148,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
