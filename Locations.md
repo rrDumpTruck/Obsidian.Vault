@@ -75,45 +75,35 @@ sticker: emoji//1f5fa-fe0f
 <span style="color:#00b0f0">Galolir</span>
 	Galolir is the most populous city in the world, boasting amazing defenses in valley with a naturally formed lava bridge it has never been successfully sieged. The people safe underground busy themselves with mining at the expansive Maleorite mines that eventually are turned into new homes. Saint Haelou rules over Galolir and her vast armies not making many plays for power but seemingly biding his time. 
 
-Path of Truth 
+<span style="color:#00b050">Path of Truth </span>
+	The Path of Truth leads through a ravine leading to the top of the Highlands highest peak, on which sits a tower a great distance away. The place is the subject of many rumors, and may lead to a test of some sort that leads to a tower.
 
-The Path of Truth leads through a ravine leading to the top of the Highlands highest peak, on which sits a tower a great distance away. The place is the subject of many rumors, and may lead to a test of some sort that leads to a tower.
-
-Tower of the Ripper
-
-The home of a very powerful warlock named the Ripper. He is secretly keeping the second Herald “Vassa” captive hoping to learn something from his presence. So far he has progressed little with his plans on becoming a formless, but he thinks learning how the Herald was able to travel through this will help him with that. 
+<span style="color:#7030a0">Tower of the Ripper</span>
+	The home of a very powerful warlock named the Ripper. He is secretly keeping the second Herald “Vassa” captive hoping to learn something from his presence. So far he has progressed little with his plans on becoming a formless, but he thinks learning how the Herald was able to travel through this will help him with that. 
 
   
-
 ---
 
-## Stygian Forest - West
+<span style="color:#ffc000">Stygian Forest - West</span>
+	A densely packed forest of tall trees that obscures most outside light and noise. Around each tree dances lantern flies that glow blue during the nighttime, and the floor is bare dirt and stone. Home to all manner of beast and spirit it has made an end to many who enter it. The source of nutrients for the immense number of trees is a great mystery but there are tales of a secret place deep in the wood that has to find you. 
 
-A densely packed forest of tall trees that obscures most outside light and noise. Around each tree dances lantern flies that glow blue during the nighttime, and the floor is bare dirt and stone. Home to all manner of beast and spirit it has made an end to many who enter it. The source of nutrients for the immense number of trees is a great mystery but there are tales of a secret place deep in the wood that has to find you. 
+<span style="color:#00b0f0">Slumberglade</span>
+	In the heart of the Stygian Forest lies a city known as Slumberglade, or the glade by some. A ovular gigantic palisade wall of spiked trees line its foreboding exterior and inside you will find a closely guarded natural haven. The Glade was founded by the worlds first druids in 27 A.C. after being created by The Sleeper. 
 
-## Slumberglade
+<span style="color:#00b0f0">The Ranch </span>
+	A strange man named Bugfucker lives here. He **used to be a very accomplished magical Biomancer that ran a druid school in the city of (((insert stygian forest main city)))** 
 
-In the heart of the Stygian Forest lies a city known as Slumberglade, or the glade by some. A ovular gigantic palisade wall of spiked trees line its foreboding exterior and inside you will find a closely guarded natural haven. The Glade was founded by the worlds first druids in 27 A.C. after being created by The Sleeper. 
+<span style="color:#7030a0">Greengrove</span>
+	A small settlement of tree farmers that plant saplings of the same type of tree that grows naturally in the Stygian Forest. For some reason they can’t determine all of their trees halt growth after they reach adulthood (2 years or 8-10ft). <span style="color:#ff0000">This reason is due to a baby Eldertree has sprouted beneath their home, and can be found in a nearby cave. It will stand up out of the ground (20-30ft), lifting the house above off its foundations.</span>
 
-## The Ranch 
+<span style="color:#7030a0">(Elizabeth’s)Mysterious Cottage</span>
+SHE is An unassuming looking cottage in the middle of the forest with its own large fenced in garden, growing all types of plants and ingredients. Elizabeth is always seen wearing a beaded necklace with beads of wood, bone, and quartz. <span style="color:#ff0000">(Hansel and Grettle vibes) the which has a clock on the wall that *when* touched has the ability to alter time within a 5 mile radius of the cottage. If the players defeat the witch in combat or come about it in other ways, her spellbook has the spell “Lizzy’s Mysterious Cottage” the time clock doesn’t work after they leave the cottages fenced in area this spell acts similarly to the “Tiny Hut” spell.  </span>
 
-A strange man named Bugfucker lives here. He **used to be a very accomplished magical Biomancer that ran a druid school in the city of (((insert stygian forest main city)))** 
+<span style="color:#00b050">Will The Willow</span>
+	A special part of the forest that is home to a willow tree that seems to be breathing. The tree is named Will, he speaks very slowly with an old British accent and can rise from the ground on two wooden legs. He is capable of reading minds, can cause mass paralysis with a DC 19 wisdom save and will likely do so if you approach incorrectly. He just wants to be left alone, and requests a friend if asked... “its a rough neighborhood to be a tree”. 
 
-Greengrove
-
-A small settlement of tree farmers that plant saplings of the same type of tree that grows naturally in the Stygian Forest. For some reason they can’t determine all of their trees halt growth after they reach adulthood (2 years or 8-10ft). This reason is due to a baby Eldertree has sprouted beneath their home, and can be found in a nearby cave. It will stand up out of the ground (20-30ft), lifting the house above off its foundations.
-
-(Elizabeth’s)Mysterious Cottage
-
-SHE An unassuming looking cottage in the middle of the forest with its own large fenced in garden, growing all types of plants and ingredients. Elizabeth is always seen wearing a beaded necklace with beads of wood, bone, and quartz. (Hansel and Grettle vibes) the which has a clock on the wall that when touched has the ability to alter time within a 5 mile radius of the cottage. If the players defeat the witch in combat or come about it in other ways, her spellbook has the spell “Lizzy’s Mysterious Cottage” the time clock doesn’t work after they leave the cottages fenced in area this spell acts similarly to the “Tiny Hut” spell.  
-
-Will The Willow
-
-A special part of the forest that is home to a willow tree that seems to be breathing. The tree is named Will, he speaks very slowly with an old British accent and can rise from the ground on two wooden legs. He is capable of reading minds, can cause mass paralysis with a DC 19 wisdom save and will likely do so if you approach incorrectly. He just wants to be left alone, and requests a friend if asked... “its a rough neighborhood to be a tree”. 
-
-Beryl’s Remorse
-
-a clearing with a singular black lotus flower in the center of it that if touched with bare hands paralyzes the would be picker and alerts a nearby tree spirit. The lotus is replanted there by the tree spirits after the following nightfall. If a dc 18 perception check is passed while in the area you find a pack containing the journal of a man named Beryl, in which describes a druid that tried to use the tiny hut spell while in the forest. The journal ends as it Beryl claims he is about to set up camp for the day using the spell. 
+<span style="color:#00b050">Beryl’s Remorse</span>
+	a clearing with a singular black lotus flower in the center of it that if touched with bare hands paralyzes the would be picker and alerts a nearby tree spirit. The lotus is replanted there by the tree spirits after the following nightfall. If a dc 18 perception check is passed while in the area you find a pack containing the journal of a man named Beryl, in which describes a druid that tried to use the tiny hut spell while in the forest. The journal ends as it Beryl claims he is about to set up camp for the day using the spell. 
 
   
 
