@@ -23,14 +23,14 @@ _followers known as Devotee(s)._ 
 
 ---
 
-##The “Promised” Pair 
+
+<span style="color:#00b0f0">The “Promised” Pair </span>
 
 (M - Aelyr _and_ F -Aelar) – Healing the Sick and Wounded, Opposing Death, Weather events, Natural Disasters, Destruction without cause
 
 **The** Promised Pair is actually two Nephilim that make the aspect of one god, a god of healing and saving the weak from death. Due to their duality they are also the gods of natural disasters and phenomena. Typically gods forget or choose not to go by their names from their life as mortals, because of this The Pair use their mortal names to distinguish between each other. Aelyr is usually depicted as a man with short black hair clothed in flowing robes wearing a flower crown, usually at his side is his pet rabbit Malady. Aelar is usually depicted as a woman wearing a green gown with extremely long pure white hair. People who follow them usually have a carefree spirit, a love of nature and sporadic behavior. In their Life as Man they were lovers that were kept from each other by feuding royal families.    
 
 Malady: Aelyr’s pet rabbit
-
 ## The Faceless Man 
 
 (M - Sosoro) –  Violence, Rebels, Liberators, Theft, , Subterfuge, Deception, Change of Fortune, Domination, Conquest for greed
