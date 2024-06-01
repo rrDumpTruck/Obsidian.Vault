@@ -16,19 +16,17 @@ sticker: emoji//1f5fa-fe0f
 <span style="color:#7030a0">Radigan Institute of the Arcane</span>
 
 
-# The Veins
+# <span style="color:#7030a0">The Veins</span>
 
-## The Convergence
+<span style="color:#ffff00">The Convergence</span>
+	Center continent and only other landmass besides minor islands further inland. Below is a pool of pure (but tainted Juice).
 
-### The Wall 
+<span style="color:#ffff00">The Wall </span>
+	The wall, or in some places lack thereof is what people call the large dividing plethora of obstacles that block off the provinces from each other. Some know how to manipulate the field of energy that is exposed in some places. These people call themselves the pathfinders and usually make you pay quite a fee for transit. Otherwise the only way around is in the very center of the continent at the Convergence.   
 
-The wall, or in some places lack thereof is what people call the large dividing plethora of obstacles that block off the provinces from each other. Some know how to manipulate the field of energy that is exposed in some places. These people call themselves the pathfinders and usually make you pay quite a fee for transit. Otherwise the only way around is in the very center of the continent at the Convergence.   
+The Sapphire Abyss
+Endless ocea
 
----
-
-## The Sapphire Abyss
-
-(endless ocean polluted by the juice)   
 
 ---
 
