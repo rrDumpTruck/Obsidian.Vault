@@ -1,15 +1,11 @@
 ---
 sticker: emoji//1f9cd
 ---
-## NPCs
+# <span style="color:#ffc000">The Precursors</span>
 
-# <span style="color:#c00000">The Precursors</span>
+**Eresiod** - also known as “THE WATCHER” by the denizens of The Veins
 
-**Eresiod**
-
-also known as “THE WATCHER” by the denizens of The Veins
-
-**Verona** 
+**Verona** - Important *somehow*
 
 **Placeholder 3**
 
@@ -19,16 +15,11 @@ also known as “THE WATCHER” by the denizens of The Veins
 
 _followers known as Devotee(s)._ 
 
-## The Warden 
+## <span style="color:#ffff00">The Warden</span> 
 
 (M - Narani) – vitality, health, youth, strength of form, honor, destruction with cause
 
 **The** Warden is the god of general vitality, honor and the martial arts in the Wanderers of Carrigan, generally he is depicted in the form of a obsidian armored man wielding a battle axe made of a dark metal and a jagged golden crystalline blade. People who follow him generally share a respect for combat and athleticism, and are known to be the most honorable among the Cleric Knights. Known by Narani in is his Life as Man he is believed to have fathered a child with his wife Lyralel who now is The Sleeper, the only known face in The Formless. While not all is known about the relationship, it leaves him despondent and absent to this day. It has been 500 years since his last appearance, so many people, even his followers think he may be gone for good. 
-
-### 
-
----
-
 ## The “Promised” Pair 
 
 (M - Aelyr _and_ F -Aelar) – Healing the Sick and Wounded, Opposing Death, Weather events, Natural Disasters, Destruction without cause
@@ -65,7 +56,7 @@ _and (following the most recent world Convergence event)_
 
 **The** Nurse is the god of the nature and its cycle of life, love and growth. The Nurse is normally depicted as a waifish woman with short blonde hair normally nearby something wounded. In her past life she was Carrigan, a renown botanist known for breeding a special magically imbued plant called Azure Dreadnettle that helped prevent a very dangerous plague. People who follower her usually let things go easily, become easily obsessed and feel compelled to help people. Recently she has disappeared from the world and people are starting to think she went to find the Warden.  
 
-# The Formless 
+# <span style="color:#ff0000">The Formless</span> 
 
 The Formless are an entity of forgotten origin and inconclusive complexity. It is composed of countless personifications of people who are a representative of one or many Sins. Currently the only form with a name goes by the name of the Sleeper, she used to be the wife of the Warden during their mortal life. 
 
