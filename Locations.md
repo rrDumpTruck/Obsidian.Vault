@@ -24,37 +24,32 @@ sticker: emoji//1f5fa-fe0f
 <span style="color:#ffff00">The Wall </span>
 	The wall, or in some places lack thereof is what people call the large dividing plethora of obstacles that block off the provinces from each other. Some know how to manipulate the field of energy that is exposed in some places. These people call themselves the pathfinders and usually make you pay quite a fee for transit. Otherwise the only way around is in the very center of the continent at the Convergence.   
 
-The Sapphire Abyss
-Endless ocea
+---
 
+<span style="color:#ffff00">The Sapphire Abyss</span>
+	Endless ocean surrounding all landmass that slowly disintegrates anything it touches.
 
 ---
 
-## The "Howling" Plateau - North
+<span style="color:#ffc000">The "Howling" Plateau - North</span>
+	An area known for its vast open plains of greyish green grasses and a large half moon shaped inlet leading from the Sapphire Abyss currently supplying the only known readily drinkable water source in the world. 
 
-An area known for its vast open plains of greyish green grasses and a large half moon shaped inlet leading from the Sapphire Abyss currently supplying the only known readily drinkable water source in the world. 
+<span style="color:#7030a0">Obsidian Peak</span>
+	A once raging volcano that went dormant shortly after the event of the second new arrival. The tallest known landmark in the world.
 
-**Obsidian Peak** - A once raging volcano that went dormant shortly after the event of the second new arrival. The tallest known landmark in the world.
+<span style="color:#7030a0">The Lake of Serene</span>
+	A placid lake in the center of a sea of grass, the Lake of Serene is the only known natural body of water that is able to be drank from without preapplication of the Juice. 
 
-**The Lake of Serene** - A placid lake in the center of a sea of grass, the Lake of Serene is the only known natural body of water that is able to be drank from without preapplication of the Juice. 
-
-## Opportunity
-
-⁠⁠⁠A large city in the province of the Plateau, Opportunity was originally a prospector town founded in 44 A.C. by the now Saint Damius. Now it is a sprawling place of trade, industry, back-alley deals and plots for the next expedition for the glorious Juice. Look no further than this Opportunity to visit your local Fleshcrafter and get an upgrade, as this city is recently the only one with unrestricted access to special surgeries utilizing the Juice. 
-
-  
+<span style="color:#00b0f0">Opportunity</span>
+	⁠⁠⁠A large city in the province of the Plateau, Opportunity was originally a prospector town founded in 44 A.C. by the now Saint Damius. Now it is a sprawling place of trade, industry, back-alley deals and plots for the next expedition for the glorious Juice. Look no further than this Opportunity to visit your local Fleshcrafter and get an upgrade, as this city is recently the only one with unrestricted access to special surgeries utilizing the Juice. 
 
 ---
 
-## The Ashen Wastes - East
+<span style="color:#ffc000">The Ashen Wastes - East(Previously Elysia)</span>
+	A barren desert of extreme climates and magical misdirection the Ashen Wastes are yet to be accurately measured or mapped. This is due to the lands tendency change and reform itself in unpredictable and unrepeating ways making navigation nearly impossible without a Pathfinder. 
 
-**Used to be Known As Elysia** 
-
-#### A barren desert of extreme climates and magical misdirection the Ashen Wastes are yet to be accurately measured or mapped. This is due to the lands tendency change and reform itself in unpredictable and unrepeating ways making navigation nearly impossible without a Pathfinder. 
-
-## The Profligate City
-
-#### The Profligate city was one made up by the rich and powerful, to house and protect themselves. Beautiful in form and function it is additionally safe as a bank vault. Originally built by **Saint Tynen, S**aint of Jealousy, ruler of the Ashen Wastes and leader of the Profligate City during its fall, and possibly still. it now lies empty and cold. There are many theories about its downfall and eventual abandonment by the populace. Most inhabitants do not like talking about the events leading up to their departure.  
+The Profligate City
+	The Profligate city was one made up by the rich and powerful, to house and protect themselves. Beautiful in form and function it is additionally safe as a bank vault. Originally built by **Saint Tynen, S**aint of Jealousy, ruler of the Ashen Wastes and leader of the Profligate City during its fall, and possibly still. it now lies empty and cold. There are many theories about its downfall and eventual abandonment by the populace. Most inhabitants do not like talking about the events leading up to their departure.  
 
 Somewhere inside of this city resides the Saint of Jealousy named Tynen. He guards a magical item called the Amulet of the Herald that allows its user(s) to pass through the convergence and into the overworld. 
 
