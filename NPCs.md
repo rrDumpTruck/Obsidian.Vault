@@ -15,7 +15,7 @@ sticker: emoji//1f9cd
 
 _followers known as Devotee(s)._ 
 
-## <span style="color:#ffff00">The Warden</span> 
+ <span style="color:#ffff00">The Warden</span> 
 
 (M - Narani) – vitality, health, youth, strength of form, honor, destruction with cause
 
@@ -23,15 +23,15 @@ _followers known as Devotee(s)._ 
 
 ---
 
-
-<span style="color:#00b0f0">The “Promised” Pair </span>
+<span style="color:#00b050">The “Promised” Pair</span>
 
 (M - Aelyr _and_ F -Aelar) – Healing the Sick and Wounded, Opposing Death, Weather events, Natural Disasters, Destruction without cause
 
 **The** Promised Pair is actually two Nephilim that make the aspect of one god, a god of healing and saving the weak from death. Due to their duality they are also the gods of natural disasters and phenomena. Typically gods forget or choose not to go by their names from their life as mortals, because of this The Pair use their mortal names to distinguish between each other. Aelyr is usually depicted as a man with short black hair clothed in flowing robes wearing a flower crown, usually at his side is his pet rabbit Malady. Aelar is usually depicted as a woman wearing a green gown with extremely long pure white hair. People who follow them usually have a carefree spirit, a love of nature and sporadic behavior. In their Life as Man they were lovers that were kept from each other by feuding royal families.    
 
 Malady: Aelyr’s pet rabbit
-## The Faceless Man 
+
+<span style="color:#ff0000">The Faceless Man </span>
 
 (M - Sosoro) –  Violence, Rebels, Liberators, Theft, , Subterfuge, Deception, Change of Fortune, Domination, Conquest for greed
 
@@ -39,7 +39,7 @@ Malady: Aelyr’s pet rabbit
 
 ---
 
-## The Thinker
+<span style="color:#00b0f0">The Thinker</span>
 
 (F - Halessian) – Craft, Invention, Lore, Secrets, Courage, Justice
 
@@ -51,23 +51,21 @@ _and (following the most recent world Convergence event)_
 
 ---
 
-## The Nurse 
+<span style="color:#7030a0">The Nurse </span>
 
 (F - Carrigan) – Nature, Love, Growth, Birth, Natural Death
 
 **The** Nurse is the god of the nature and its cycle of life, love and growth. The Nurse is normally depicted as a waifish woman with short blonde hair normally nearby something wounded. In her past life she was Carrigan, a renown botanist known for breeding a special magically imbued plant called Azure Dreadnettle that helped prevent a very dangerous plague. People who follower her usually let things go easily, become easily obsessed and feel compelled to help people. Recently she has disappeared from the world and people are starting to think she went to find the Warden.  
 
-
-
-
+---
 
 # <span style="color:#ff0000">The Formless</span> 
 
 The Formless are an entity of forgotten origin and inconclusive complexity. It is composed of countless personifications of people who are a representative of one or many Sins. Currently the only form with a name goes by the name of the Sleeper, she used to be the wife of the Warden during their mortal life. 
 
-## The Limper (Highlands) 
+The Limper (Highlands) 
 
-#### (Ereball) - gain through violence, vengeance, greed
+(Ereball) - gain through violence, vengeance, greed
 
  Saint Haelou (Saint of Vengeance) - Ruler of Galolir and her vast armies.   
 
