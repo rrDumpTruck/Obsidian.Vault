@@ -100,19 +100,16 @@ sticker: emoji//1f5fa-fe0f
 SHE is An unassuming looking cottage in the middle of the forest with its own large fenced in garden, growing all types of plants and ingredients. Elizabeth is always seen wearing a beaded necklace with beads of wood, bone, and quartz. <span style="color:#ff0000">(Hansel and Grettle vibes) the which has a clock on the wall that *when* touched has the ability to alter time within a 5 mile radius of the cottage. If the players defeat the witch in combat or come about it in other ways, her spellbook has the spell “Lizzy’s Mysterious Cottage” the time clock doesn’t work after they leave the cottages fenced in area this spell acts similarly to the “Tiny Hut” spell.  </span>
 
 <span style="color:#00b050">Will The Willow</span>
-	A special part of the forest that is home to a willow tree that seems to be breathing. The tree is named Will, he speaks very slowly with an old British accent and can rise from the ground on two wooden legs. He is capable of reading minds, can cause mass paralysis with a DC 19 wisdom save and will likely do so if you approach incorrectly. He just wants to be left alone, and requests a friend if asked... “its a rough neighborhood to be a tree”. 
+	A special part of the forest that is home to a willow tree that seems to be breathing. The tree is named <span style="color:#ff0000">Will, he speaks very slowly with an old British accent</span> and can rise from the ground on two wooden legs. He is capable of reading minds, can cause mass paralysis with a DC 19 wisdom save and will likely do so if you approach incorrectly. He just wants to be left alone, and requests a friend if asked... “its a rough neighborhood to be a tree”. 
 
 <span style="color:#00b050">Beryl’s Remorse</span>
-	a clearing with a singular black lotus flower in the center of it that if touched with bare hands paralyzes the would be picker and alerts a nearby tree spirit. The lotus is replanted there by the tree spirits after the following nightfall. If a dc 18 perception check is passed while in the area you find a pack containing the journal of a man named Beryl, in which describes a druid that tried to use the tiny hut spell while in the forest. The journal ends as it Beryl claims he is about to set up camp for the day using the spell. 
-
+	a clearing with a singular black lotus flower in the center of it that if touched with bare hands paralyzes the would be picker and alerts a nearby tree spirit. The lotus is replanted there by the tree spirits after the following nightfall. <span style="color:#ff0000">If a dc 18 perception check is passed while in the area you find a pack containing the journal of a man named Beryl, in which describes a druid that tried to use the tiny hut spell while in the forest. The journal ends as it Beryl claims he is about to set up camp for the day using the spell. 
+</span>
   
-
-# The Beyond
-
-A plane created by all the Gods together at the end of their Life as Man, currently its only inhabitant is the Warden who is believed to be staying there rather than in the “normal world”. 
-
 ---
 
-# The Fountain
+<span style="color:#ffff00">The Beyond</span>
+	A plane created by all the Gods together at the end of their Life as Man, currently its only inhabitant is the Warden who is believed to be staying there rather than in the “normal world”. 
 
-**The Fountain is the source of all magical power in the universe. It is made up of the souls of all sentient life, and is located in the Beyond but can be seen from the overworld as it flows down into the Basin.**
+<span style="color:#ffc000">The Fountain</span>
+	**The Fountain is the source of all magical power in the universe. It is made up of the souls of all sentient life, and is located in the Beyond but can be seen from the overworld as it flows down into the Basin.**

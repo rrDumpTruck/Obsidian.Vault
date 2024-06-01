@@ -32,7 +32,16 @@
         "Mod",
         "Shift"
       ],
-      "key": "3"
+      "key": "4"
+    }
+  ],
+  "editor:unfold-all": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "5"
     }
   ]
 }
