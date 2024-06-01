@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Timeline.md",
+                "file": "The Veins Session 0 Handout .md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Timeline.md",
+                "file": "The Veins Session 0 Handout .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Timeline.md",
+                "file": "The Veins Session 0 Handout .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Timeline.md"
+                "file": "The Veins Session 0 Handout .md"
               }
             }
           },
@@ -202,8 +202,8 @@
   "active": "f1cd5e835de3a596",
   "lastOpenFiles": [
     "TO DO.md",
-    "The Veins Session 0 Handout .md",
     "The Timeline.md",
+    "The Veins Session 0 Handout .md",
     "Home.md",
     "School Planning.md",
     "DoA.md",

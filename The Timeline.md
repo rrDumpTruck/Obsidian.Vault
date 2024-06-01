@@ -28,12 +28,14 @@ _A.C. = After Convergence_
 
 _1 A.C. - The Forty Four arrived, eleven splitting to each side of The Wall._ 
 
-27 A.C. - The Glade was founded by the worlds first druids after being created by The Sleeper.   
+*27 A.C. - The Glade was founded by the worlds first druids after being created by The Sleeper.  * 
 
-44 A.C. - Opportunity was founded in the Plateau _(a majority of its population are juice prospectors)_ 
+*44 A.C. - Opportunity was founded in the Plateau (a majority of its population are juice prospectors) *
 
 _122 A.C. - “Elysia” goes to war with The Stygian forest_
 
-_124 A.C. - Elysia is subject to effects of a weapon created by The Stygian Forest that causes it to become the Ashen Wastes (((PRIVATE FROM PLAYERS UNTIL THE TIME COMES)))
+_124 A.C. - Elysia is subject to effects of a weapon created by The Stygian Forest that causes it to become the Ashen Wastes (((PRIVATE FROM PLAYERS UNTIL THE TIME COMES)))_
 
-_145 A.C. - The event is called "The Arrival of the Stranger"
+*145 A.C. - Another strange man appears in the fissure underneath Opportunity. Ruler of the city Saint Damius forbade anyone from claiming to bear witness to the event. The event is called "The Arrival of the Stranger" colloquially.*
+
+150 A.C. - Current player arrival time.
