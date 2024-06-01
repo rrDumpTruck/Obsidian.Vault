@@ -51,7 +51,7 @@ Please choose one of the following three starting scenarios you would prefer to 
 
 You and your party are Vein Hunters that find their home in the city of Opportunity in the Howling Plateau. You have just accepted a job to scout and optionally harvest a newly formed local fissure and to report any findings to a local Fleshcrafter known as “Aorta”. You haven't met your contractor but from what you have heard this may just be a introductory job, who knowns what future Opportunity might bring. 
 
-_note: a Pathfinder (a person who is studied in the excavating and locating of veins) is required for this campaign start, you can choose to play one or hire an NPC. The Role uses your main skill's bonus for all roles and has a separate progression to your main , reliant on how much your power is used. 
+_note: a Pathfinder (a person who is studied in the excavating and locating of veins) is required for this campaign start, you can choose to play one or hire an NPC. The Role uses your main skill's bonus for all roles and has a separate progression from your class level(s), your pathfinder level is reliant on how much your power is used.
 
 **Opportune Investigation**
 
