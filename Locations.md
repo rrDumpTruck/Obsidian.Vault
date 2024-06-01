@@ -1,28 +1,20 @@
 ---
 sticker: emoji//1f5fa-fe0f
 ---
-# The Overworld 
-The Basin
+# <span style="color:#00b050">The Overworld </span>
+	The place above The Veins, the prison gates... so to speak
 
-The Basin is a large bowl shaped cove, a central landmark for the continent of (INSERT MAIN CONTINENT) from there it flows through the air, soil and water as it suffuses all life in the world. 
-
-**
+**<span style="color:#ffff00">The Basin</span>**
+	The Basin is a large bowl shaped cove, a central landmark for the continent of (INSERT LARGEST CONTINENT) from there it flows through the air, soil and water as it suffuses all life in the world. 
 
 ---
+<span style="color:#7030a0">Ereguard</span>
+	Revolt: 126 A.D. led in the shadows by Sosoro the Hidden. 
 
-Ereguard**
+<span style="color:#7030a0">School of Carnighast</span>
 
-Revolt: 126 A.D. led in the shadows by Sosoro the Hidden. 
+<span style="color:#7030a0">Radigan Institute of the Arcane</span>
 
-School of Carnighast 
-
-  
-
-  
-
-Radigan Institute of the Arcane
-
-  
 
 # The Veins
 
