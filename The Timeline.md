@@ -35,3 +35,5 @@ _1 A.C. - The Forty Four arrived, eleven splitting to each side of The Wall._ 
 _122 A.C. - “Elysia” goes to war with The Stygian forest_
 
 _124 A.C. - Elysia is subject to effects of a weapon created by The Stygian Forest that causes it to become the Ashen Wastes (((PRIVATE FROM PLAYERS UNTIL THE TIME COMES)))
+
+_145 A.C. - The event is called "The Arrival of the Stranger"
