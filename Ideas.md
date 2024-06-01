@@ -27,7 +27,7 @@ Food and drink must be infused with juice for it to be potable and provide nouri
 
   
 
-first mission in the overworld should be to find the leader of a local school of sorcery, his last known position was in the bottom of a fracture... he’s investigating it, looking for the source of magical items (the cant be crafted in the same way as magic items from the veins). 
+<span style="color:#ff0000">**first mission in the overworld should be to find the leader of a local school of sorcery, his last known position was in the bottom of a fracture... he’s investigating it, looking for the source of magical items (the cant be crafted in the same way as magic items from the veins). **</span>
 
   
 
