@@ -30,8 +30,8 @@ _1 A.C. - The Forty Four arrived, eleven splitting to each side of The Wall._ 
 
 27 A.C. - The Glade was founded by the worlds first druids after being created by The Sleeper.   
 
-44 A.C. - Opportunity was founded in the Plateau _(a majority of its population are juice prospectors)_   
+44 A.C. - Opportunity was founded in the Plateau _(a majority of its population are juice prospectors)_ 
 
 _122 A.C. - “Elysia” goes to war with The Stygian forest_
 
-_124 A.C. - Elysia is subject to effects of a weapon created by The Stygian Forest that causes it to become the Ashen Wastes_
+_124 A.C. - Elysia is subject to effects of a weapon created by The Stygian Forest that causes it to become the Ashen Wastes (((PRIVATE FROM PLAYERS UNTIL THE TIME COMES)))
