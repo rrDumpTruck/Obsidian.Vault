@@ -63,47 +63,45 @@ _and (following the most recent world Convergence event)_
 
 The Formless are an entity of forgotten origin and inconclusive complexity. It is composed of countless personifications of people who are a representative of one or many Sins. Currently the only form with a name goes by the name of the Sleeper, she used to be the wife of the Warden during their mortal life. 
 
-The Limper (Highlands) 
+<span style="color:#ffc000">The Limper (Highlands) </span>
 
 (Ereball) - gain through violence, vengeance, greed
 
  Saint Haelou (Saint of Vengeance) - Ruler of Galolir and her vast armies.   
 
-## The Sleeper (Stygian Forest)
+<span style="color:#7030a0">The Sleeper (Stygian Forest)</span>
 
 (Lyralel) - gain through romance, lust, poisoning, deceit 
 
 Backstory: she used to be the wife of the Warden during their mortal life. Only those who are chosen know her real name (previously her mortal name). 
 
-## The Harvester (Plateau) 
+<span style="color:#ff0000">The Harvester (Plateau) </span>
 
 (Damocan) -  hatred, cruelty, bloody conquest, torture  
 
  **Saint Damius** (Saint of Conquest for greed) - Founder of Opportunity and now ruler of The Plateau. 
 
-## The Listener (Wastes) 
+<span style="color:#92d050">The Listener (Wastes) </span>
 
 (Radigan) - forgotten knowledge, craving for knowledge, addiction, jealousy  
 
  **Saint Tynen** (Saint of Jealousy) - Ruler of the Ashen Wastes and leader of the Profligate City during its fall.  Lurks in his laboratory trying to decipher the Amulet of the Herald. 
 
+---
+
+# <span style="color:#00b050">The Overworld</span>
+No named locations yet because of lack of contextual evidence for one. Just tales for now.
   
 
-# The Overworld
+# <span style="color:#7030a0">The Veins</span>
 
-  
+<span style="color:#ffc000">The “Howling” Plateau - N</span>
 
-# The Veins
 
-## The “Howling” Plateau - N
-
-  
 
 ---
 
-  
-
-## The Ashen Wastes - E 
+<span style="color:#ffc000">The Ashen Wastes - E </span>
 
 Asher’s Garden
 
