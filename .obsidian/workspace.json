@@ -8,24 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f1cd5e835de3a596",
+            "id": "94acf2b26de4a6e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs.md",
+                "file": "New Player Q&amp;A.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "94acf2b26de4a6e1",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "D&D//"
               }
             }
           },
@@ -49,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "New Player Q&amp;A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "New Player Q&amp;A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "New Player Q&amp;A.md"
+              }
             }
           },
           {
@@ -199,14 +192,15 @@
   },
   "active": "94acf2b26de4a6e1",
   "lastOpenFiles": [
+    "Ideas.md",
+    "New Player Q&amp;A.md",
+    "NPCs.md",
+    "Home.md",
     "The Veins Session 0 Handout .md",
     "Secret Lore Stuff.md",
-    "Ideas.md",
     "Locations.md",
     "TO DO.md",
-    "NPCs.md",
     "The Timeline.md",
-    "Home.md",
     "Channel Ideas.md",
     "Active Projects/(Current Project) Bladerunner (1982)/Video Script.md",
     "Active Projects/(Current Project) Bladerunner (1982)/Project Notes.md",
