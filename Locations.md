@@ -90,6 +90,9 @@ sticker: emoji//1f5fa-fe0f
 <span style="color:#00b0f0">Slumberglade</span>
 	In the heart of the Stygian Forest lies a city known as Slumberglade, or the glade by some. A ovular gigantic palisade wall of spiked trees line its foreboding exterior and inside you will find a closely guarded natural haven. The Glade was founded by the worlds first druids in 27 A.C. after being created by The Sleeper. 
 
+The Glade
+	Densely wooded area surrounding Slumberglade 
+
 <span style="color:#00b0f0">The Ranch </span>
 	A strange man named Bugfucker lives here. He **used to be a very accomplished magical Biomancer that ran a druid school in the city of (((insert stygian forest main city)))** 
 
