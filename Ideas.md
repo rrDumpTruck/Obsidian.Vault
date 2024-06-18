@@ -4,9 +4,8 @@ sticker: emoji//1f648
 ## Mobile Idea Dumpster 
 
 Keenan   
-
+Julius 
 Vassa 
-
 NASIR 
 
   

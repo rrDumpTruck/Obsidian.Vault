@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Veins Session 0 Handout .md",
+                "file": "Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Veins Session 0 Handout .md",
+                "file": "Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Veins Session 0 Handout .md",
+                "file": "Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Veins Session 0 Handout .md"
+                "file": "Ideas.md"
               }
             }
           },
@@ -192,15 +192,15 @@
   },
   "active": "b96564b0e38a9a12",
   "lastOpenFiles": [
-    "Secret Lore Stuff.md",
-    "Ideas.md",
     "NPCs.md",
-    "General Game Info + QandA.md",
-    "The Timeline.md",
+    "Ideas.md",
     "The Veins Session 0 Handout .md",
     "Home.md",
-    "Locations.md",
     "TO DO.md",
+    "Secret Lore Stuff.md",
+    "General Game Info + QandA.md",
+    "The Timeline.md",
+    "Locations.md",
     "Channel Ideas.md",
     "Active Projects/(Current Project) Bladerunner (1982)/Video Script.md",
     "Active Projects/(Current Project) Bladerunner (1982)/Project Notes.md",
