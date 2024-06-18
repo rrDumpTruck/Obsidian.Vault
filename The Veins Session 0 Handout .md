@@ -1,6 +1,54 @@
 ---
 sticker: emoji//1f44b
 ---
+
+Initial Discord Announcement (Initially friends and old players eventually /lfg if needed)
+1. The Veins New Player Onboarding Program [https://docs.google.com/document/d/1JJsM3cjpe9HIZNz8hPsYMNNMojPKoeth_Qz4mbVGiEg/edit?usp=sharing](https://docs.google.com/document/d/1JJsM3cjpe9HIZNz8hPsYMNNMojPKoeth_Qz4mbVGiEg/edit?usp=sharing "https://docs.google.com/document/d/1JJsM3cjpe9HIZNz8hPsYMNNMojPKoeth_Qz4mbVGiEg/edit?usp=sharing") (edited)
+    
+    Google Docs
+    
+    [The Veins New Player Onboarding Program (TV-N'POP)](https://docs.google.com/document/d/1JJsM3cjpe9HIZNz8hPsYMNNMojPKoeth_Qz4mbVGiEg/edit?usp=sharing)
+    
+    First Rule If someone tells you to stop or make reasonable requests during RP, due to them feeling uncomfortable, you have to. Game time Up for argument (Friday or Saturday nights weekly/biweekly) Game length/frequency I hope to play weekly 4 hour sessions unless that conflicts with peoples ...
+    
+    [](https://lh7-us.googleusercontent.com/docs/AHkbwyIdt1h3tjJFXfEvtK6Jb-lmIhayxazY53B56G7qI2D6oMr4qUI_3JLEqzd-ihkaw38AhwV9CxHZVbar3u3SlHNsAV8qxHsfUl9OmXEnPoQ5x1ISiPI=w1200-h630-p)
+    
+    ![Image](https://images-ext-1.discordapp.net/external/MqpfoJCBXQeko28q4WnWHfOx8phTcyoc_Yirka47j7E/https/lh7-us.googleusercontent.com/docs/AHkbwyIdt1h3tjJFXfEvtK6Jb-lmIhayxazY53B56G7qI2D6oMr4qUI_3JLEqzd-ihkaw38AhwV9CxHZVbar3u3SlHNsAV8qxHsfUl9OmXEnPoQ5x1ISiPI%3Dw1200-h630-p?format=webp&width=80&height=42)
+    
+2. _[_10:05 PM_]_
+    
+    The Veins New Player Lore and Setting Start [https://docs.google.com/document/d/15bjwseMRDizYvDCpAN1qmj2DDzehJJYTJYSchvWGrCI/edit?usp=sharing](https://docs.google.com/document/d/15bjwseMRDizYvDCpAN1qmj2DDzehJJYTJYSchvWGrCI/edit?usp=sharing "https://docs.google.com/document/d/15bjwseMRDizYvDCpAN1qmj2DDzehJJYTJYSchvWGrCI/edit?usp=sharing")
+    
+    Google Docs
+    
+    [The Veins New Player Lore and Setting Start](https://docs.google.com/document/d/15bjwseMRDizYvDCpAN1qmj2DDzehJJYTJYSchvWGrCI/edit?usp=sharing)
+    
+    Welcome to the Veins You see a meandering stream running out ahead of you, quick clear vapors with pieces of a metallic blue substance dart through its slightly viscous flow. This is The Juice, an incredibly valuable substance to the people who live in this place of undeath. Overhead emanating f...
+    
+    [](https://lh7-us.googleusercontent.com/docs/AHkbwyLEzFhkA1Miw4YxcsUm2wodrKrsKWBWyIfoGiKDfPO9Uk7u3zWzapb7WWi74UTMbjhNmeAkTEaFWzbxDQN01LN2kx0kafsontrj-s3um4wf0ze_qMvX=w1200-h630-p)
+    
+    ![Image](https://images-ext-1.discordapp.net/external/ZezlO6ownRz77n6bZkJUb0vXLyFg6LEWDQ7ecjUZPZI/https/lh7-us.googleusercontent.com/docs/AHkbwyLEzFhkA1Miw4YxcsUm2wodrKrsKWBWyIfoGiKDfPO9Uk7u3zWzapb7WWi74UTMbjhNmeAkTEaFWzbxDQN01LN2kx0kafsontrj-s3um4wf0ze_qMvX%3Dw1200-h630-p?format=webp&width=80&height=42)
+    
+3. _[_10:05 PM_]_
+    
+    [https://docs.google.com/forms/d/e/1FAIpQLScYsHpiS9EySOOX--ApjM-8ayBY4urDLVQV-G9PoQyj8W9Xfg/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLScYsHpiS9EySOOX--ApjM-8ayBY4urDLVQV-G9PoQyj8W9Xfg/viewform?usp=sf_link "https://docs.google.com/forms/d/e/1FAIpQLScYsHpiS9EySOOX--ApjM-8ayBY4urDLVQV-G9PoQyj8W9Xfg/viewform?usp=sf_link")
+    
+    Google Docs
+    
+    [The Veins - Player Application and Questioner](https://docs.google.com/forms/d/e/1FAIpQLScYsHpiS9EySOOX--ApjM-8ayBY4urDLVQV-G9PoQyj8W9Xfg/viewform?usp=sf_link)
+    
+    Hello and thank you for your interest. Please answer the following questions and provide requested information to be considered for playing in The Veins.
+    
+    [](https://lh3.googleusercontent.com/ffKtk_xIymLEaXYb6mGre7HoK3RrvujrA7pWDVszjiwRt3vD8tkY2PSHifOijyyeCCpkhKqyqO8=w1200-h630-p)
+    
+    ![Image](https://images-ext-1.discordapp.net/external/SPlo-KcnHfvElfUnxRyCz8DVrgrbZ8eBFe4SKYGFNl8/https/lh3.googleusercontent.com/ffKtk_xIymLEaXYb6mGre7HoK3RrvujrA7pWDVszjiwRt3vD8tkY2PSHifOijyyeCCpkhKqyqO8%3Dw1200-h630-p?format=webp&width=80&height=42)
+    
+4. _[_10:10 PM_]_
+    
+    Hello ladies and gentlemen. Welcome to The Veins. Thanks for joining and in time I should give you the proper rank and title. Please read the contents of The New Player Onboarding Program & Lore and Setting Start. Then submit your quiz response and I will contact you in time.
+
+
+
 Welcome to the Veins
 
  You see a meandering stream running out ahead of you, quick clear vapors with pieces of a metallic blue substance dart through its slightly viscous flow. This is The Juice an incredibly valuable substance to the people who live in this place of undeath. Overhead emanating from a hole in the sky black as pitch is the vermillion visage of The Watcher, a looming circular face hanging over the Veins. A landscape characterized by its fragmentation, a ivory Wall dividing it into four parts leading towards the center of the world. At the center lies the Convergence, proof of a time before this division. A column of cyan light conveys a mysterious energy deep within the earth drawing all who wish enter to make pilgrimage to the Convergence. 
