@@ -8,7 +8,10 @@ Julius
 Vassa 
 NASIR 
 
-  
+
+
+
+  _deep lore_ dictates that beings older than 150 are not from "this world" but from a different one, having forgotten the one previously lived in.
 
 Pathfinders utilize a form of the juice that has been used to manufacture various drugs. 
 

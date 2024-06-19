@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Character Info.md",
+                "file": "NPCs.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Character Info.md",
+                "file": "NPCs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Character Info.md",
+                "file": "NPCs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Character Info.md"
+                "file": "NPCs.md"
               }
             }
           },
@@ -193,11 +193,11 @@
   "active": "b96564b0e38a9a12",
   "lastOpenFiles": [
     "Locations.md",
+    "Ideas.md",
     "Player Character Info.md",
     "The Veins Session 0 Handout .md",
     "Secret Lore Stuff.md",
     "NPCs.md",
-    "Ideas.md",
     "Home.md",
     "TO DO.md",
     "General Game Info + QandA.md",
