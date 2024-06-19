@@ -71,7 +71,7 @@ _and (following the most recent world Convergence event)_
 <span style="color:#7030a0">The Sleeper (Stygian Forest)</span>
 	(Lyralel) - gain through romance, lust, poisoning, deceit 
 
-In
+In a deep cave she found an underground grove of elder trees, leading to a portal to a different plane. Chaotic as a new plane is it could possibly become a separate realm of its own. 
 
 Backstory: she used to be the wife of the Warden during their mortal life. Only those who are chosen know her real name (previously her mortal name). 
 
