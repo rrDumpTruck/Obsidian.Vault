@@ -61,7 +61,7 @@ _and (following the most recent world Convergence event)_
 ---
 
 # <span style="color:#ff0000">The Formless</span> 
-	The Formless are an entity of forgotten origin and inconclusive complexity. It is composed of countless personifications of people who are a representative of one or many Sins. Currently the only form with a name goes by the name of the Sleeper, she used to be the wife of the Warden during their mortal life. 
+	The Formless are an entity of forgotten origin and obstructive complexity. It is composed of countless personifications of people who are a representative of one or many Sins. Currently the only form with a name goes by the name of the Sleeper, she used to be the wife of the Warden during their mortal life. 
 
 <span style="color:#ffc000">The Limper (Highlands) </span>
 	(Ereball) - gain through violence, vengeance, greed
