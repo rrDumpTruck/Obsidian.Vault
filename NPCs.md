@@ -71,6 +71,8 @@ _and (following the most recent world Convergence event)_
 <span style="color:#7030a0">The Sleeper (Stygian Forest)</span>
 	(Lyralel) - gain through romance, lust, poisoning, deceit 
 
+In
+
 Backstory: she used to be the wife of the Warden during their mortal life. Only those who are chosen know her real name (previously her mortal name). 
 
 <span style="color:#ff0000">The Harvester (Plateau) </span>
