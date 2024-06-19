@@ -8,7 +8,7 @@ Julius
 Vassa 
 NASIR 
 
-Anti- Infininate's = 
+Anti- Infinite's = a faction of some cult who are in favor of a normal life cycle. Due to the wide knowledge that you are invincible so long as you ingest juice infused items. 
 
 Maleorite its a very rare type of quartz that makes very powerful weapons, and is even responsible in the creation of engines, gears and the realms own type of "gunpowder".
 

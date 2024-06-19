@@ -84,6 +84,8 @@ Backstory: she used to be the wife of the Warden during their mortal life. Only
 	(Radigan) - forgotten knowledge, craving for knowledge, addiction, jealousy  
 
  **Saint Tynen** (Saint of Jealousy) - Ruler of the Ashen Wastes and leader of the Profligate City during its fall.  Lurks in his laboratory trying to decipher the Amulet of the Herald. 
+The Heir to the world as due to her lineage claim to be the daughter of the Watcher. 
+
 
 ---
 
