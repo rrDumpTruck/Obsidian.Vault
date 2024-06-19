@@ -8,6 +8,8 @@ Julius
 Vassa 
 NASIR 
 
+Anti- Infininate's = 
+
 Maleorite its a very rare type of quartz that makes very powerful weapons, and is even responsible in the creation of engines, gears and the realms own type of "gunpowder".
 
 The watcher opens his eyes to indicate daybreak, general lighting is twilight. 

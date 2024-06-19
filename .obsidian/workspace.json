@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs.md",
+                "file": "Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs.md",
+                "file": "Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs.md",
+                "file": "Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs.md"
+                "file": "Ideas.md"
               }
             }
           },
@@ -192,8 +192,8 @@
   },
   "active": "b96564b0e38a9a12",
   "lastOpenFiles": [
-    "Locations.md",
     "NPCs.md",
+    "Locations.md",
     "TO DO.md",
     "The Timeline.md",
     "Starter Lore Handout.md",
