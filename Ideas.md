@@ -8,8 +8,9 @@ Julius
 Vassa 
 NASIR 
 
+Maleorite its a very rare type of quartz that makes very powerful weapons, and is even responsible in the creation of engines, gears and the realms own type of "gunpowder".
 
-The watcher opens his eyes to indicate daybreak, general lighting is t
+The watcher opens his eyes to indicate daybreak, general lighting is twilight. 
 
   _deep lore_ dictates that beings older than 150 are not from "this world" but from a different one, having forgotten the one previously lived in.
 
