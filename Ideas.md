@@ -15,8 +15,6 @@ NASIR 
 
 Pathfinders utilize a form of the juice that has been used to manufacture various drugs. 
 
-  
-
 There was someone who was called herald, and one who came after. The former, killed by vicious means, the second was secreted away before any harm could befall them. 
 
   

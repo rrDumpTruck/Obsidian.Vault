@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Rules.md",
+                "file": "TO DO.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Rules.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Rules.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Rules.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -192,15 +192,17 @@
   },
   "active": "b96564b0e38a9a12",
   "lastOpenFiles": [
+    "Rules of the Setting.md",
+    "Secret Lore Stuff.md",
+    "Ideas.md",
+    "General Rules.md",
+    "The Veins Session 0 Handout .md",
     "Player Character Info.md",
+    "Starter Lore Handout.md",
     "NPCs.md",
     "Locations.md",
-    "Ideas.md",
-    "The Veins Session 0 Handout .md",
-    "Secret Lore Stuff.md",
     "Home.md",
     "TO DO.md",
-    "General Rules.md",
     "The Timeline.md",
     "Channel Ideas.md",
     "Active Projects/(Current Project) Bladerunner (1982)/Video Script.md",
@@ -223,10 +225,8 @@
     "Active Projects/Active Projects.md",
     "Untitled.loom",
     "Untitled 1.loom",
-    "Active Projects/Bladerunner (1983) .md",
     "Active Projects/Bladerunner (1982)/Bladerunner(1982).jpg.crdownload",
     "Active Projects/(Current Project) Bladerunner (1982)",
-    "test #369.md",
     "Active Projects",
     "repository"
   ]

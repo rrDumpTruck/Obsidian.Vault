@@ -11,8 +11,7 @@ sticker: emoji//2705
 7. decide on a tone 
 8. create new player guide 
 9. make a world anvil page for the campaign 
-10. come up with a schedule 
-11. how does the day night cycle work in the Veins?
-12. come up with multiple starting scenarios and let players decide, minor plot leading them to the Convergence comes using this platform. 
-13. world map eventually (for now its simplistic enough, travel map greatly needed when the players leave opportunity/)
-14. 
+10. how does the day night cycle work in the Veins?
+11. come up with multiple starting scenarios and let players decide, minor plot leading them to the Convergence comes using this platform. 
+12. world map eventually (for now its simplistic enough, travel map greatly needed when the players leave opportunity/)
+13. 
