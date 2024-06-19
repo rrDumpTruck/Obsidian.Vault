@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas.md",
+                "file": "Locations.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas.md",
+                "file": "Locations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas.md",
+                "file": "Locations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas.md"
+                "file": "Locations.md"
               }
             }
           },
@@ -192,6 +192,7 @@
   },
   "active": "b96564b0e38a9a12",
   "lastOpenFiles": [
+    "Ideas.md",
     "NPCs.md",
     "Locations.md",
     "The Timeline.md",
@@ -201,7 +202,6 @@
     "Player Character Info.md",
     "Rules of the Setting.md",
     "Secret Lore Stuff.md",
-    "Ideas.md",
     "Fragmented.md",
     "Home.md",
     "TO DO.md",
