@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations.md",
+                "file": "Secret Lore Stuff.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations.md",
+                "file": "Secret Lore Stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations.md",
+                "file": "Secret Lore Stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations.md"
+                "file": "Secret Lore Stuff.md"
               }
             }
           },
@@ -192,18 +192,19 @@
   },
   "active": "b96564b0e38a9a12",
   "lastOpenFiles": [
-    "The Timeline.md",
+    "Ideas.md",
+    "Fragmented.md",
+    "Home.md",
     "Locations.md",
+    "NPCs.md",
+    "The Timeline.md",
     "TO DO.md",
     "Rules of the Setting.md",
     "Secret Lore Stuff.md",
-    "Ideas.md",
     "General Rules.md",
     "The Veins Session 0 Handout .md",
     "Player Character Info.md",
     "Starter Lore Handout.md",
-    "NPCs.md",
-    "Home.md",
     "Channel Ideas.md",
     "Active Projects/(Current Project) Bladerunner (1982)/Video Script.md",
     "Active Projects/(Current Project) Bladerunner (1982)/Project Notes.md",
@@ -211,7 +212,6 @@
     "School Planning.md",
     "DoA.md",
     "Working Title, a Personal Journal.md",
-    "Fragmented.md",
     "Channel Planning.md",
     "School Planning 1/School Planning 1.md",
     "School Planning 1",
