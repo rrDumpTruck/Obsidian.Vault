@@ -9,7 +9,7 @@ Vassa 
 NASIR 
 
 
-
+The watcher opens his eyes to indicate daybreak, general lighting is t
 
   _deep lore_ dictates that beings older than 150 are not from "this world" but from a different one, having forgotten the one previously lived in.
 

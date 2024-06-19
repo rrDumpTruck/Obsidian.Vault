@@ -1,7 +1,6 @@
 ---
-sticker: lucide//ruler
+sticker: emoji//2620-fe0f
 ---
-# The Veins New Player Onboarding Program (TV-N'POP)
 
 First Rule
 
@@ -184,3 +183,6 @@ Thanks. 
 –DumpTruck :)
 
   
+  
+  
+**
