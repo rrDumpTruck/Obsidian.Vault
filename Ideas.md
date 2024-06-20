@@ -12,6 +12,10 @@ Radigan is missing since bombings, having only occasionionally shown her self at
 
 Recently She (Radigan) has been seen in the form of a dragon over a few local political events in Opportunity. 
 
+Being the first to take form gives her a power over time by way of premonition and futuresight. 
+
+Naming her successor has yet to be spoken of in court rulings but rumor has it she has found something big. Speakings of some portal found deep within the earth. 
+
 NEEDS WRITE UP ON WA - - - 
 Anti- Infinite's = a faction of some cult who are in favor of a normal life cycle. Due to the wide knowledge that you are invincible so long as you ingest juice infused items. 
 
