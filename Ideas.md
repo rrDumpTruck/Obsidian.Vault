@@ -8,6 +8,10 @@ Julius
 Vassa 
 NASIR 
 
+Radigan is missing since bombings, having only occasionionally shown her self at other major political events very briefly. 
+
+Recently She (Radigan) has been seen in the form of a dragon over a few local political events in Opportunity. 
+
 NEEDS WRITE UP ON WA - - - 
 Anti- Infinite's = a faction of some cult who are in favor of a normal life cycle. Due to the wide knowledge that you are invincible so long as you ingest juice infused items. 
 
