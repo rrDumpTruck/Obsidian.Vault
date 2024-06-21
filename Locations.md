@@ -63,7 +63,7 @@ sticker: emoji//1f5fa-fe0f
 	A glistering greenhouse in the middle of nowhere. It is a botanical oasis inhabited by a powerful warlock named Asher of the Wanderer. 
 
 <span style="color:#00b0f0">Oasis </span>
-	Oasis is a small settlement numbering just a few dozen spreading out nearby a natural hot spring tucked inside of a natural cave. Its people are content with the comfort offered them by the hot spring, it seems that any food or drink treated with the waters of Oasis have the same effect as being treated by the Juice. 
+	Oasis is a small settlement numbering just a few hundred spreading out nearby a natural hot spring tucked inside of a natural cave. Its people are content with the comfort offered them by the hot spring, it seems that any food or drink treated with the waters of Oasis have the same effect as being treated by the Juice. 
 		**The waters of Oasis force occupants to make saving throws or become secretly addicted to the juice there** *(it is somehow different than the normal sources)*
 
 
