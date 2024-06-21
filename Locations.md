@@ -77,6 +77,7 @@ sticker: emoji//1f5fa-fe0f
 
 <span style="color:#00b0f0">Galolir</span>
 	Galolir is the most populous city in the world, boasting amazing defenses in valley with a naturally formed lava bridge it has never been successfully sieged. The people safe underground busy themselves with mining at the expansive Maleorite mines that eventually are turned into new homes. Saint Haelou rules over Galolir and her vast armies not making many plays for power but seemingly biding his time. 
+		Important Maleorite Mining company the cobalt Corporation. 
 
 <span style="color:#00b050">Path of Truth </span>
 	The Path of Truth leads through a ravine leading to the top of the Highlands highest peak, on which sits a tower a great distance away. The place is the subject of many rumors, and may lead to a test of some sort that leads to a tower.
