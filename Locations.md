@@ -43,8 +43,8 @@ sticker: emoji//1f5fa-fe0f
 <span style="color:#00b0f0">Opportunity</span>
 	⁠⁠⁠A large city in the province of the Plateau, Opportunity was originally a prospector town founded in 44 A.C. by the now Saint Damius. Now it is a sprawling place of trade, industry, back-alley deals and plots for the next expedition for the glorious Juice. Look no further than this Opportunity to visit your local Fleshcrafter and get an upgrade, as this city is recently the only one with unrestricted access to special surgeries utilizing the Juice. 
 
-The Halessian Institute
-	A home and pilgrimage for many of the worlds most industrious beings, the Institute holds some of the worlds only professional certifications
+<span style="color:#7030a0">The Halessian Institute</span>
+	A home and pilgrimage for many of the worlds most industrious beings, the Institute holds some of the worlds only professional certifications, in Pathfinding, Vascular Prospecting, Particle enrichment and many other quite technical and pragmatic licenses. Established by an unknown scholar rumored to be one of the first of the fourty four to stake a claim made his by founding a place for all to study. 
 
 ---
 
