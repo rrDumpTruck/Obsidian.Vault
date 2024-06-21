@@ -97,7 +97,7 @@ The Glade
 	Densely wooded area surrounding Slumberglade 
 
 <span style="color:#00b0f0">The Ranch </span>
-	A strange man named Bugfucker lives here. He **used to be a very accomplished magical Biomancer that ran a druid school in the city of Slumberglade** 
+	A strange man named Bugfucker lives here. He **used to be a very accomplished magical Biomancer that ran a druid school in the city of Slumberglade** The industry supplied by this one ranch alone allows most of the modern military invention, and noone can do anything about it because he patented the idea. 
 
 <span style="color:#7030a0">Greengrove</span>
 	A small settlement of tree farmers that plant saplings of the same type of tree that grows naturally in the Stygian Forest. For some reason they can’t determine all of their trees halt growth after they reach adulthood (2 years or 8-10ft). <span style="color:#ff0000">This reason is due to a baby Eldertree has sprouted beneath their home, and can be found in a nearby cave. It will stand up out of the ground (20-30ft), lifting the house above off its foundations.</span>
