@@ -11,7 +11,7 @@ To be decided, go with the flow kind of person (good?)
 Wants to play Human Artificer who made @KrYpTiX's Warforged Character.
 Illayra 
 A tavern owner in Opportunity
-Used 
+Used to have seedy visitors. Now bankrupt and adventuring for themselves. 
 
 ---
 @KrYpTiX Foundry PW: 423456789
