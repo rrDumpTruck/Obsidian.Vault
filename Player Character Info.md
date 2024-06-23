@@ -8,7 +8,7 @@ To be decided, go with the flow kind of person (good?)
 
 ---
 @Nebulousmatt Foundry PW: 323456789
-Wants to play Artificer who made @KrYpTiX's Warforged Character.
+Wants to play Human Artificer who made @KrYpTiX's Warforged Character.
 
 
 ---
