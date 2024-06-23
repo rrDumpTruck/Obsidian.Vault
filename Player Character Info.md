@@ -10,7 +10,8 @@ To be decided, go with the flow kind of person (good?)
 @Nebulousmatt Foundry PW: 323456789
 Wants to play Human Artificer who made @KrYpTiX's Warforged Character.
 Illayra 
-
+A tavern owner in Opportunity
+Used 
 
 ---
 @KrYpTiX Foundry PW: 423456789
@@ -21,3 +22,5 @@ Warforged monk, made of beer barrels.
 ---
 @RebelliousBear Foundry PW: 523456789
 Wants to play Skreep (Rogue/Paladin) a "non-serious character"
+
+
