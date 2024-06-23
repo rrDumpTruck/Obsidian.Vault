@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations.md",
+                "file": "NPCs.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations.md",
+                "file": "NPCs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations.md",
+                "file": "NPCs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations.md"
+                "file": "NPCs.md"
               }
             }
           },
@@ -192,16 +192,16 @@
   },
   "active": "b96564b0e38a9a12",
   "lastOpenFiles": [
-    "Player Character Info.md",
+    "The Veins Session 0 Handout .md",
     "Locations.md",
+    "The Timeline.md",
+    "TO DO.md",
     "NPCs.md",
+    "General Rules.md",
+    "Player Character Info.md",
     "Home.md",
     "Ideas.md",
-    "TO DO.md",
-    "The Timeline.md",
     "Starter Lore Handout.md",
-    "The Veins Session 0 Handout .md",
-    "General Rules.md",
     "Rules of the Setting.md",
     "Secret Lore Stuff.md",
     "Fragmented.md",
