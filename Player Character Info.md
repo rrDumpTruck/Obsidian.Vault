@@ -2,15 +2,20 @@
 sticker: emoji//1f3ae
 ---
 @Badmeis Foundry PW: 223456789
-To be decided, go with the flow kindof person (good?)
+To be decided, go with the flow kind of person (good?)
+
+
 
 ---
 @Nebulousmatt Foundry PW: 323456789
 Wants to play Artificer who made @KrYpTiX's Warforged Character.
 
+
 ---
 @KrYpTiX Foundry PW: 423456789
 Wants to play Warforged created by @Nebulousmatt's Artificer character. 
+
+Warforged monk, made of beer barrels. 
 
 ---
 @RebelliousBear Foundry PW: 523456789
