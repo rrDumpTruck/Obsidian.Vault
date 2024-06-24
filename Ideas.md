@@ -8,6 +8,10 @@ Julius
 Vassa 
 NASIR 
 
+USE G.A.U.R.D.S. 
+
+New religion based on a twisted version of the overworld gods, initial lore coming from a old crazy seeming homeless man. 
+
 Radigan is missing since bombings, having only occasionionally shown her self at other major political events very briefly. 
 
 Recently She (Radigan) has been seen in the form of a dragon over a few local political events in Opportunity. 
