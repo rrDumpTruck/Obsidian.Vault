@@ -9,3 +9,5 @@ Cloverine
 
 Clarence & Terrance - Childhood pets
 
+Session notes: 
+Increase in security at the academy with "the military". 
