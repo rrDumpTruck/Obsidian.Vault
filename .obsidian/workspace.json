@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -192,6 +192,8 @@
   },
   "active": "b96564b0e38a9a12",
   "lastOpenFiles": [
+    "Ideas.md",
+    "Untitled.md",
     "Locations.md",
     "Home.md",
     "Player Character Info.md",
@@ -201,7 +203,6 @@
     "The Veins Session 0 Handout .md",
     "The Timeline.md",
     "TO DO.md",
-    "Ideas.md",
     "Rules of the Setting.md",
     "Secret Lore Stuff.md",
     "Fragmented.md",
@@ -222,7 +223,6 @@
     "Active Projects/Bladerunner (1982)/obsidian-colored-text.zip",
     "Active Projects/Bladerunner (1982)/Unconfirmed 946169.crdownload",
     "context.mdb",
-    "Active Projects/Active Projects.md",
     "Untitled.loom",
     "Untitled 1.loom",
     "Active Projects/Bladerunner (1982)/Bladerunner(1982).jpg.crdownload",
