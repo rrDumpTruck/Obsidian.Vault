@@ -8,7 +8,10 @@ Julius
 Vassa 
 NASIR 
 
-USE G.A.U.R.D.S. 
+USE G.A.U.R.D.S.  method to create a few concrete details of some cities 
+come up with an idea of the other cities in the world. 
+(Government Buildings
+Underworld A)
 
 New religion based on a twisted version of the overworld gods, initial lore coming from a old crazy seeming homeless man. 
 
