@@ -19,3 +19,6 @@ Belly Coast Dorms - Dorm at school.
 
 Gained supplier for illicit substances in city outside of school. 
 
+Field trip to Crimson Forest
+Given whistle that summons teacher
+be at the crimson covert by the night of the full moon. 
