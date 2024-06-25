@@ -5,16 +5,17 @@ Located in the hilly region central to the Howling plateau, to the south of a mo
 
 Its web of roads leading to and from many gates leads to every door in the city, up endless ramps and stairs you are brought to Opportunities main concourse. A gigantic main street surrounding a black spear like shard of obsidian nearly 20 feet tall suspended in a gravitational field of some sort. It leads to each of the 
 
-1. <span style="color:#00b0f0">Damius' Forum</span>
+1. <span style="color:#00b0f0">Damius' Forum</span>: A place for worship, guidance and learning. 
 2. <span style="color:#00b0f0">Damocan's Grounds</span> *highest on hill*: Gov sanctioned fighting pit. for worship through combat surrounded by a few minor religions embassies
 3. <span style="color:#00b0f0">The Streets of Sapphire</span> *lowest on the hill*: Trading/Entertainment district bisected by large Veins)
-4. <span style="color:#7030a0">Red Lamp District</span>: Gambling, drugery, and dark dealings
-5. <span style="color:#7030a0">Storming Ridge</span> "Logistics Co. Sponsored Depot": Undercity of a sort on the outermost part of the city just inside near a train station and large offloading cranes. Train is being assembled in a large yard made *specifically* for interchanging to unbuilt lines. 
-6. <span style="color:#00b0f0">The Narrows</span>: Back alley brawling and more extremism for worshiping Damocan. Also low level bars, businesses among a growing too large amount of homes.
-7. Guild Square (Or Diamond) 
-	1. The Family
-	2. The Fleshcrafters
-	3. 
+4. <span style="color:#7030a0">Storming Ridge</span> "Logistics Co. Sponsored Depot": Undercity of a sort on the outermost part of the city just inside near a train station and large offloading cranes. Train is being assembled in a large yard made *specifically* for interchanging to unbuilt lines. 
+5. <span style="color:#00b0f0">The Narrows</span>: Back alley brawling and more extremism for worshiping Damocan. Also low level bars, businesses among a growing too large amount of homes.
+6. Guild Square (Or Diamond) 
+	1. The Family (Central)
+	2. The Fleshcrafter's Guild
+	3. Street of Steel
+	4. Street of Silk: Gambling, drugery, and dark dealings
+	5. Pathfinders Guild
 
 
 
