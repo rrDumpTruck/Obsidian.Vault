@@ -6,4 +6,5 @@ Located in the hilly region central to the Howling plateau, to the south of a mo
 Its web of roads leading to and from many gates leads to every door in the city, up endless ramps and stairs you are brought to Opportunities main concourse. A gigantic main street surrounding a black spear like shard of obsidian nearly 20 feet tall suspended in a gravitational field of some sort. It leads to each of the 
 
 1. Damius' Forum
-2. 
+2. Damocan's Ground (Gov sanctioned fighting pit. for worship through combat surrounded by a few minor religions )
+3. 
