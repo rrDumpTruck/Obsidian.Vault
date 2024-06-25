@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO.md",
+                "file": "Locations.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO.md",
+                "file": "Locations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO.md",
+                "file": "Locations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO.md"
+                "file": "Locations.md"
               }
             }
           },
@@ -192,8 +192,8 @@
   },
   "active": "b96564b0e38a9a12",
   "lastOpenFiles": [
-    "Ideas.md",
     "TO DO.md",
+    "Ideas.md",
     "NPCs.md",
     "Secret Lore Stuff.md",
     "DoA.md",
