@@ -16,3 +16,6 @@ Session notes:
 Increase in security at the academy with "the military". 
 
 Belly Coast Dorms - Dorm at school. 
+
+Gained supplier for illicit substances in city outside of school. 
+
