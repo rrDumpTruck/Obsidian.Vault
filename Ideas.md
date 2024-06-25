@@ -18,7 +18,7 @@ Defenses
 Social Hubs)
 
 
-New religion based on a twisted version of the overworld gods, initial lore coming from a old crazy seeming homeless man. 
+
 
 Radigan is missing since bombings, having only occasionionally shown her self at other major political events very briefly. 
 
