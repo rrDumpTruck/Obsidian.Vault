@@ -9,5 +9,5 @@ Its web of roads leading to and from many gates leads to every door in the city,
 2. Damocan's Ground (Gov sanctioned fighting pit. for worship through combat surrounded by a few minor religions embassies)
 3. The Streets of Sapphire (Trading/Entertainment district bisected by large Veins)
 4. Red Lamp District (Gambling, drugery, and dark dealings)
-5. Warehouse/logistics (Undercity of a sort on the out)
-6. 
+5. Warehouse/logistics: Undercity of a sort on the outermost part of the city just inside near a train station and large offloading cranes. Train is being assembled in a large yard made *specifically* for interchanging to unbuilt lines. 
+6. The Narrows: Back alley brawling and more extremism for worshiping Damocan. Also low level bars, businesses among a growing too large amount of homes. 
