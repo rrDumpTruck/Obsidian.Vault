@@ -5,7 +5,8 @@ Malleus - ME a turtle with a slow British accent.
 
 Tech - Roommate from "swampish". Frill neck lizard folk, viacarys is lizard folk "home". A few lizard folk with scars around wrists or ankles around Leunoveon. 
 
-"Mick Dagger" - Half elf half tiefling, silver hair, tail and horns , white leather jacket. 5'8"
+"Mick Dagger" - Half elf half tiefling, silver hair, tail and horns , white leather jacket. 5'8".
+Follower of Minerva, Goddess of wisdom and crafts.
 
 Groundskeeper Cloverine - Tends to the land and gardens of the school. 
 
