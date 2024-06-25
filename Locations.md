@@ -39,7 +39,12 @@ sticker: emoji//1f5fa-fe0f
 	A once raging volcano that went dormant shortly after the event of the second new arrival. The tallest known landmark in the world.
 
 <span style="color:#7030a0">The Lake of Serene</span>
-	A placid lake in the center of a sea of grass, the Lake of Serene is the only known natural body of water that is able to be drank from without preapplication of the Juice. 
+	A placid lake in the center of a sea of grass, the Lake of Serene is the only known natural body of water that is able to be drank from without preapplication of the Juice. This is a test of my serenity. 1
+23
+4
+5
+6999
+
 
 <span style="color:#00b0f0">Opportunity</span>
 	[MORE HERE ](obsidian://open?vault=Obsidian.Vault&file=L%20-%20Opportunity)
