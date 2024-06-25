@@ -32,7 +32,7 @@ sticker: emoji//1f5fa-fe0f
 
 ---
 
-<span style="color:#ffc000">The "Howling" Plateau - North </span>
+<span style="color:#ffc000">The "Howling" Plateau - North *the Harvester Damocan</span>
 	An area known for its vast open plains of greyish green grasses and a large half moon shaped inlet leading from the Sapphire Abyss currently supplying the only known readily drinkable water source in the world. In the center nearly in the tallest mountain next to the convergence lies...
 
 <span style="color:#7030a0">Obsidian Peak</span>
@@ -42,14 +42,14 @@ sticker: emoji//1f5fa-fe0f
 	A placid lake in the center of a sea of grass, the Lake of Serene is the only known natural body of water that is able to be drank from without preapplication of the Juice. 
 
 <span style="color:#00b0f0">Opportunity</span>
-	⁠⁠⁠A large city in the province of the Plateau, Opportunity was originally a prospector town founded in 44 A.C. by the now Saint Damius. Now it is a sprawling place of trade, industry, back-alley deals and plots for the next expedition for the glorious Juice. Look no further than this Opportunity to visit your local Fleshcrafter and get an upgrade, as this city is recently the only one with unrestricted access to special surgeries utilizing the Juice. 
+	A large city in the province of the Plateau, Opportunity was originally a prospector town founded in 44 A.C. by the now Saint Damius. Now it is a sprawling place of trade, industry, back-alley deals and plots for the next expedition for the glorious Juice. Look no further than this Opportunity to visit your local Fleshcrafter and get an upgrade, as this city is recently the only one with unrestricted access to special surgeries utilizing the Juice. 
 
 <span style="color:#7030a0">The Halessian Institute</span>
 	A home and pilgrimage for many of the worlds most industrious beings, the Institute holds some of the worlds only professional certifications, in Pathfinding, Vascular Prospecting, Particle enrichment and many other quite technical and pragmatic licenses. Established by an unknown scholar rumored to be one of the first of the fourty four to stake a claim made his by founding a place for all to study. Founding dates earlier than the nearby city of opportunity. 
 
 ---
 
-<span style="color:#ffc000">The Ashen Wastes - East(Previously Elysia)</span>
+<span style="color:#ffc000">The Ashen Wastes - East(Previously Elysia) *the Listener Radigan*</span>
 	A barren desert of extreme climates and magical misdirection the Ashen Wastes are yet to be accurately measured or mapped. This is due to the lands tendency change and reform itself in unpredictable and unrepeating ways making navigation nearly impossible without a Pathfinder. 
 
 <span style="color:#00b0f0">The Profligate City</span>
@@ -90,7 +90,7 @@ sticker: emoji//1f5fa-fe0f
   
 ---
 
-<span style="color:#ffc000">Stygian Forest - West *the Sleeper </span>
+<span style="color:#ffc000">Stygian Forest - West *the Sleeper Lyralel*</span>
 	A densely packed forest of tall trees that obscures most outside light and noise. Around each tree dances lantern flies that glow blue during the nighttime, and the floor is bare dirt and stone. Home to all manner of beast and spirit it has made an end to many who enter it. The source of nutrients for the immense number of trees is a great mystery but there are tales of a secret place deep in the wood that has to find you. 
 
 <span style="color:#00b0f0">Slumberglade</span>
