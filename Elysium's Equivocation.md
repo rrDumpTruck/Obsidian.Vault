@@ -1,6 +1,13 @@
 ---
 sticker: emoji//1f60b
 ---
+Goals: 
+1. Learn more about Mick's past group. 
+2. Determine what my discovery will be (from background).
+3. 
+
+
+
 Malleus - ME a turtle with a slow British accent. 
 
 Tech - Roommate from "swampish". Frill neck lizard folk, viacarys is lizard folk "home". A few lizard folk with scars around wrists or ankles around Leunoveon. 
