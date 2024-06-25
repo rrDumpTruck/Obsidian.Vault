@@ -42,6 +42,7 @@ sticker: emoji//1f5fa-fe0f
 	A placid lake in the center of a sea of grass, the Lake of Serene is the only known natural body of water that is able to be drank from without preapplication of the Juice. 
 
 <span style="color:#00b0f0">Opportunity</span>
+	[MORE HERE ](obsidian://open?vault=Obsidian.Vault&file=L%20-%20Opportunity)
 	A large city in the province of the Plateau, Opportunity was originally a prospector town founded in 44 A.C. by the now Saint Damius. Now it is a sprawling place of trade, industry, back-alley deals and plots for the next expedition for the glorious Juice. Look no further than this Opportunity to visit your local Fleshcrafter and get an upgrade, as this city is recently the only one with unrestricted access to special surgeries utilizing the Juice. 
 
 <span style="color:#7030a0">The Halessian Institute</span>
