@@ -32,7 +32,7 @@ sticker: emoji//1f5fa-fe0f
 
 ---
 
-<span style="color:#ffc000">The "Howling" Plateau - North</span>
+<span style="color:#ffc000">The "Howling" Plateau - North </span>
 	An area known for its vast open plains of greyish green grasses and a large half moon shaped inlet leading from the Sapphire Abyss currently supplying the only known readily drinkable water source in the world. In the center nearly in the tallest mountain next to the convergence lies...
 
 <span style="color:#7030a0">Obsidian Peak</span>
@@ -74,7 +74,7 @@ sticker: emoji//1f5fa-fe0f
 
 ---
 
-<span style="color:#ffc000">The Glistering Highlands - South</span>
+<span style="color:#ffc000">The Glistering Highlands - South *the Limper Ereball*</span>
 	A large volcanic mountain range with the lowest points being towards the center and the highest being near the sea. Dotting the landscapes are both dormant and active volcanoes that fill the sky with glowing red ash that seems to flicker and dance across the sky like glitter. Nearly ten thousand feet at its highest point this mountain range is home to many dangers but also the largest city in the world, the underground city of Galolir. 
 
 <span style="color:#00b0f0">Galolir</span>
@@ -90,7 +90,7 @@ sticker: emoji//1f5fa-fe0f
   
 ---
 
-<span style="color:#ffc000">Stygian Forest - West</span>
+<span style="color:#ffc000">Stygian Forest - West *the Sleeper </span>
 	A densely packed forest of tall trees that obscures most outside light and noise. Around each tree dances lantern flies that glow blue during the nighttime, and the floor is bare dirt and stone. Home to all manner of beast and spirit it has made an end to many who enter it. The source of nutrients for the immense number of trees is a great mystery but there are tales of a secret place deep in the wood that has to find you. 
 
 <span style="color:#00b0f0">Slumberglade</span>
