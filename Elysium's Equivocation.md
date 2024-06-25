@@ -4,7 +4,7 @@ sticker: emoji//1f60b
 Goals: 
 1. Learn more about Mick's past group. 
 2. Determine what my discovery will be (from background).
-3. Work on supplying my lore addiction by selling drugs to fellow students. 
+3. Sell drugs to a student. 
 
 
 
