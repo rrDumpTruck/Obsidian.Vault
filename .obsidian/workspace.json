@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "Locations.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "Locations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "Locations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L - Opportunity.md"
+                "file": "Locations.md"
               }
             }
           },
@@ -192,13 +192,14 @@
   },
   "active": "ce29a28e638fc8bd",
   "lastOpenFiles": [
-    "Locations.md",
-    "TO DO.md",
-    "L - Opportunity.md",
-    "The Veins Session 0 Handout .md",
-    "Ideas.md",
-    "General Rules.md",
     "NPCs.md",
+    "Ideas.md",
+    "The Timeline.md",
+    "Locations.md",
+    "L - Opportunity.md",
+    "TO DO.md",
+    "The Veins Session 0 Handout .md",
+    "General Rules.md",
     "C - Opportunity.md",
     "Player Character Info.md",
     "Secret Lore Stuff.md",
@@ -208,7 +209,6 @@
     "DoA.md",
     "Elysium's Equivocation.md",
     "Starter Lore Handout.md",
-    "The Timeline.md",
     "Rules of the Setting.md",
     "Fragmented.md",
     "Channel Ideas.md",

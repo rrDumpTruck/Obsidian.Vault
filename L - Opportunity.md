@@ -38,12 +38,18 @@ Storming Ridge:
 The Narrows: 
 
 Guild Square 
--The Family 
+### -The Family 
+	A mob-like organization that deals primarily in deals in shipping and transit in between The Wall. Securing a deal with them can be done but you must become a trusted venture before they are willing to help your cause. 
+*Currently has a debt with Matt's Character*
+
+House 
+
 -The Fleshcrafter's Guild 
 -Streets of Steel 
 -Streets of Silk
 -The Pathfinder's Guild
 -The Consortium
+	
 
 
 
