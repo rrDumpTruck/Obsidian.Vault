@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "C - Opportunity.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "C - Opportunity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "C - Opportunity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L - Opportunity.md"
+                "file": "C - Opportunity.md"
               }
             }
           },
@@ -193,10 +193,10 @@
   "active": "ce29a28e638fc8bd",
   "lastOpenFiles": [
     "Locations.md",
+    "L - Opportunity.md",
     "NPCs.md",
     "Ideas.md",
     "The Timeline.md",
-    "L - Opportunity.md",
     "TO DO.md",
     "The Veins Session 0 Handout .md",
     "General Rules.md",
