@@ -21,8 +21,9 @@ Its web of roads leading to and from many gates leads to every door in the city,
 The consortium maintains a legitimate business in Opportunity where they run a kind of magic shop, book store and alchemist. The shop is ran by one Jedediah Narrowfeather, father of a local political dissonant, Drake Narrowfeather who leads the peoples Republic of Opportunity. 
 
 In recent times the organization has taken contracts both far and wide, even accepted some special help from some professors at the institute. Of note recently a special secret contract has been rumored to find more information on the Herald.
-8. Upper End: Housing district for the upper class and well inherited.
-9. Lower End: The road leading from the Grand Concourse spirals down into the mountain that the keep is settled p
+1. <span style="color:#00b0f0">Upper End</span>: Housing district for the upper class and well inherited.
+2. <span style="color:#00b0f0">Lower End</span>: The road leading from the Grand Concourse spirals down into the mountain that the keep is settled upon. Hinting at a city yet unseen. 
+Further down you find that road leads to many different type of underground settlement. A cavernous basin of blue Juice 
 
 
 
