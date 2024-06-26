@@ -27,6 +27,9 @@ The consortium maintains a legitimate business in Opportunity where they run a k
 2. <span style="color:#00b0f0">Lower End</span>: The road leading from the Grand Concourse spirals down into the mountain that the keep is settled upon. Hinting at a city yet unseen. 
 Further down you find that road leads to many different type of underground settlement. A cavernous basin of blue Juice with a incising road leading to hovels, homes and even some prouder buildings on the spires of earth left behind. Far below a Sapphire beam of light shines from the deepest depths of the cavern up and into somewhere above. 
 
+Damius' Forum 
+Damocan's Grounds
+
 
 
 
