@@ -20,7 +20,7 @@ At the Top of the Mountain: Lies a burnt keep rising from the foundational stone
 	5. Pathfinders Guild
 7. <span style="color:#ff0000">The Consortium</span>: The consortium is what they call the shadowed organization who has eyes all over opportunity. Everything from study of dark magic to past assassination attempts against the Sleeper shortly after the fall of Elysia. 
 
-The consortium maintains a legitimate business in Opportunity where they run a kind of magic shop, book store and alchemist. The shop is ran by one Jedediah Narrowfeather, father of a local political dissonant, Drake Narrowfeather who leads the peoples Republic of Opportunity. 
+The consortium maintains a legitimate business in Opportunity where they run a kind of magic shop, book store and alchemist. The shop is ran by one <span style="color:#00b050">Jedediah Narrowfeather</span>, father of a local political dissonant, <span style="color:#00b050">Drake Narrowfeather</span> who leads the peoples <span style="color:#00b050">Republic of Opportunity</span>. 
 
 *secret to all but Badmeis* In recent times the organization has taken contracts both far and wide, even accepted some special help from some professors at the institute. Of note recently a special secret contract has been rumored to find more information on the Herald.
 1. <span style="color:#00b0f0">Upper End</span>: Housing district for the upper class and well inherited.
@@ -38,18 +38,24 @@ Storming Ridge:
 The Narrows: 
 
 Guild Square 
-### -The Family 
+### -The <span style="color:#00b050">Family</span> 
 	A mob-like organization that deals primarily in deals in shipping and transit in between The Wall. Securing a deal with them can be done but you must become a trusted venture before they are willing to help your cause. 
 *Currently has a debt with Matt's Character*
+House <span style="color:#00b050">Julius</span>
+	Father Janus Julius 
+	Mother Dianne
+	Daughter 
+### -<span style="color:#00b050">The Fleshcrafter's Guild </span>
 
-House 
-
--The Fleshcrafter's Guild 
 -Streets of Steel 
+
 -Streets of Silk
+
 -The Pathfinder's Guild
+
 -The Consortium
-	
+
+
 
 
 
