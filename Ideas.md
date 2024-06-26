@@ -17,7 +17,7 @@ Resources
 Defenses
 Social Hubs)
 
-
+An oversized pocketwatch sparkling silver with red accents. Etched on the cover of the watch states "My life... for you Verona" With the Initials V. + E *Eresiod*. underneath.
 
 
 Radigan is missing since bombings, having only occasionionally shown her self at other major political events very briefly. 
