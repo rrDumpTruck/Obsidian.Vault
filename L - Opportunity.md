@@ -13,7 +13,7 @@ At the Top of the Mountain: Lies a burnt keep rising from the foundational stone
 4. <span style="color:#7030a0">Storming Ridge</span> "Logistics Co. Sponsored Depot": Undercity of a sort on the outermost part of the city just inside near a train station and large offloading cranes. Train is being assembled in a large yard made *specifically* for interchanging to unbuilt lines. 
 5. <span style="color:#00b0f0">The Narrows</span>: Back alley brawling and more extremism for worshiping Damocan. Also low level bars, businesses among a growing too large amount of homes.
 6. Guild Square (Or Diamond)
-	1. The Family (Central)
+	1. The Family (Central) (((Has ties with Matt's character)))
 	2. The Fleshcrafter's Guild
 	3. Street of Steel
 	4. Street of Silk: Gambling, drugery, and dark dealings
