@@ -44,9 +44,12 @@ Guild Square
 House <span style="color:#00b050">Julius</span>
 	Father Janus Julius 
 	Mother Dianne
-	Daughter 
+	Daughter Iris 
+	Son Leto 
 ### -<span style="color:#00b050">The Fleshcrafter's Guild </span>
-
+Aorta's Work Shop
+	The shop where "Where did I leave my Aorta" has started the Empire of Flesh in Opportunity. Now has a common area where he greets guests and holds guild events with other guilds that work with him. 
+	
 -Streets of Steel 
 
 -Streets of Silk
