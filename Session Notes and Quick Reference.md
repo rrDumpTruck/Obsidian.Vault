@@ -24,8 +24,8 @@ The Bleeding Heart
 A small log rancher next to a Helix with a sign of a cartoon heart impaled by a couple slug like creatures (Bluefly). There is a stable in near proximity to the barn and Tavern with the sign on it. Inside you can see a few tables a large smokeless green fire. A few rooms are available for rent in the upstairs of the structure. 
 
 Owners: 
-Hector Scipio - A dashing red 
-
+<span style="color:#00b050">Hector Scipio</span> - Posh English - A dashing red tiefling with a pleasing personality. His necklace looks very valuable 
+Heidie
 
 *Helix: Local foliage made up out of Juice Veins, they take the shape of a complex 10+ foot tall blue helix.* 
 
@@ -38,3 +38,13 @@ Hector Scipio - A dashing red
 You hear a rhythmic undulation around you begin as you hear in <span style="color:#ffc000">syncopated speech</span> <span style="color:#7030a0">"Welcome to my Workshop dearies."</span> It takes a moment but you realize on the outside of their central cavity is a scattering of mouths each placed in a different orientation. Their lips move and they speak a single chord with a note of each octave, but corrupt like an record player at the bottom of a well. 
 
 *<span style="color:#c00000"> *Personality: A chaotic pragmatist who plays favorites, genuinely disgusted by playing it safe in any way. Greedy but only until she makes you upset.* </span>
+
+---
+<span style="color:#ffc000">NPCS</span>
+
+
+<span style="color:#c00000">The King</span> - *MISSING* Lord Damocan the Formless 
+<span style="color:#c00000">The Queen</span> - *In Absentia to the King and Protected Heavily* Lady Kyrie of the Lake (Became royalty after being found by Damocan while on a hunt near the lake of Serene.)
+<span style="color:#c00000">The Knight</span> - War-master Vassa responsible for the Realm's military acumen, acquisition and stance. 
+<span style="color:#c00000">The Page</span> - Master of Law Lady Keenan and <span style="color:#ffc000">Herald of the Seven</span>
+<span style="color:#c00000">The Fool </span>- Master of Entertainment Triboulet (Tri-boolet) Responsible for the nations secret police, Court System and regulations of local establishments. 
