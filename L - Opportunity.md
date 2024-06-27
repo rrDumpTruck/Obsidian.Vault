@@ -26,6 +26,7 @@ At the Top of the Mountain: Lies a burnt keep rising from the foundational stone
 
 1. Upper End: Housing district for the upper class and well inherited.
 2. Lower End: The road leading from the Grand Concourse spirals down into the mountain that the keep is settled upon. Hinting at a city yet unseen. 
+
 Further down you find that road leads to many different type of underground settlement. A cavernous basin of blue Juice with a incising road leading to hovels, homes and even some prouder buildings on the spires of earth left behind. Far below a Sapphire beam of light shines from the deepest depths of the cavern up and into somewhere above. 
 
 Damius' Forum: 
@@ -60,7 +61,8 @@ There are other shops here of varying qualities beside Aorta's massive complex.
 	A place for the lowborn activities of the modern age. Gambling, sex work, hard drugs and black market dealings with the local wildlife. 
 
 ### -The Pathfinder's Guild
-	The place where all pathfinders working in The Howling Plateau must register their group 
+	The place where all pathfinders working in The Howling Plateau must register their group. 
+	The building itself stands on a diverging Vein that unearths on the side of the moutain leading higher up still. A greenhouse like building it has a consistant view of the valley, 
 
 -The Consortium
 

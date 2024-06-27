@@ -37,6 +37,6 @@ QUESTS: XP values are Encounter Difficulty*4 in XP value
 
 <span style="color:#ffc000">Illayra</span>  (Level 1 Human, Artificer)
 
-<span style="color:#ffc000">T. H. U. M. P. </span>(Level 1 )
+<span style="color:#ffc000">T. H. U. M. P. </span>(Level 1 Warforged, Monk)
 
-<span style="color:#ffc000">SKREEP</span>
+<span style="color:#ffc000">SKREEP</span> (Level 1 Kobold, Draconic Sorcerer)
