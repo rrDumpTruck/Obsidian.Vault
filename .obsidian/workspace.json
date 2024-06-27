@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "TO DO.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -192,12 +192,12 @@
   },
   "active": "ce29a28e638fc8bd",
   "lastOpenFiles": [
+    "Session Notes and Quick Reference.md",
+    "The Veins Session 0 Handout .md",
     "Ideas.md",
-    "Untitled.md",
     "NPCs.md",
     "Locations.md",
     "The Timeline.md",
-    "The Veins Session 0 Handout .md",
     "L - Opportunity.md",
     "C - Opportunity.md",
     "TO DO.md",
