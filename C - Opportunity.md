@@ -10,4 +10,5 @@ Mavakos, the owner of the shop decided to hire him as one of his "underground" w
 
 You hear a rhythmic undulation around you begin as you hear in <span style="color:#ffc000">syncopated speech</span> <span style="color:#7030a0">"Welcome to my Workshop dearies."</span> It takes a moment but you realize on the outside of their central cavity is a scattering of mouths each placed in a different orientation. Their lips move and they speak a single chord with a note of each octave, but corrupt like an record player at the bottom of a well. 
 
-*<span style="color:#c00000"> Personality: A chaotic pragmatist who plays favorites, genuinely disgusted by playing it safe in any way. Greedy but only until she makes you upset. </span>
+*<span style="color:#c00000"> *Personality: A chaotic pragmatist who plays favorites, genuinely disgusted by playing it safe in any way. Greedy but only until she makes you upset.* </span>
+

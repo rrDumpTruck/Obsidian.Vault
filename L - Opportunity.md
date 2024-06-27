@@ -50,11 +50,12 @@ House <span style="color:#00b050">Julii</span> *(jool-ee-aye)*
 ### -<span style="color:#00b050">The Fleshcrafter's Guild </span>
 Aorta's Work Shop
 	The shop where "Where did I leave my Aorta" has started the Empire of Flesh in Opportunity. Now has a common area where he greets guests and holds guild events with other guilds that work with him. 
-
 	
 -Streets of Steel 
+	A place for craftsmen of all kinds, some sell here but most just produce here and sell in the *Streets of Sapphire*, or at the *Consortium Shop*.
 
 -Streets of Silk
+	A 
 
 -The Pathfinder's Guild
 
