@@ -18,7 +18,12 @@ Layout for next session:
 1. Go over backstories make sure everyone is comfortable with their character. 
 2. Cover goals rules and make sure everyone understands their goals. 
 3. Explain their location refer to [Locations](obsidian://open?vault=Obsidian.Vault&file=Locations)
-4. The party probably meets at a tavern named 
+4. The party probably meets at a tavern named The Bleeding Heart
+
+The Bleeding Heart
+A small log rancher next to a Helix with a sign of a cartoon heart impaled by a 
+
+Helix: Local foliage made up out of Juice Veins, they take the shape of a complex 10+ foot tall blue helix. 
 
 
 
