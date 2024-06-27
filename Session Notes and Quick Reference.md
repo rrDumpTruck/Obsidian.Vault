@@ -25,7 +25,7 @@ A small log rancher next to a Helix with a sign of a cartoon heart impaled by a 
 
 Owners: 
 <span style="color:#00b050">Hector Scipio</span> - Posh English - A dashing red tiefling with a pleasing personality. His necklace looks very valuable 
-Heidie
+Heidi Vashion - Vague Spanish - Pale elf like 
 
 *Helix: Local foliage made up out of Juice Veins, they take the shape of a complex 10+ foot tall blue helix.* 
 
