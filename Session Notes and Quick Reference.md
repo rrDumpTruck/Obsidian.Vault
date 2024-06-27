@@ -21,10 +21,11 @@ Layout for next session:
 4. The party probably meets at a tavern named The Bleeding Heart
 
 The Bleeding Heart
-A small log rancher next to a Helix with a sign of a cartoon heart impaled by a 
+A small log rancher next to a Helix with a sign of a cartoon heart impaled by a couple slug like creatures (Bluefly). There is a stable in near proximity to the barn and Tavern with the sign on it. Inside you can see a few tables 
 
 Helix: Local foliage made up out of Juice Veins, they take the shape of a complex 10+ foot tall blue helix. 
 
+BlueFly: Type of Fly that begins to swarm near large collections of non fissure accessed Juice. 
 
 
 
