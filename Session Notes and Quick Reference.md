@@ -21,13 +21,14 @@ Layout for next session:
 4. The party probably meets at a tavern named The Bleeding Heart
 ---
 The Bleeding Heart
-A small log rancher next to a Helix with a sign of a cartoon heart impaled by a couple slug like creatures (Bluefly). There is a stable in near proximity to the barn and Tavern with the sign on it. Inside you can see a few tables a large smokeless green fire. A few rooms are available for rent in the upstairs of the structure. 
+A small three story log rancher with high rooves and stained glass windows. The Foundation of the building look burned, it is next to a Helix with a sign of a cartoon heart impaled by a couple slug like creatures (Bluefly). There is a stable in near proximity to the barn and Tavern with the sign on it. Inside you can see a few tables a large smokeless green fire. A few rooms are available for rent in the upstairs of the structure. 
 
 Owners: 
 <span style="color:#00b050">Hector Scipio</span> - Posh English - A dashing red tiefling with a pleasing personality. His necklace looks very valuable 
-Heidi Vashion - Vague Spanish - Pale matronly elf seems to be a past adventurer of some sort
+Heidi Vashon - Vague Spanish - Pale matronly elf seems to be a past adventurer of some sort
 Drek - Simple English - the Heart's bouncer and quartermaster. 
-Violet - Peasent English - 
+Violet - Peasant English - A normal looking human woman, the tavern's manager and main server. 
+
 
 *Helix: Local foliage made up out of Juice Veins, they take the shape of a complex 10+ foot tall blue helix.* 
 
