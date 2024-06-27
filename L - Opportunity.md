@@ -44,6 +44,8 @@ Storming Ridge:
 
 The Narrows: 
 
+### <span style="color:#00b050">-The Consortium</span>
+
 Guild Square 
 ### -The <span style="color:#00b050">Family</span> 
 	A mob-like organization that deals primarily in deals in shipping and transit in between The Wall. Securing a deal with them can be done but you must become a trusted venture before they are willing to help your cause. 
@@ -69,8 +71,6 @@ There are other shops here of varying qualities beside Aorta's massive complex.
 	The place where all pathfinders working in The Howling Plateau must register their group. 
 	The building itself stands on a diverging Vein that unearths on the side of the moutain leading higher up still. A greenhouse like building it has a consistant view of the whole world, on its upper floors you are able to see to the bottom of the convergence. 
 	To Mine a Vein a Pathfinder must first register as a courier at the Cobalt Company. Or hire a Pathfinder to accompany you to a new dig site and stake the propper claim with The Court at . 
-
--The Consortium
 
 
 
