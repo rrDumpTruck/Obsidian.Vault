@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO.md",
+                "file": "C - Opportunity.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO.md",
+                "file": "C - Opportunity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO.md",
+                "file": "C - Opportunity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO.md"
+                "file": "C - Opportunity.md"
               }
             }
           },
@@ -192,15 +192,15 @@
   },
   "active": "ce29a28e638fc8bd",
   "lastOpenFiles": [
+    "L - Opportunity.md",
+    "TO DO.md",
     "Session Notes and Quick Reference.md",
     "The Veins Session 0 Handout .md",
     "Ideas.md",
     "NPCs.md",
     "Locations.md",
     "The Timeline.md",
-    "L - Opportunity.md",
     "C - Opportunity.md",
-    "TO DO.md",
     "General Rules.md",
     "Player Character Info.md",
     "Secret Lore Stuff.md",
