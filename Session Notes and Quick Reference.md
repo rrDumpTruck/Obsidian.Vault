@@ -19,16 +19,19 @@ Layout for next session:
 2. Cover goals rules and make sure everyone understands their goals. 
 3. Explain their location refer to [Locations](obsidian://open?vault=Obsidian.Vault&file=Locations)
 4. The party probably meets at a tavern named The Bleeding Heart
-
+---
 The Bleeding Heart
-A small log rancher next to a Helix with a sign of a cartoon heart impaled by a couple slug like creatures (Bluefly). There is a stable in near proximity to the barn and Tavern with the sign on it. Inside you can see a few tables 
+A small log rancher next to a Helix with a sign of a cartoon heart impaled by a couple slug like creatures (Bluefly). There is a stable in near proximity to the barn and Tavern with the sign on it. Inside you can see a few tables a large smokeless green fire. A few rooms are available for rent in the upstairs of the structure. 
 
-Helix: Local foliage made up out of Juice Veins, they take the shape of a complex 10+ foot tall blue helix. 
-
-BlueFly: Type of Fly that begins to swarm near large collections of non fissure accessed Juice. 
-
+Owners: 
+Hector Scipio - A dashing red 
 
 
+*Helix: Local foliage made up out of Juice Veins, they take the shape of a complex 10+ foot tall blue helix.* 
+
+*BlueFly: Type of Fly that begins to swarm near large collections of non fissure accessed Juice.* 
+
+---
 <span style="color:#c00000">Aorta</span>'s Workshop 
 "Where did I leave my Aorta" or "<span style="color:#c00000">Aorta</span>" - A squelching mass of arms, the thing known as Aorta has a pinkish red hue allover its bodies various and numbered joints. Ligaments, arteries, fingers, mouths, tongues and the end and beginning of this creature is held in question. Eventually they seem to open the central cavity and a short cylindrical web of muscle fibers, tendons and nerve endings lead up to a globe of eyes. Some darting, some scanning, some staring... all manner of beast, fish, man and even some you don't recognize seem to look through you. 
 
