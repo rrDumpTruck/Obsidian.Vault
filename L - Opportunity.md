@@ -5,7 +5,12 @@ Located in the hilly region central to the Howling plateau, to the south of a mo
 
 Its web of roads leading to and from many gates leads to every door in the city, up endless ramps and stairs you are brought to Opportunities grand concourse. A gigantic main street surrounding a black spear like shard of obsidian nearly 20 feet tall suspended in a gravitational field of some sort. It leads to each of the cities many districts and up to the keep far above through a series of large slabs of stone stacked on one another, some extending up and over the sea seemingly supported by nothing. 
 
-At the Top of the Mountain: Lies a burnt keep rising from the foundational stone deep down. Made from a tarnished grey stone its scale makes you wonder how big of a person it was meant for. 
+At the Top of the Mountain: Lies a burnt keep rising from the foundational stone deep down. Made from a tarnished grey stone its scale makes you wonder how big of a person it was meant for. This place known as <span style="color:#00b050">Kaom's</span> Keep, and is now home to the Court. The King, Queen, Knight and Page rule Opportunity and most of the surrounding Howling Plateau. 
+
+<span style="color:#c00000">The King</span> - Lord Damocan of the Formless
+<span style="color:#c00000">The Queen</span> - Lady 
+<span style="color:#c00000">The Knight</span> - 
+<span style="color:#c00000">The Page</span> - 
 
 1. <span style="color:#00b0f0">Damius' Forum</span> *In middle of Hill*: A place for worship, guidance and learning. There are a few minor religious establishments on the hilltop but the majority of ground is covered by the house of the Wind and Water, a knights academy that teaches Vein hunters and is trying to learn how to teach pathfinders. 
 2. <span style="color:#00b0f0">Damocan's Grounds</span> *highest on hill*: Gov sanctioned fighting pit. for worship through combat surrounded by a few minor religions embassies
