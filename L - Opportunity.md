@@ -1,11 +1,13 @@
 ---
 sticker: emoji//1f4a6
 ---
-Located in the hilly region central to the Howling plateau, to the south of a monumental shard of obsidian protruding from the ground lies the city of Opportunity. Dense arteries of veins intersect her many gates and walls. Casting a leering blue hue on the severe angles of the scrollwork and architecture adorning every piece of it. It tells a story of those who founded the city, some of its major familial sigils are on each gate of the metropolis. A mountain with three raised peaks(Church, government, commerce/culture.) a city layered in the lands uneven spots. Surrounding the many buildings of the uneven and tiered city is a wall of opaque black glass, with areas of older wrought iron and black stone. 
+Located in the hilly region central to the Howling plateau, to the south of a monumental shard of obsidian protruding from the ground lies the city of Opportunity. Dense arteries of veins intersect her many gates and walls. Casting a leering blue hue on the severe angles of the scrollwork and architecture adorning every piece of it. It tells a story of those who founded the city, some of its major familial sigils are on each gate of the metropolis. A mountain with three raised peaks a city layered in the lands uneven spots. Surrounding the many buildings of the uneven and tiered city is a wall of opaque black glass, with areas of older wrought iron and black stone. 
 
 Its web of roads leading to and from many gates leads to every door in the city, up endless ramps and stairs you are brought to Opportunities grand concourse. A gigantic main street surrounding a black spear like shard of obsidian nearly 20 feet tall suspended in a gravitational field of some sort. It leads to each of the cities many districts and up to the keep far above through a series of large slabs of stone stacked on one another, some extending up and over the sea seemingly supported by nothing. 
 
-At the Top of the Mountain: Lies a burnt keep rising from the foundational stone deep down. Made from a tarnished grey stone its scale makes you wonder how big of a person it was meant for. This place known as ~~<span style="color:#00b050">Kaom's</span>~~ Keep, and is now home to the Court. The King, Queen, Knight and Page rule Opportunity and most of the surrounding Howling Plateau. 
+At the Top of the Mountain: Lies a burnt keep rising from the foundational stone deep down. Made from a tarnished grey stone its scale makes you wonder how big of a person it was meant for. This place known as ~~<span style="color:#00b050">Kaom's</span>~~ Keep, and is now home to the Court. The King, Queen, Knight and Page rule Opportunity and most of the surrounding Howling Plateau. Its 
+
+
 
 <span style="color:#c00000">The King</span> - *MISSING* Lord Damocan the Formless 
 <span style="color:#c00000">The Queen</span> - *In Absentia to the King and Protected Heavily* Lady Kyrie of the Lake (Became royalty after being found by Damocan while on a hunt near the lake of Serene.)
@@ -32,8 +34,7 @@ At the Top of the Mountain: Lies a burnt keep rising from the foundational stone
 
 1. Upper End: Housing district for the upper class and well inherited.
 2. Lower End: The road leading from the Grand Concourse spirals down into the mountain that the keep is settled upon. Hinting at a city yet unseen. 
-
-Further down you find that road leads to many different type of underground settlement. A cavernous basin of blue Juice with a incising road leading to hovels, homes and even some prouder buildings on the spires of earth left behind. Far below a Sapphire beam of light shines from the deepest depths of the cavern up and into somewhere above. 
+	Further down you find that road leads to many different type of underground settlement. A cavernous basin of blue Juice with a incising road leading to hovels, homes and even some prouder buildings on the spires of earth left behind. Far below a Sapphire beam of light shines from the deepest depths of the cavern up and into somewhere above. 
 
 Damius' Forum: 
 
