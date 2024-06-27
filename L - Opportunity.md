@@ -10,8 +10,8 @@ At the Top of the Mountain: Lies a burnt keep rising from the foundational stone
 <span style="color:#c00000">The King</span> - *MISSING* Lord Damocan the Formless 
 <span style="color:#c00000">The Queen</span> - *In Absentia to the King and Protected Heavily* Lady Kyrie of the Lake (Became royalty after being found by Damocan while on a hunt near the lake of Serene.)
 <span style="color:#c00000">The Knight</span> - War-master Vassa responsible for the Realm's military acumen, acquisition and stance. 
-<span style="color:#c00000">The Page</span> - Master of Law Lady Keenan and Herald of the Seven
-The Fool - 
+<span style="color:#c00000">The Page</span> - Master of Law Lady Keenan and <span style="color:#ffc000">Herald of the Seven</span>
+<span style="color:#c00000">The Fool </span>- Master of Entertainment Gwepo 
 
 1. <span style="color:#00b0f0">Damius' Forum</span> *In middle of Hill*: A place for worship, guidance and learning. There are a few minor religious establishments on the hilltop but the majority of ground is covered by the house of the Wind and Water, a knights academy that teaches Vein hunters and is trying to learn how to teach pathfinders. 
 2. <span style="color:#00b0f0">Damocan's Grounds</span> *highest on hill*: Gov sanctioned fighting pit. for worship through combat surrounded by a few minor religions embassies
