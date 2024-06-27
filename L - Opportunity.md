@@ -62,7 +62,8 @@ There are other shops here of varying qualities beside Aorta's massive complex.
 
 ### -The Pathfinder's Guild
 	The place where all pathfinders working in The Howling Plateau must register their group. 
-	The building itself stands on a diverging Vein that unearths on the side of the moutain leading higher up still. A greenhouse like building it has a consistant view of the valley, 
+	The building itself stands on a diverging Vein that unearths on the side of the moutain leading higher up still. A greenhouse like building it has a consistant view of the whole world, on its upper floors you are able to see to the bottom of the convergence. 
+	To Mine a Vein a Pathfinder must first register as a courier at the Cobalt Company. Or hire a Pathfinder to accompany you to a new dig site and stake the propper claim with The Court at . 
 
 -The Consortium
 
