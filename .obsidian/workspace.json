@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "Player Character Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "Player Character Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "Player Character Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L - Opportunity.md"
+                "file": "Player Character Info.md"
               }
             }
           },
@@ -192,12 +192,13 @@
   },
   "active": "ce29a28e638fc8bd",
   "lastOpenFiles": [
+    "Session Notes and Quick Reference.md",
     "C - Opportunity.md",
-    "General Rules.md",
+    "Starter Lore Handout.md",
     "L - Opportunity.md",
+    "General Rules.md",
     "Player Character Info.md",
     "TO DO.md",
-    "Session Notes and Quick Reference.md",
     "The Veins Session 0 Handout .md",
     "Ideas.md",
     "NPCs.md",
@@ -209,7 +210,6 @@
     "Home.md",
     "DoA.md",
     "Elysium's Equivocation.md",
-    "Starter Lore Handout.md",
     "Rules of the Setting.md",
     "Fragmented.md",
     "Channel Ideas.md",

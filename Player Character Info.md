@@ -20,7 +20,8 @@ Wants to play Warforged created by @Nebulousmatt's Artificer character.
 Warforged monk, made of beer barrels. 
 
 ---
-@RebelliousBear Foundry PW: 523456789
+<span style="color:#ffc000">SKREEP |</span> @RebelliousBear Foundry PW: 523456789
 Wants to play Skreep (Rogue/Paladin) a "non-serious character"
 
 
+Goals

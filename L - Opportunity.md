@@ -60,7 +60,7 @@ There are other shops here of varying qualities beside Aorta's massive complex.
 	A place for the lowborn activities of the modern age. Gambling, sex work, hard drugs and black market dealings with the local wildlife. 
 
 ### -The Pathfinder's Guild
-	The place where all pathfinders working in The Howling Plateau must sign up 
+	The place where all pathfinders working in The Howling Plateau must register their group 
 
 -The Consortium
 
