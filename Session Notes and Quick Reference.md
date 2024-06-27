@@ -17,7 +17,8 @@ The Consortium's reason for surveying the land is somewhat of a trick. They are 
 Layout for next session: 
 1. Go over backstories make sure everyone is comfortable with their character. 
 2. Cover goals rules and make sure everyone understands their goals. 
-3. 
+3. Explain their location refer to [Locations](obsidian://open?vault=Obsidian.Vault&file=Locations)
+4. The party probably meets at a tavern named 
 
 
 
