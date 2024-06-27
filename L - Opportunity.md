@@ -48,16 +48,19 @@ House <span style="color:#00b050">Julii</span> *(jool-ee-aye)*
 	Daughter Iris Julii
 	Son Leto Julii
 ### -<span style="color:#00b050">The Fleshcrafter's Guild </span>
-Aorta's Work Shop
+<span style="color:#00b050">Aorta</span>'s Work Shop
 	The shop where "Where did I leave my Aorta" has started the Empire of Flesh in Opportunity. Now has a common area where he greets guests and holds guild events with other guilds that work with him. 
 	
--Streets of Steel 
+There are other shops here of varying qualities beside Aorta's massive complex. 
+
+### -<span style="color:#00b050">Streets of Steel </span>
 	A place for craftsmen of all kinds, some sell here but most just produce here and sell in the *Streets of Sapphire*, or at the *Consortium Shop*.
 
--Streets of Silk
-	A 
+### -<span style="color:#00b050">Streets of Silk</span>
+	A place for the lowborn activities of the modern age. Gambling, sex work, hard drugs and black market dealings with the local wildlife. 
 
--The Pathfinder's Guild
+### -The Pathfinder's Guild
+	The place where all pathfinders working in The Howling Plateau must sign up 
 
 -The Consortium
 
