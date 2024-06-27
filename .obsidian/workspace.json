@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -192,11 +192,12 @@
   },
   "active": "ce29a28e638fc8bd",
   "lastOpenFiles": [
+    "Ideas.md",
+    "Untitled.md",
     "NPCs.md",
     "Locations.md",
     "The Timeline.md",
     "The Veins Session 0 Handout .md",
-    "Ideas.md",
     "L - Opportunity.md",
     "C - Opportunity.md",
     "TO DO.md",
@@ -217,7 +218,6 @@
     "School Planning.md",
     "Working Title, a Personal Journal.md",
     "Channel Planning.md",
-    "School Planning 1/School Planning 1.md",
     "School Planning 1",
     "Active Projects/Bladerunner (1982)/Bladerunner(1982).jpg",
     "Active Projects/Bladerunner (1982)/obsidian-colored-text.zip",
