@@ -23,12 +23,20 @@ Warforged monk, made of beer barrels.
 <span style="color:#ffc000">SKREEP</span> ||| @RebelliousBear Foundry PW: 523456789
 Wants to play Skreep (Rogue/Paladin) a "non-serious character"
 
+---
+GOALS: XP values are Encounter Difficulty*3 in XP value
+QUESTS: XP values are Encounter Difficulty*4 in XP value
+[Encounter Calculator](https://www.dndbeyond.com/sources/basic-rules/building-combat-encounters#CombatEncounterDifficulty)
 
-Goals
-<span style="color:#ffc000">(INSERT NAME HERE)</span>
+<span style="color:#00b0f0">Quests</span>
+1. Come up with a Vein Hunter Group name. 
+2. 
 
-<span style="color:#ffc000">Illayra</span> 
+<span style="color:#00b0f0">Goals</span>
+<span style="color:#ffc000">(INSERT NAME HERE)</span> (Level 1 (Insert Race/Class))
 
-<span style="color:#ffc000">T. H. U. M. P. </span>
+<span style="color:#ffc000">Illayra</span>  (Level 1 Human, Artificer)
+
+<span style="color:#ffc000">T. H. U. M. P. </span>(Level 1 )
 
 <span style="color:#ffc000">SKREEP</span>
