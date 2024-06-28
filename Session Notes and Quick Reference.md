@@ -18,10 +18,10 @@ The Obsidian peak lies as far as north goes in the Howling Plateau.
 
 <span style="color:#ffc000">Ranks</span> for The Consortium's Members and most others in the setting if they use a ranking system.
 *All Ranks may be appended by Lord if considered royalty*
-Commissar / Lord Reagent 
-Major
-Captain
-Castellan - The well connected, well invested, and very influential of the Consortium's finest. Leaders of inner circles, national spies
+Lord -  
+Commissar - The Innocuous Leader of the group. Beholden only to the Lor
+Captain - The Inner Circle, law maker, Juice Barron or political or familial ally to the Major. 
+Castellan - The well connected, well invested, and very influential of the Consortium's finest. Leaders of inner circles, national spies and dangerous assassins. 
 Lieutenant - Capable of creating your own missions to send others on and/or yourself. Capable to enter the upper circle's clubs and galleries. 
 Ensign - Capable of only taking work from a handler, entrance to the different clubhouses. 
 
