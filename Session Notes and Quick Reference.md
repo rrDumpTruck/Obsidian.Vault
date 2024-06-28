@@ -20,9 +20,10 @@ Layout for next session:
 3. Explain their location refer to [Locations](obsidian://open?vault=Obsidian.Vault&file=Locations)
 4. The party meets at a tavern named The Bleeding Heart, their specified meeting place according to a message received yesterday morning. 
 5. Allow adventure towards <span style="color:#ff0000">Aortas Workshop</span> or wherever they choose to wander. 
-6. Arrive at opportunity where they hear the town criers say at each crossroads in the city " The Fool Throwing Festival in "
+6. Arrive at opportunity where they hear the town criers say at each crossroads in the city " The Fool Throwing Festival in Damius' Forum"
+7. 
 ---
-The Bleeding Heart
+The Bleeding Heart (In the Southmost part of The Plateau)
 A small three story log rancher with high rooves and stained glass windows. The Foundation of the building look burned, it is next to a Helix with a sign of a cartoon heart impaled by a couple slug like creatures (Bluefly). There is a stable in near proximity to the barn and Tavern with the sign on it. Inside you can see a few tables a large smokeless green fire. A few rooms are available for rent in the upstairs of the structure. 
 
 Owners: 
@@ -37,7 +38,7 @@ Violet - Peasant English - A normal looking human woman, the tavern's manager an
 *BlueFly: Type of Fly that begins to swarm near large collections of non fissure accessed Juice.* 
 
 ---
-<span style="color:#c00000">Aorta</span>'s Workshop 
+<span style="color:#c00000">Aorta</span>'s Workshop (In the Fleshcrafter's Guild area of Opport)
 "Where did I leave my Aorta" or "<span style="color:#c00000">Aorta</span>" - A squelching mass of arms, the thing known as Aorta has a pinkish red hue allover its bodies various and numbered joints. Ligaments, arteries, fingers, mouths, tongues and the end and beginning of this creature is held in question. Eventually they seem to open the central cavity and a short cylindrical web of muscle fibers, tendons and nerve endings lead up to a globe of eyes. Some darting, some scanning, some staring... all manner of beast, fish, man and even some you don't recognize seem to look through you. 
 
 You hear a rhythmic undulation around you begin as you hear in <span style="color:#ffc000">syncopated speech</span> <span style="color:#7030a0">"Welcome to my Workshop dearies."</span> It takes a moment but you realize on the outside of their central cavity is a scattering of mouths each placed in a different orientation. Their lips move and they speak a single chord with a note of each octave, but corrupt like an record player at the bottom of a well. 
