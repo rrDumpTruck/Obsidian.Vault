@@ -19,6 +19,11 @@ The Obsidian peak lies as far as north goes in the Howling Plateau.
 <span style="color:#ffc000">Ranks</span> for The Consortium's Members and most others in the setting if they use a ranking system.
 *All Ranks may be appended by Lord if considered royalty*
 Commissar / Lord Reagent 
+Major
+Captain
+Castellan
+Lieutenant
+Ensign - Capable of only taking work from a handler, and 
 
 
 ---
