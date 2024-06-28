@@ -20,7 +20,7 @@ Layout for next session:
 3. Explain their location refer to [Locations](obsidian://open?vault=Obsidian.Vault&file=Locations)
 4. The party meets at a tavern named The Bleeding Heart, their specified meeting place according to a message received yesterday morning. 
 5. Allow adventure towards <span style="color:#ff0000">Aortas Workshop</span> or wherever they choose to wander. 
-6. Arrive at opportunity where they hear the town c
+6. Arrive at opportunity where they hear the town criers say at each crossroads in the city " The Fool Throwing Festival in "
 ---
 The Bleeding Heart
 A small three story log rancher with high rooves and stained glass windows. The Foundation of the building look burned, it is next to a Helix with a sign of a cartoon heart impaled by a couple slug like creatures (Bluefly). There is a stable in near proximity to the barn and Tavern with the sign on it. Inside you can see a few tables a large smokeless green fire. A few rooms are available for rent in the upstairs of the structure. 
@@ -50,6 +50,6 @@ You hear a rhythmic undulation around you begin as you hear in <span style="colo
 
 <span style="color:#c00000">The King</span> - *MISSING* Lord Damocan the Formless 
 <span style="color:#c00000">The Queen</span> - *In Absentia to the King and Protected Heavily* Lady Kyrie of the Lake (Became royalty after being found by Damocan while on a hunt near the lake of Serene.)
-<span style="color:#c00000">The Knight</span> - War-master Vassa responsible for the Realm's military acumen, acquisition and stance. 
+<span style="color:#c00000">The Knight</span> - War-master Damius responsible for the Realm's military acumen, acquisition and stance. 
 <span style="color:#c00000">The Page</span> - Master of Law Lady Keenan and <span style="color:#ffc000">Herald of the Seven</span>
 <span style="color:#c00000">The Fool </span>- Master of Entertainment Triboulet (Tri-boolet) Responsible for the nations secret police, Court System and regulations of local establishments. 

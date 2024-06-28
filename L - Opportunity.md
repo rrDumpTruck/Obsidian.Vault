@@ -9,7 +9,7 @@ At the Top of the Mountain: Lies a burnt keep rising from the foundational stone
 
 <span style="color:#c00000">The King</span> - *MISSING* Lord Damocan the Formless 
 <span style="color:#c00000">The Queen</span> - *In Absentia to the King and Protected Heavily* Lady Kyrie of the Lake (Became royalty after being found by Damocan while on a hunt near the lake of Serene.)
-<span style="color:#c00000">The Knight</span> - War-master Vassa responsible for the Realm's military acumen, acquisition and stance. 
+<span style="color:#c00000">The Knight</span> - War-master Damius responsible for the Realm's military acumen, acquisition and stance. 
 <span style="color:#c00000">The Page</span> - Master of Law Lady Keenan and <span style="color:#ffc000">Herald of the Seven</span>
 	<span style="color:#00b050">Aereth Keenan</span> (Daughter of the Page)
 <span style="color:#c00000">The Fool </span>- Master of Entertainment Triboulet (Tri-boolet) Responsible for the nations secret police, Court System and regulations of local establishments. 

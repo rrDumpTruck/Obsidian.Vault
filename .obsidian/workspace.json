@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes and Quick Reference.md",
+                "file": "TO DO.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes and Quick Reference.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes and Quick Reference.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes and Quick Reference.md"
+                "file": "TO DO.md"
               }
             }
           },
@@ -192,16 +192,16 @@
   },
   "active": "ce29a28e638fc8bd",
   "lastOpenFiles": [
+    "L - Opportunity.md",
+    "C - Opportunity.md",
+    "Session Notes and Quick Reference.md",
+    "NPCs.md",
+    "Locations.md",
     "The Veins Session 0 Handout .md",
     "The Timeline.md",
     "TO DO.md",
-    "Session Notes and Quick Reference.md",
-    "L - Opportunity.md",
-    "NPCs.md",
-    "Locations.md",
     "Ideas.md",
     "Player Character Info.md",
-    "C - Opportunity.md",
     "Starter Lore Handout.md",
     "General Rules.md",
     "Secret Lore Stuff.md",
