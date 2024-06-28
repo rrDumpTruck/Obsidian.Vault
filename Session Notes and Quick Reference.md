@@ -18,7 +18,9 @@ Layout for next session:
 1. Go over backstories make sure everyone is comfortable with their character. 
 2. Cover goals rules and make sure everyone understands their goals. 
 3. Explain their location refer to [Locations](obsidian://open?vault=Obsidian.Vault&file=Locations)
-4. The party probably meets at a tavern named The Bleeding Heart
+4. The party meets at a tavern named The Bleeding Heart, their specified meeting place according to a message received yesterday morning. 
+5. Allow adventure towards <span style="color:#ff0000">Aortas Workshop</span> or wherever they choose to wander. 
+6. Arrive at opportunity where they hear the town c
 ---
 The Bleeding Heart
 A small three story log rancher with high rooves and stained glass windows. The Foundation of the building look burned, it is next to a Helix with a sign of a cartoon heart impaled by a couple slug like creatures (Bluefly). There is a stable in near proximity to the barn and Tavern with the sign on it. Inside you can see a few tables a large smokeless green fire. A few rooms are available for rent in the upstairs of the structure. 
