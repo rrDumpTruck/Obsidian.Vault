@@ -16,6 +16,9 @@ Opportunity is nearly in the middle of the Plateau but in the center.
 The Lake of Serene is just outside of Opportunity to the north. 
 The Obsidian peak lies as far as north goes in the Howling Plateau. 
 
+Ranks for The Consortium's Members and 
+
+
 ---
 Layout for next session: 
 1. Go over backstories make sure everyone is comfortable with their character. 
@@ -29,8 +32,8 @@ Layout for next session:
 The Bleeding Heart (In the Southmost part of The Plateau)
 A small three story log rancher with high rooves and stained glass windows. The Foundation of the building look burned, it is next to a Helix with a sign of a cartoon heart impaled by a couple slug like creatures (Bluefly). There is a stable in near proximity to the barn and Tavern with the sign on it. Inside you can see a few tables a large smokeless green fire. A few rooms are available for rent in the upstairs of the structure. 
 
-The Dancing Dog
-
+The Magicians Tower
+Owner x
 
 Owners: 
 <span style="color:#00b050">Hector Scipio</span> - Posh English - A dashing red tiefling with a pleasing personality. His necklace looks very valuable 
