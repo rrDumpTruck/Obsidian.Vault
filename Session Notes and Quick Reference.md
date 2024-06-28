@@ -16,7 +16,9 @@ Opportunity is nearly in the middle of the Plateau but in the center.
 The Lake of Serene is just outside of Opportunity to the north. 
 The Obsidian peak lies as far as north goes in the Howling Plateau. 
 
-Ranks for The Consortium's Members and 
+<span style="color:#ffc000">Ranks</span> for The Consortium's Members and most others in the setting if they use a ranking system.
+*All Ranks may be appended by Lord if considered royalty*
+Commissar / Lord Reagent 
 
 
 ---
