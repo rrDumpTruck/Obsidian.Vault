@@ -21,9 +21,9 @@ The Obsidian peak lies as far as north goes in the Howling Plateau.
 Commissar / Lord Reagent 
 Major
 Captain
-Castellan
-Lieutenant
-Ensign - Capable of only taking work from a handler, and 
+Castellan - The well connected, well invested, and very influential of the Consortium's finest. Leaders of inner circles, national spies
+Lieutenant - Capable of creating your own missions to send others on and/or yourself. Capable to enter the upper circle's clubs and galleries. 
+Ensign - Capable of only taking work from a handler, entrance to the different clubhouses. 
 
 
 ---
