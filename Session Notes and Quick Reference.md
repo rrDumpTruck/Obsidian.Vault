@@ -17,9 +17,8 @@ The Lake of Serene is just outside of Opportunity to the north.
 The Obsidian peak lies as far as north goes in the Howling Plateau. 
 
 <span style="color:#ffc000">Ranks</span> for The Consortium's Members and most others in the setting if they use a ranking system.
-*All Ranks may be appended by Lord if considered royalty*
-Lord -  
-Commissar - The Innocuous Leader of the group. Beholden only to the Lor
+Lord - The Formless ally who dares not reveal themselves, playing unknown games to unseen ends. 
+Commissar - The Innocuous Leader of the group. Beholden only to the Lord who is yet in the Dark. 
 Captain - The Inner Circle, law maker, Juice Barron or political or familial ally to the Major. 
 Castellan - The well connected, well invested, and very influential of the Consortium's finest. Leaders of inner circles, national spies and dangerous assassins. 
 Lieutenant - Capable of creating your own missions to send others on and/or yourself. Capable to enter the upper circle's clubs and galleries. 
