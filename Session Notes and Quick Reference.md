@@ -13,12 +13,11 @@ Life with none of the substance would look very much like a "normal world" but e
 The Effects of the Juice
 *The following is assuming a normal sized adult human/humanoid). 
 The Substance seems to scale linearly.*
-If a person goes 4 days without the Juice they start to lose distant memories, 10 and they start to age biologically, 20 and the person if older than 1
-
+If a person goes 4 days without the Juice they start to lose distant memories, 10 and they start to age biologically, 20 and the person if older than 100 may be deemed unnecessary by the local Lord and reclaimed for a new mortal creature. 
 
 Aging 
 When someone decides they want to have a child, they petition their Formless Lord. If deemed worthy they are allowed to have an offspring of normal means. Otherwise everything will fail to function as normal. 
-When the baby is born if given juice imeditely 
+When the baby is born if given juice immediately they stay a baby until the Juice is no longer supplied. The General practice is unless the child is sick they should stay off the juice until after puberty at the earliest, 20 is recommended. 
 
 ---
 <span style="color:#ffff00">Session Reminders: </span>
