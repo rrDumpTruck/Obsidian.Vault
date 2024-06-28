@@ -17,11 +17,12 @@ If a person goes 4 days without the Juice they start to lose distant memories, 1
 
 Those Under the effects of the juice seem to be a little stronger, smarter and faster than those who try not using it. While using it your wounds heal faster, your memories fade far slower and your lifespan is very much increased. 
 
-
 Aging 
 When someone decides they want to have a child, they petition their Formless Lord. If deemed worthy they are allowed to have an offspring of normal means. Otherwise everything will fail to function as normal. 
 When the baby is born if given juice immediately they stay a baby until the Juice is no longer supplied. The General practice is unless the child is sick they should stay off the juice until after puberty at the earliest, 20 is recommended. 
-Any person if older than 100 may be deemed unnecessary by the local Lord and reclaimed for a new mortal creature. 
+Any person if older than 100 may be deemed unnecessary by the local Lord and reclaimed for a new mortal creature. This is very infrequent and usually used in direct punishment. 
+
+The Industry Behind the Scenes
 
 
 ---
