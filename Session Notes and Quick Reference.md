@@ -7,6 +7,15 @@ sticker: emoji//1f6a9
 
 The Consortium's reason for surveying the land is somewhat of a trick. They are interested in the lands surrounding the fissure but know that something lingers here. But they don't want their contractor to find out because it will save them gold.
 
+Life Without Juice
+Life with none of the substance would look very much like a "normal world" but everyone would die of starvation before anything did anything. Normal food does not satiate your needs
+
+The Effects of the Juice
+
+Aging 
+When someone decides they want to have a child, they petition their Formless Lord. If deemed worthy they are allowed to have an offspring of normal means. Otherwise everything will fail to function as normal. 
+When the baby is born if given juice imeditely 
+
 ---
 <span style="color:#ffff00">Session Reminders: </span>
 "Do remember to register to hunt." ~ Aorta after giving the party their mission. 
