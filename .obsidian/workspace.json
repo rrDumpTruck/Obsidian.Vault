@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs.md"
+                "file": "Home.md"
               }
             }
           },
@@ -195,11 +195,11 @@
     "Session Notes and Quick Reference.md",
     "The Veins Session 0 Handout .md",
     "Player Character Info.md",
+    "NPCs.md",
     "L - Opportunity.md",
     "Locations.md",
     "C - Opportunity.md",
     "Ideas.md",
-    "NPCs.md",
     "TO DO.md",
     "Elysium's Equivocation.md",
     "Secret Lore Stuff.md",
