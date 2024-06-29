@@ -35,8 +35,14 @@ QUESTS: XP values are Encounter Difficulty*4 in XP value
 <span style="color:#00b0f0">Goals</span>
 <span style="color:#ffc000">(INSERT NAME HERE)</span> (Level 1 (Insert Race/Class))
 
-<span style="color:#ffc000">Illayra</span>  (Level 1 Human, Artificer)
+
+<span style="color:#ffc000">Illayra</span> @Nebuluousmatt (Level 1 Human, Artificer)
+1. I want to take my tavern back
+2. I want to get closer to the party
+3. I want to dig up more info on The Family
 
 <span style="color:#ffc000">T. H. U. M. P. </span>(Level 1 Warforged, Monk)
 
+
 <span style="color:#ffc000">SKREEP</span> (Level 1 Kobold, Draconic Sorcerer)
+
