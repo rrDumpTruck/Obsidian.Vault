@@ -33,16 +33,23 @@ QUESTS: XP values are Encounter Difficulty*4 in XP value
 2. 
 
 <span style="color:#00b0f0">Goals</span>
-<span style="color:#ffc000">(INSERT NAME HERE)</span> (Level 1 (Insert Race/Class))
-
+<span style="color:#ffc000">(Sazen Bhamar)</span> @Badmeis (Level 1 (Insert Race/Class))
+1. harvest a newly formed local fissure 
+2. earn some extra cash outside the mission 
+3. find out one weird thing from the other people 
 
 <span style="color:#ffc000">Illayra</span> @Nebuluousmatt (Level 1 Human, Artificer)
-1. I want to take my tavern back
-2. I want to get closer to the party
-3. I want to dig up more info on The Family
+1. I want to take my tavern back (Private) [S1]
+2. I want to get closer to the party (Private) [S1]
+3. I want to dig up more info on The Family [S1]
 
 <span style="color:#ffc000">T. H. U. M. P. </span>(Level 1 Warforged, Monk)
-
+1. Harvest a fissure
+2. To become closer to the party members
+3. To protect someone from someone/something else
 
 <span style="color:#ffc000">SKREEP</span> (Level 1 Kobold, Draconic Sorcerer)
+1. Join a party of adventurers
+2. Ask around if anyone has heard of the name Verona
+3. Find Mavakos' whereabouts
 
