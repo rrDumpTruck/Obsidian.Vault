@@ -6,8 +6,7 @@ Illyeria: 12
 Skreep: 2 (1)
 Sazen: 10
 
-Met by Argus
-
+Met by Argus at the bloody hart inn with the Page. 
 Argus aorta's human servant: 
 
 
