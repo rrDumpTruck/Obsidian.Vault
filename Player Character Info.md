@@ -1,7 +1,7 @@
 ---
 sticker: emoji//1f3ae
 ---
-<span style="color:#ffc000">(INSERT NAME HERE)</span> ||| @Badmeis Foundry PW: 223456789
+<span style="color:#ffc000">(Sazen Bhamar)</span> ||| @Badmeis Foundry PW: 223456789
 To be decided, go with the flow kind of person (good?)
 
 
