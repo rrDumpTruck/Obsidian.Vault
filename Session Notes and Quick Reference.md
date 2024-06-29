@@ -33,7 +33,7 @@ The next test is to find a pathfinder and  hire his services to help you qualify
 The Bleeding Heart (tavern) is in the Southmost part of The Plateau. About a mile away from the Convergence.  
 Opportunity is nearly in the middle of the Plateau but in the center. 
 The Lake of Serene is just outside of Opportunity to the north. 
-The Obsidian peak lies as far as north goes in the Howling Plateau. 
+The Obsidian Peak lies as far as north goes in the Howling Plateau. 
 
 <span style="color:#ffc000">Ranks</span> for The Consortium's Members and most others in the setting if they use a ranking system.
 Lord - The Formless ally who dares not reveal themselves, playing unknown games to unseen ends. 
