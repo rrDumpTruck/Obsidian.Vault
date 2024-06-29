@@ -8,7 +8,7 @@ Sazen: 10
 
 Met by Vassa 
 
-
+Argus aorta's human servant: 
 
 
 <span style="color:#ff0000">MAIN QUEST</span>: <span style="color:#c00000">Aorta</span> is negotiating a deal between the party and an anonymous buyer (The Consortium.  
