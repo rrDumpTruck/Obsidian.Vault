@@ -36,18 +36,26 @@ QUESTS: XP values are Encounter Difficulty*4 in XP value
 2. earn some extra cash outside the mission [S1]
 3. find out one weird thing from the other people [S1]
 
+Worked on all 3
+
 <span style="color:#ffc000">Illayra</span> @Nebuluousmatt (Level 1 Human, Artificer)
 1. I want to take my tavern back (Private) [S1]
 2. I want to get closer to the party (Private) [S1]
 3. I want to dig up more info on The Family [S1]
+
+
 
 <span style="color:#ffc000">T. H. U. M. P. </span>(Level 1 Warforged, Monk)
 1. Harvest a fissure [S1]
 2. To become closer to the party members [S1]
 3. To protect someone from someone/something else [S1]
 
+
+
 <span style="color:#ffc000">SKREEP</span> (Level 1 Kobold, Draconic Sorcerer)
 1. Join a party of adventurers [S1]
 2. Ask around if anyone has heard of the name Verona (Private) [S1]
 3. Find Mavakos' whereabouts (Private) [S1]
+
+
 
