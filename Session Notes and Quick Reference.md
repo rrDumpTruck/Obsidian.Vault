@@ -9,7 +9,8 @@ Sazen: 10
 Met by Argus at the bloody hart inn with the Page. 
 Argus aorta's human servant: 
 
-
+notes: 
+Verona: 
 
 <span style="color:#ff0000">MAIN QUEST</span>: <span style="color:#c00000">Aorta</span> is negotiating a deal between the party and an anonymous buyer (The Consortium.  
  
