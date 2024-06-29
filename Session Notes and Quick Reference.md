@@ -6,6 +6,11 @@ Illyeria: 12
 Skreep: 2 (1)
 Sazen: 10
 
+Met by Vassa 
+
+
+
+
 <span style="color:#ff0000">MAIN QUEST</span>: <span style="color:#c00000">Aorta</span> is negotiating a deal between the party and an anonymous buyer (The Consortium.  
  
 <span style="color:#00b050">The Consortium</span> are looking for a new location to invest their hard earned wealth in. For some reason the location that they have in mind is an decrepit castle to the far east of Opportunity off the border of the Ashen Wastes. ***They have the blueprints for a the same weapon that the Stygian Forest used on Elysia.  

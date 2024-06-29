@@ -5,7 +5,7 @@ sticker: emoji//1f648
 
 Keenan   
  
-Vassa 
+
 NASIR 
 
 USE G.A.U.R.D.S.  method to create a few concrete details of some cities 
