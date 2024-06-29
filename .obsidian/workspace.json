@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Locations.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Locations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Locations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Locations.md"
               }
             }
           },
@@ -192,9 +192,10 @@
   },
   "active": "ce29a28e638fc8bd",
   "lastOpenFiles": [
+    "Player Character Info.md",
+    "Home.md",
     "Session Notes and Quick Reference.md",
     "The Veins Session 0 Handout .md",
-    "Player Character Info.md",
     "NPCs.md",
     "L - Opportunity.md",
     "Locations.md",
@@ -208,7 +209,6 @@
     "General Rules.md",
     "Active Projects/(Current Project) Bladerunner (1982)/Project Notes.md",
     "MORE IN SEPERATE SHEET.md",
-    "Home.md",
     "DoA.md",
     "Rules of the Setting.md",
     "Fragmented.md",
