@@ -92,7 +92,7 @@ You hear a rhythmic undulation around you begin as you hear in <span style="colo
 ---
 <span style="color:#ffc000">NPCS</span>
 
-
+### The Court 
 <span style="color:#c00000">The King</span> - *MISSING* Lord Damocan the Formless 
 <span style="color:#c00000">The Queen</span> - *In Absentia to the King and Protected Heavily* Lady Kyrie of the Lake (Became royalty after being found by Damocan while on a hunt near the lake of Serene.)
 <span style="color:#c00000">The Knight</span> - War-master Damius responsible for the Realm's military acumen, acquisition and stance. 
