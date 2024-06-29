@@ -3,7 +3,8 @@ sticker: emoji//1f6a9
 ---
 Thump Charisma check for envolope: 4
 Illyeria: 12
-
+Skreep: 2 (1)
+Sazen: 10
 
 <span style="color:#ff0000">MAIN QUEST</span>: <span style="color:#c00000">Aorta</span> is negotiating a deal between the party and an anonymous buyer (The Consortium.  
  
