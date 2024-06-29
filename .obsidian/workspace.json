@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "Session Notes and Quick Reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "Session Notes and Quick Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "Session Notes and Quick Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L - Opportunity.md"
+                "file": "Session Notes and Quick Reference.md"
               }
             }
           },
@@ -192,13 +192,13 @@
   },
   "active": "ce29a28e638fc8bd",
   "lastOpenFiles": [
+    "L - Opportunity.md",
     "Locations.md",
     "Session Notes and Quick Reference.md",
     "Player Character Info.md",
     "Home.md",
     "The Veins Session 0 Handout .md",
     "NPCs.md",
-    "L - Opportunity.md",
     "C - Opportunity.md",
     "Ideas.md",
     "TO DO.md",
