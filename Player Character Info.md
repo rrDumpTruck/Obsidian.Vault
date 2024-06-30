@@ -54,7 +54,7 @@ Worked on all 3
 
 <span style="color:#ffc000">SKREEP</span> (Level 1 Kobold, Draconic Sorcerer)
 1. Join a party of adventurers [S1]
-2. Ask around if anyone has heard of the name Verona (Private) [S1]
+2. Ask around if anyone has heard of the name Verona (Private) [S1 Complete] 
 3. Find Mavakos' whereabouts (Private) [S1]
 
 
