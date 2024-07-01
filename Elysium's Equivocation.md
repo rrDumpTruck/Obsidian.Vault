@@ -9,7 +9,7 @@ Goals:
 The Party: 
 
 1. <span style="color:#92d050">Maleous</span> - ME a turtle with a slow British accent. Clarence & Terrance - Childhood pets of Maleous. From Viaqeris, Opacaro. 
-2. Tech (Specter, Dawn) - Roommate from "swampish". Frill neck lizard folk, viacarys is lizard folk "home". A few lizard folk with scars around wrists or ankles around Leunoveon. 
+2. Tek'urat (Specter, Dawn) - Roommate from "swampish". Frill neck lizard folk, viacarys is lizard folk "home". A few lizard folk with scars around wrists or ankles around Leunoveon. 
 
 3. "Mick Dagger" - Half elf half tiefling, silver hair, tail and horns , white leather jacket. 5'8".
 Follower of Minerva, Goddess of wisdom and crafts.
@@ -17,7 +17,7 @@ Follower of Minerva, Goddess of wisdom and crafts.
 
 
 At the Mysteria Academy
-Groundskeeper Cloverine - Tends to the land and gardens of the school. 
+Groundskeeper Cloverine - Tends to the land and gardens of the school. Special contact of mine. 
 
 Session notes: 
 Increase in security at the academy with "the military". 
