@@ -6,18 +6,18 @@ Goals:
 2. Determine what my discovery will be (from background).
 3. Sell drugs to a student. 
 
+The Party: 
 
+1. Maleous - ME a turtle with a slow British accent. 
 
-Malleus - ME a turtle with a slow British accent. 
+2. Tech - Roommate from "swampish". Frill neck lizard folk, viacarys is lizard folk "home". A few lizard folk with scars around wrists or ankles around Leunoveon. 
 
-Tech - Roommate from "swampish". Frill neck lizard folk, viacarys is lizard folk "home". A few lizard folk with scars around wrists or ankles around Leunoveon. 
-
-"Mick Dagger" - Half elf half tiefling, silver hair, tail and horns , white leather jacket. 5'8".
+3. "Mick Dagger" - Half elf half tiefling, silver hair, tail and horns , white leather jacket. 5'8".
 Follower of Minerva, Goddess of wisdom and crafts.
 
 Groundskeeper Cloverine - Tends to the land and gardens of the school. 
 
-Clarence & Terrance - Childhood pets
+Clarence & Terrance - Childhood pets of Maleous 
 
 Session notes: 
 Increase in security at the academy with "the military". 

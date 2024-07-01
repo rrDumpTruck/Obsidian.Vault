@@ -104,4 +104,5 @@
   "fmKeyColor": "color",
   "fmKeySticker": "sticker",
   "openSpacesOnLaunch": true,
-  "inde
+  "indexSVG": false
+}
