@@ -8,7 +8,7 @@ Goals:
 
 The Party: 
 
-1. Maleous - ME a turtle with a slow British accent. Clarence & Terrance - Childhood pets of Maleous. 
+1. Maleous - ME a turtle with a slow British accent. Clarence & Terrance - Childhood pets of Maleous. From Viaqeris, 
 2. Tech (Specter, Dawn) - Roommate from "swampish". Frill neck lizard folk, viacarys is lizard folk "home". A few lizard folk with scars around wrists or ankles around Leunoveon. 
 
 3. "Mick Dagger" - Half elf half tiefling, silver hair, tail and horns , white leather jacket. 5'8".
