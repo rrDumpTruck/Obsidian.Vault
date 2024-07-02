@@ -14,7 +14,7 @@ The Party:
 3. "Mick Dagger" - Half elf half tiefling, silver hair, tail and horns , white leather jacket. 5'8".
 Follower of Minerva, Goddess of wisdom and crafts.
 
-4. Chael - Plague doctor cleric with a cane and unnatural way of moving. All skin covered by fabric. 
+4. Chael Hemlock - Plague doctor cleric with a cane and unnatural way of moving. All skin covered by fabric. 
 
 
 At the Mysteria Academy
