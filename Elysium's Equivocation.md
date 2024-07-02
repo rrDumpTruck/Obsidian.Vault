@@ -13,7 +13,7 @@ The Party:
 
 3. "Mick Dagger" - Half elf half tiefling, silver hair, tail and horns , white leather jacket. 5'8".
 Follower of Minerva, Goddess of wisdom and crafts.
-4. Chael - 
+1. Chael - 
 
 
 At the Mysteria Academy
