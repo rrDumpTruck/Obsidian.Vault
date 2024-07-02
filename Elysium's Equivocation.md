@@ -9,10 +9,12 @@ Goals:
 The Party: 
 
 1. <span style="color:#92d050">Maleous</span> - ME a turtle with a slow British accent. Clarence & Terrance - Childhood pets of Maleous. From Viaqeris, Opacaro. 
-2. Tek'urat (Specter, Dawn) - Roommate from "swampish". Frill neck lizard folk, viacarys is lizard folk "home". A few lizard folk with scars around wrists or ankles around Leunoveon. 
+2. 
+3. Tek'urat (Specter, Dawn) - Roommate from "swampish". Frill neck lizard folk, viacarys is lizard folk "home". A few lizard folk with scars around wrists or ankles around Leunoveon. 
 
 3. "Mick Dagger" - Half elf half tiefling, silver hair, tail and horns , white leather jacket. 5'8".
 Follower of Minerva, Goddess of wisdom and crafts.
+
 4. Chael - Plague doctor cleric with a cane and unnatural way of moving. All skin covered by fabric. 
 
 
