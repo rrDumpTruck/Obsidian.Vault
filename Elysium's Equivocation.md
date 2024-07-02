@@ -32,4 +32,4 @@ Given whistle that summons teacher
 be at the crimson covert by the night of the full moon (A few days away). 
 
 Tempest: God of storms and sudden weather
-Rygin: God of lightning and thunder. 
+Raijin: God of lightning and thunder. 
