@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elysium's Equivocation.md",
+                "file": "Locations.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elysium's Equivocation.md",
+                "file": "Locations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elysium's Equivocation.md",
+                "file": "Locations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elysium's Equivocation.md"
+                "file": "Locations.md"
               }
             }
           },
@@ -192,6 +192,7 @@
   },
   "active": "ce29a28e638fc8bd",
   "lastOpenFiles": [
+    "Elysium's Equivocation.md",
     "The Veins Session 0 Handout .md",
     "Player Character Info.md",
     "Home.md",
@@ -205,7 +206,6 @@
     "C - Opportunity.md",
     "Ideas.md",
     "TO DO.md",
-    "Elysium's Equivocation.md",
     "General Rules.md",
     "Active Projects/(Current Project) Bladerunner (1982)/Project Notes.md",
     "MORE IN SEPERATE SHEET.md",
