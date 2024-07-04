@@ -95,6 +95,7 @@ sticker: emoji//1f5fa-fe0f
 	A small settlement outside of the statue amassed to Ereball (Lord of this land). 
 
 
+
 <span style="color:#00b050">Path of Truth </span>
 	The Path of Truth leads through a ravine leading to the top of the Highlands highest peak, on which sits a tower a great distance away. The place is the subject of many rumors, and may lead to a test of some sort that leads to a tower.
 
