@@ -1,8 +1,7 @@
 ---
 sticker: emoji//2705
 ---
-1. Create discord channel for goals/xp 
-2. World anvil - Opportunity 
+1. World anvil - Opportunity 
 3. Read back into chat history for missed lore. 
 4. New religion based on a twisted version of the overworld gods, initial lore coming from a old crazy seeming homeless man.  "The Seven" made of inverted overworld god phenotypes
 5. Come up with intro about Badmeis' character and his contract from the Consortium to the Halessian Institute. 
