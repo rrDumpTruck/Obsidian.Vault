@@ -3,7 +3,7 @@ sticker: emoji//1f4d3
 ---
 Session 2 (7/6/24)
 
-Individually Introducing Thump & Illarya, then Skreep then Sazen. The party each meets a strange person in a plague doctors mask they eventually learn to be named "Argus". They meet initially at a tavern in a small town to the south named The Bleeding Heart. They are invited to chat by the man who invited them to the tavern to come upstairs. 
+*(Recap from session 1)* Individually Introducing Thump & Illarya, then Skreep then Sazen. The party each meets a strange person in a plague doctors mask they eventually learn to be named "Argus". They meet initially at a tavern in a small town to the south named The Bleeding Heart. They are invited to chat by the man who invited them to the tavern to come upstairs. 
 When everyone has a seat at the table everyone is introduced to The Page, a member of the Court of Opportunity. After a discussion it is determined that they will hear out a contract from the leader of the Fleshcrafter's Guild named Aorta. It is decided that they will head north to Opportunity. 
 On the way North, having left Argus the party is attacked by a group of women traveling south on the Saint's road. Having been ambushed, the party is found winded on the side of the road by both Argus and the Page's royal companions and guards. 
 On the way into the city it is evident this is no safe or normal place to be, some people seem to be evacuating. 
