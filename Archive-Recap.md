@@ -3,7 +3,8 @@ sticker: emoji//1f4d3
 ---
 Session 2 (7/6/24)
 
-Individually Introducing Thump & Illarya, then 
+Individually Introducing Thump & Illarya, then Skreep then Sazen. The party each meets a strange person in a plague doctors mask they eventually learn to be named "Argus". They meet initially at a tavern in a small town to the south named The Bleeding Heart then they head north to Opportunity. 
+On the way North, having left Argus the party meets with a group of women traveling south on the Saint's roa
 
 ---
 Session 1 (6/29/24)
