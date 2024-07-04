@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recap.md",
+                "file": "Archive-Recap.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recap.md",
+                "file": "Archive-Recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recap.md",
+                "file": "Archive-Recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recap.md"
+                "file": "Archive-Recap.md"
               }
             }
           },
@@ -192,16 +192,16 @@
   },
   "active": "ce29a28e638fc8bd",
   "lastOpenFiles": [
-    "The Veins Session 0 Handout .md",
     "Player Character Info.md",
-    "Recap.md",
+    "NPCs.md",
+    "Archive-Recap.md",
+    "The Veins Session 0 Handout .md",
     "Home.md",
     "Locations.md",
     "TO DO.md",
     "The Timeline.md",
     "L - Opportunity.md",
     "Ideas.md",
-    "NPCs.md",
     "Elysium's Equivocation.md",
     "Starter Lore Handout.md",
     "Secret Lore Stuff.md",

@@ -1,6 +1,11 @@
 ---
 sticker: emoji//1f4d3
 ---
+Session 2 (7/6/24)
+
+Individually Introducing Thump & Illarya, then 
+
+---
 Session 1 (6/29/24)
 ## Goals
 <span style="color:#ffc000">(Sazen Bhamar)</span> @Badmeis (Level 1 (Insert Race/Class))
