@@ -69,7 +69,7 @@ _and (following the most recent world Convergence event)_
  Saint Haelou (Saint of Vengeance) - Ruler of Galolir and her vast armies.   
 
 <span style="color:#7030a0">The Sleeper (Stygian Forest)</span>
-	(Lyralel) - gain through romance, lust, poisoning, deceit 
+	(Lyralel) - gain through romance, lust, poisoning, deceit. Can turn into a "greenery" related dragon. 
 
 In a deep cave she found an underground grove of elder trees, leading to a portal to a different plane. Chaotic as a new plane is it could possibly become a separate realm of its own. 
 
@@ -81,7 +81,7 @@ Backstory: she used to be the wife of the Warden during their mortal life. Only
  **Saint Damius** (Saint of Conquest for greed) - Founder of Opportunity and now ruler of The Plateau. 
 
 <span style="color:#92d050">The Listener (Wastes) </span>
-	(Radigan) - forgotten knowledge, craving for knowledge, addiction, jealousy  
+	(Radigan) - forgotten knowledge, craving for knowledge, addiction, jealousy. Can turn into a scale-less dragon (like sith from dark souls).  
 
  **Saint Tynen** (Saint of Jealousy) - Ruler of the Ashen Wastes and leader of the Profligate City during its fall.  Lurks in his laboratory trying to decipher the Amulet of the Herald. 
 The Heir to the world as due to her lineage claim to be the daughter of the Watcher. 
