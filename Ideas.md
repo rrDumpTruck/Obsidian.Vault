@@ -6,7 +6,7 @@ sticker: emoji//1f648
 Keenan   
  
 
-NASIR 
+ 
 
 USE G.A.U.R.D.S.  method to create a few concrete details of some cities 
 come up with an idea of the other cities in the world. 
