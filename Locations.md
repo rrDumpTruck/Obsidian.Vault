@@ -41,7 +41,8 @@ sticker: emoji//1f5fa-fe0f
 <span style="color:#7030a0">The Lake of Serene</span>
 	A placid lake in the center of a sea of grass, the Lake of Serene is the only known natural body of water that is able to be drank from without preapplication of the Juice. 
 
-Nasir's 
+<span style="color:#00b0f0">Nasir's Plantation</span>
+	A Plantation where Nasir creates enough "special ammo" to keep up with supply to compare to The Ranch in The Stygian Forest. 
 
 <span style="color:#00b0f0">Opportunity</span>
 	[MORE HERE ](obsidian://open?vault=Obsidian.Vault&file=L%20-%20Opportunity)
