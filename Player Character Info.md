@@ -22,8 +22,8 @@ Warforged monk, made of beer barrels.
 Wants to play Skreep (Rogue/Paladin) a "non-serious character". Has ties to the Family in Opportunity. 
 
 ---
-GOALS: XP values are Encounter Difficulty*3 in XP value
-QUESTS: XP values are Encounter Difficulty*4 in XP value
+GOALS: XP values are Encounter Difficulty * 3 in XP value
+QUESTS: XP values are Encounter Difficulty * 4 in XP value
 [Encounter Calculator](https://www.dndbeyond.com/sources/basic-rules/building-combat-encounters#CombatEncounterDifficulty)
 
 <span style="color:#00b0f0">Quests</span>
@@ -31,7 +31,7 @@ QUESTS: XP values are Encounter Difficulty*4 in XP value
 2. 
 
 <span style="color:#00b0f0">Goals</span>
-<span style="color:#ffc000">(Sazen Bhamar)</span> @Badmeis (Level 1 (Insert Race/Class))
+<span style="color:#ffc000">(Sazen Bhamar)</span> @Badmeis (Level 1 Human, Sorcerer)
 1. harvest a newly formed local fissure [S1]
 2. earn some extra cash outside the mission [S1]
 3. find out one weird thing from the other people [S1]
