@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations.md",
+                "file": "Player Character Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations.md",
+                "file": "Player Character Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations.md",
+                "file": "Player Character Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations.md"
+                "file": "Player Character Info.md"
               }
             }
           },
@@ -192,8 +192,8 @@
   },
   "active": "ce29a28e638fc8bd",
   "lastOpenFiles": [
-    "Ideas.md",
     "Locations.md",
+    "Ideas.md",
     "L - Opportunity.md",
     "Home.md",
     "NPCs.md",

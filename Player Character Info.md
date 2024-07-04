@@ -2,10 +2,10 @@
 sticker: emoji//1f3ae
 ---
 <span style="color:#ffc000">(Sazen Bhamar)</span> ||| @Badmeis Foundry PW: 223456789
-To be decided, go with the flow kind of person (good?)
+Pathfinder Sorcerer who witnessed the herald on one of his jobs for a crime group called the Consortium 
 
 ---
-<span style="color:#ffc000">Illayra</span> ||| @Nebulousmatt Foundry PW: 323456789
+<span style="color:#ffc000">Illayra</span> ||| @Nebulousmatt Foundry PW: (old)323456789 > f
 Wants to play Human Artificer who made @KrYpTiX's Warforged Character.
 
 A tavern owner in Opportunity
@@ -19,7 +19,7 @@ Warforged monk, made of beer barrels.
 
 ---
 <span style="color:#ffc000">SKREEP</span> ||| @RebelliousBear Foundry PW: 523456789
-Wants to play Skreep (Rogue/Paladin) a "non-serious character"
+Wants to play Skreep (Rogue/Paladin) a "non-serious character". Has ties to the Family in Opportunity. 
 
 ---
 GOALS: XP values are Encounter Difficulty*3 in XP value
