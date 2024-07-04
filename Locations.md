@@ -66,12 +66,13 @@ sticker: emoji//1f5fa-fe0f
 <span style="color:#7030a0">Radigan’s Bell </span>
 	Overlooking the road leading from the Convergence, a jutting spire looming over the sand made from bone white stone with magically lit torches on each of the buildings eight corners reaches out for anyone who passes. At the top a monstrous bell made from black iron can be seen. The surrounding star fort is a remnant, its colossal size, reach and design are studied by all for its prowess and efficiency none are able to recreate such immense stature.
 	*A jutting spire looming over the sand made from bone white stone with magically lit torches on each of the buildings 8 corners. At the top a monstrous bell made from black iron can be seen. *
-
 <span style="color:#7030a0">Asher’s Garden</span>
 	A glistering greenhouse in the middle of nowhere. It is a botanical oasis inhabited by a powerful warlock named Asher of the Wanderer. 
+	
 <span style="color:#00b0f0">The Church of the Seven</span>
 	A now "abandoned" symbol of the old Church of the Seven. 
-	
+<span style="color:#7030a0">"Mysterious Building in Eylysia"</span>
+	TBA (very important for failed "cold war" research)
 <span style="color:#00b0f0">Oasis </span>
 	Oasis is a small settlement numbering just a few hundred spreading out nearby a natural hot spring tucked inside of a natural cave. Its people are content with the comfort offered them by the hot spring, it seems that any food or drink treated with the waters of Oasis have the same effect as being treated by the Juice. *A small settelment in the far east, Oasis is a monastary of a few dozen followers and a congregation of the surrounding population. It resides in a natural hot spring that is within a larger cave network. This seems though different in almost every way this Juice, able to be eaten and imbibed with effects almost identical to The Juice. Recently rumors have gotten out about the population becoming sick, after a while one of the Formless will get involved.*
 		**The waters of Oasis force occupants to make saving throws or become secretly addicted to the juice there** *(it is somehow different than the normal sources)*
