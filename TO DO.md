@@ -1,7 +1,6 @@
 ---
 sticker: emoji//2705
 ---
-1. Write Recap for next session
 2. Update drivers, clean up pc. 
 3. World anvil - Opportunity 
 4. Read back into chat history for missed lore. 
