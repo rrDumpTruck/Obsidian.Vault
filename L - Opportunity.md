@@ -47,12 +47,13 @@ The Narrows:
 
 ### <span style="color:#00b050">-The Consortium</span>
 
-Edrin - A blonde asimar who wears a si
+Edrin - A blonde Aasimar who wears a silk robe and a wizards hat who works for a Fence that adopted @Badmeis' character Sazen Bhamar. 
 
 
 Guild Square 
 ### -The <span style="color:#00b050">Family</span> 
 	A mob-like organization that deals primarily in deals in shipping and transit in between The Wall. Securing a deal with them can be done but you must become a trusted venture before they are willing to help your cause. 
+	The Family lives in a walled in estate in the center of the Guild Square of Opportunity. 
 *Currently has a debt with Matt's Character*
 House <span style="color:#00b050">Julii</span> *(jool-ee-aye)*
 	Father Janus Julii 
