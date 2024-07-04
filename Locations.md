@@ -84,7 +84,7 @@ sticker: emoji//1f5fa-fe0f
 	A large volcanic mountain range with the lowest points being towards the center and the highest being near the sea. Dotting the landscapes are both dormant and active volcanoes that fill the sky with glowing red ash that seems to flicker and dance across the sky like glitter. Nearly ten thousand feet at its highest point this mountain range is home to many dangers but also the largest city in the world, the underground city of Galolir. 
 
 <span style="color:#00b0f0">Nights End</span>
-	Giant fort secured in the mountians in north end of the Glistering highlands. 
+	Giant fort secured in the mountains in north end of the Glistering highlands. 
 
 <span style="color:#00b0f0">Galolir</span>
 	Galolir is the most populous city in the world, boasting amazing defenses in valley with a naturally formed lava bridge it has never been successfully sieged. The people safe underground busy themselves with mining at the expansive Maleorite mines that eventually are turned into new homes. Saint Haelou rules over Galolir and her vast armies not making many plays for power but seemingly biding his time. 
