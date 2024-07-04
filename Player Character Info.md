@@ -2,7 +2,7 @@
 sticker: emoji//1f3ae
 ---
 <span style="color:#ffc000">(Sazen Bhamar)</span> ||| @Badmeis Foundry PW: 223456789
-Pathfinder Sorcerer who witnessed the herald on one of his jobs for a crime group called the Consortium 
+Pathfinder Sorcerer who witnessed the herald on one of his jobs for a crime group called the Consortium, by which he was adopted when he was 13. When he witnessed the herald he lost his vision.
 
 ---
 <span style="color:#ffc000">Illayra</span> ||| @Nebulousmatt Foundry PW: (old)323456789 > f

@@ -47,6 +47,9 @@ The Narrows:
 
 ### <span style="color:#00b050">-The Consortium</span>
 
+Edrin - A blonde asimar who wears a si
+
+
 Guild Square 
 ### -The <span style="color:#00b050">Family</span> 
 	A mob-like organization that deals primarily in deals in shipping and transit in between The Wall. Securing a deal with them can be done but you must become a trusted venture before they are willing to help your cause. 
