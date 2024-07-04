@@ -94,7 +94,7 @@ sticker: emoji//1f5fa-fe0f
 
 <span style="color:#00b0f0">Galolir</span>
 	Galolir is the most populous city in the world, boasting amazing defenses in valley with a naturally formed lava bridge it has never been successfully sieged. The people safe underground busy themselves with mining at the expansive Maleorite mines that eventually are turned into new homes. Saint Haelou rules over Galolir and her vast armies not making many plays for power but seemingly biding his time. 
-		Important Maleorite Mining company the cobalt Corporation. 
+		<span style="color:#00b050">Important: </span>Maleorite Mining company the cobalt Corporation hold a guild hall in this city and hold their main operation in a nearby mine to the south-east of the city. 
 
 <span style="color:#00b0f0">Erekal'ny</span>
 	A small settlement outside of the statue amassed to Ereball (Lord of this land). 
