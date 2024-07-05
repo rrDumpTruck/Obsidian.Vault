@@ -26,8 +26,9 @@ The Consortium's reason for surveying the land is somewhat of a trick. They are 
 ---
 Layout for next session: 
 1. Allow adventure near <span style="color:#ff0000">Aortas Workshop</span> or wherever they choose to wander. 
-6. Arrive at opportunity where they hear the town criers say at each crossroads in the city " The Fool Throwing Festival in Damius' Forum"
-7. 
+2. Party can choose to stay at a 
+3. Arrive at opportunity where they hear the town criers say at each crossroads in the city " The Fool Throwing Festival in Damius' Forum" 
+4. Desination (Vein Hunter Mission) lies behind a region called The Obsidian Peak to the north of Opportunity 
 ---
 <span style="color:#ffc000">Ranks</span> for The Consortium's Members and most others in the setting if they use a ranking system.
 Lord - The Formless ally who dares not reveal themselves, playing unknown games to unseen ends. 

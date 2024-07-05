@@ -17,7 +17,7 @@ One of the Devoted, Halessian the Thinker was tasked with finding a fair punishm
 Ersiod's Land would only change through the power of those who had bested their master. All his children growing and living false lives through the power of the foe he gave his existence to cheat. 
 Every morning the full force of Ersiod's hatred is felt through a brief red gaze cast on everyone and everything incinerating anything that isn't infused with The Juice. 
 Every afternoon Ersiod's face changes to a grin, reviving those who have passed on unless unworthy
-Every night Ersiod's face c
+Every night Ersiod's face changes to a grimace. (Secretly removing memories and playing tricks on your mind.)
 
 **<span style="color:#ff0000">Verona</span>** - Ersiod's Widow, still worshipped and some say that she maintains a stronghold somewhere in the veins plotting revenge on the Devoted. 
 
