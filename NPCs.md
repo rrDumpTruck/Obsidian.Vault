@@ -8,7 +8,10 @@ sticker: emoji//1f9cd
 Being found out and eventually punished for his crime by his once brothers and sisters in the Devoted, he knew he must put a backup plan in place that couldn't fail. So he made a small change to the spell responsible for creating the siphon in The Basin. 
 The spell would cause him and anyone who remained inside of the portal that would create the hole and the reservoir Eresiod had created for the magic of The Basin to reside. The plan went well executed but like he had suspected he was caught. 
 While the ritual to both create the world of The Veins was being undertaken in the overworld, Ersiod's wife Verona had managed to make it into the circle without being noticed, sending her soul and energy along with Ersiod's into the world of The Veins. 
-Once the Devoted realized what Eresiod had accomplished they worked together to plan. The Basin is an extension and symbol of a thing called The Fountain. 
+Once the Devoted realized what Eresiod had accomplished they worked together to plan. The Basin is an extension and symbol of a thing called 
+The Fountain
+	The Fountain is the source of all magical power in the universe. It is made up of the souls of all sentient life, and is located in The Beyond but can be seen from the overworld as it flows down into the Basin.
+Barely defeated by The Devoted Eresiod and Verona both shared the blame of their crime. Ersiod was to watch as his lifeforce was split into 
 
 **<span style="color:#ff0000">Verona</span>** - Ersiod's Widow, still worshipped and some say that she maintains a stronghold somewhere in the veins plotting revenge on the Devoted. 
 
