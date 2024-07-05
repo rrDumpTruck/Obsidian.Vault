@@ -21,6 +21,9 @@ Warforged monk, made of beer barrels.
 <span style="color:#ffc000">SKREEP</span> ||| @RebelliousBear Foundry PW: (old)523456789 > Skreep
 Wants to play Skreep (Rogue/Paladin) a "non-serious character". Has ties to the Family in Opportunity. 
 
+The Family reached out after a job and gifted Skreep the following item: 
+*"An oversized pocketwatch sparkling silver with red accents. Etched on the cover of the watch states "My life... for you Verona" With the Initials V. + E. underneath."*
+
 ---
 GOALS: XP values are Encounter Difficulty * 3 in XP value
 QUESTS: XP values are Encounter Difficulty * 4 in XP value
