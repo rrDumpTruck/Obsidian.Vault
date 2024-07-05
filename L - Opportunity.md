@@ -39,7 +39,8 @@ Damius' Forum:
 
 Damocan's Grounds: 
 
-The Streets of Sapphire: 
+### The <span style="color:#00b0f0">Streets of Sapphire</span>: 
+
 
 Storming Ridge: 
 

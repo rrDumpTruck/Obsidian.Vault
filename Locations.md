@@ -32,8 +32,11 @@ sticker: emoji//1f5fa-fe0f
 
 ---
 
-<span style="color:#ffc000">The "Howling" Plateau - North *the Harvester Damocan</span>
+<span style="color:#ffc000">The "Howling" Plateau - North the Harvester Damocan</span>
 	An area known for its vast open plains of greyish green grasses and a large half moon shaped inlet leading from the Sapphire Abyss currently supplying the only known readily drinkable water source in the world. In the center nearly in the tallest mountain next to the convergence lies...
+
+<span style="color:#00b0f0">The Bleeding Heart (In the Southmost part of The Plateau)</span>
+	A small three story log rancher with high rooves and stained glass windows. The Foundation of the building look burned, it is next to a Helix with a sign of a cartoon heart impaled by a couple slug like creatures (Bluefly). There is a stable in near proximity to the barn and Tavern with the sign on it. Inside you can see a few tables a large smokeless green fire. A few rooms are available for rent in the upstairs of the structure. 
 
 <span style="color:#7030a0">Obsidian Peak</span>
 	A once raging volcano that went dormant shortly after the event of the second new arrival. The tallest known landmark in the world.

@@ -19,42 +19,9 @@ Verona:
 
 The Consortium's reason for surveying the land is somewhat of a trick. They are interested in the lands surrounding the fissure but know that something lingers here. But they don't want their contractor to find out because it will save them gold.
 
-<span style="color:#ffc000">Life Without Juice</span>
-Life with none of the substance would look very much like a "normal world" but everyone would die of starvation before anything did anything. Normal food does not satiate your needs, only food and liquids treated by the juice can fully nourish you. 
-
-<span style="color:#ffc000">The Effects of the Juice</span>
-*The following is assuming a normal sized adult human/humanoid). 
-The Substance seems to scale linearly.*
-If a person goes 4 days without the Juice they start to lose distant memories, 10 and they start to age biologically, 20 and they start to erode away over the course of a week. 
-
-Those Under the effects of the juice seem to be a little stronger, smarter and faster than those who try not using it. While using it your wounds heal faster, your memories fade far slower and your lifespan is very much increased. 
-
-<span style="color:#ffc000">Aging</span> 
-When someone decides they want to have a child, they petition their Formless Lord. If deemed worthy they are allowed to have an offspring of normal means. Otherwise everything will fail to function as normal. 
-When the baby is born if given juice immediately they stay a baby until the Juice is no longer supplied. The General practice is unless the child is sick they should stay off the juice until after puberty at the earliest, 20 is recommended. 
-Any person if older than 100 may be deemed unnecessary by the local Lord and reclaimed for a new mortal creature. This is very infrequent and usually used in direct punishment. 
-
-<span style="color:#ffc000">The Industry Behind the Scenes</span>
-Starting from the beginning, a person who wishes to become a Vein Hunter must first have requisite experience working in another persons outfit or have a degree from a permitted school. They are then gifted with a Prospectors permit. Which costs 10gp. With this you could prospect possible claims and sell reports if they could be worthwhile. 
-The next test is to find a pathfinder and  hire his services to help you qualify for the next licensing step which is the Vein Hunters Permit. 
-
 ---
 <span style="color:#ffff00">Session Reminders: </span>
 "Do remember to register to hunt." ~ Aorta after giving the party their mission. 
-
-The Bleeding Heart (tavern) is in the Southmost part of The Plateau. About a mile away from the Convergence.  
-Opportunity is nearly in the middle of the Plateau but in the center. 
-The Lake of Serene is just outside of Opportunity to the north. 
-The Obsidian Peak lies as far as north goes in the Howling Plateau. 
-
-<span style="color:#ffc000">Ranks</span> for The Consortium's Members and most others in the setting if they use a ranking system.
-Lord - The Formless ally who dares not reveal themselves, playing unknown games to unseen ends. 
-Commissar - The Innocuous Leader of the group. Beholden only to the Lord who is yet in the Dark. 
-Captain - The Inner Circle, law maker, Juice Barron or political or familial ally to the Major. 
-Castellan - The well connected, well invested, and very influential of the Consortium's finest. Leaders of inner circles, national spies and dangerous assassins. 
-Lieutenant - Capable of creating your own missions to send others on and/or yourself. Capable to enter the upper circle's clubs and galleries. 
-Ensign - Capable of only taking work from a handler, entrance to the different clubhouses. 
-
 
 ---
 Layout for next session: 
@@ -66,8 +33,16 @@ Layout for next session:
 6. Arrive at opportunity where they hear the town criers say at each crossroads in the city " The Fool Throwing Festival in Damius' Forum"
 7. 
 ---
-The Bleeding Heart (In the Southmost part of The Plateau)
-A small three story log rancher with high rooves and stained glass windows. The Foundation of the building look burned, it is next to a Helix with a sign of a cartoon heart impaled by a couple slug like creatures (Bluefly). There is a stable in near proximity to the barn and Tavern with the sign on it. Inside you can see a few tables a large smokeless green fire. A few rooms are available for rent in the upstairs of the structure. 
+<span style="color:#ffc000">Ranks</span> for The Consortium's Members and most others in the setting if they use a ranking system.
+Lord - The Formless ally who dares not reveal themselves, playing unknown games to unseen ends. 
+Commissar - The Innocuous Leader of the group. Beholden only to the Lord who is yet in the Dark. 
+Captain - The Inner Circle, law maker, Juice Barron or political or familial ally to the Major. 
+Castellan - The well connected, well invested, and very influential of the Consortium's finest. Leaders of inner circles, national spies and dangerous assassins. 
+Lieutenant - Capable of creating your own missions to send others on and/or yourself. Capable to enter the upper circle's clubs and galleries. 
+Ensign - Capable of only taking work from a handler, entrance to the different clubhouses. 
+
+
+
 
 The Magicians Tower
 Owner x
