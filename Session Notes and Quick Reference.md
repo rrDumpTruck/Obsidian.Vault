@@ -25,11 +25,7 @@ The Consortium's reason for surveying the land is somewhat of a trick. They are 
 
 ---
 Layout for next session: 
-1. Go over backstories make sure everyone is comfortable with their character. 
-2. Cover goals rules and make sure everyone understands their goals. 
-3. Explain their location refer to [Locations](obsidian://open?vault=Obsidian.Vault&file=Locations)
-4. The party meets at a tavern named The Bleeding Heart, their specified meeting place according to a message received yesterday morning. 
-5. Allow adventure towards <span style="color:#ff0000">Aortas Workshop</span> or wherever they choose to wander. 
+1. Allow adventure near <span style="color:#ff0000">Aortas Workshop</span> or wherever they choose to wander. 
 6. Arrive at opportunity where they hear the town criers say at each crossroads in the city " The Fool Throwing Festival in Damius' Forum"
 7. 
 ---
@@ -45,6 +41,7 @@ Ensign - Capable of only taking work from a handler, entrance to the different c
 
 
 The Magicians Tower
+	A small tower like building only about 4 stories tall with a brick foundation. With a location very near to the center of the Street of Sapphire it's believed to be one of the oldest hospitality businesses in the city. The inside has two levels of seating and is largely made up of large long tables with dozens of seats on each side. The upper levels of the tower are reserved f 
 Owner x
 
 Owners: 
