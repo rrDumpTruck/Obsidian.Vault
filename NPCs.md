@@ -7,7 +7,8 @@ sticker: emoji//1f9cd
 **<span style="color:#ff0000">Eresiod</span>** - Also known as “THE WATCHER” by the denizens of The Veins, he is responsible for The Vein's habitation by mortal men. Initially used as an experiment in his attempt to create a tap of power coming out of The Basin in the overworld. 
 Being found out and eventually punished for his crime by his once brothers and sisters in the Devoted, he knew he must put a backup plan in place that couldn't fail. So he made a small change to the spell responsible for creating the siphon in The Basin. 
 The spell would cause him and anyone who remained inside of the portal that would create the hole and the reservoir Eresiod had created for the magic of The Basin to reside. The plan went well executed but like he had suspected he was caught. 
-While the magic ritual 
+While the ritual to both create the world of The Veins was being undertaken in the overworld, Ersiod's wife Verona had managed to make it into the circle without being noticed, sending her soul and energy along with Ersiod's into the world of The Veins. 
+Once the Devoted realized what Ersiod the 
 
 **<span style="color:#ff0000">Verona</span>** - Ersiod's Widow, still worshipped and some say that she maintains a stronghold somewhere in the veins plotting revenge on the Devoted. 
 
