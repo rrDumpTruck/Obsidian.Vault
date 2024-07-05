@@ -1,15 +1,15 @@
 ---
 sticker: emoji//1f6a9
 ---
-Thump Charisma check for envolope: 
+<span style="color:#ff0000">Charisma Save</span> for envelope: *Gauges how much/or little <span style="color:#ff0000">Aurora</span> will tolerate your presence *
 Skreep: 2 (1)
 Thump: 4
 Sazen: 10
-Illyeria: 12
+Illayra: 12
 
 Met by Argus at the bloody hart inn with the Page. 
-Argus aorta's human servant: 
-
+Argus (Servant of the Fleshcrafters)
+	
 notes: 
 Verona: 
 
@@ -37,23 +37,18 @@ Castellan - The well connected, well invested, and very influential of the Conso
 Lieutenant - Capable of creating your own missions to send others on and/or yourself. Capable to enter the upper circle's clubs and galleries. 
 Ensign - Capable of only taking work from a handler, entrance to the different clubhouses. 
 
+<span style="color:#00b0f0">The Magicians Tower</span>
+	A small tower like building only about 4 stories tall with a brick foundation. With a location very near to the center of the <span style="color:#00b0f0">Street of Sapphire</span> it's believed to be one of the oldest hospitality businesses in the city. The inside has two levels of seating and is largely made up of large long tables with dozens of seats on each side. The upper levels of the tower are reserved for available rentable rooms and a private quarters in the attic.  
+	**Owners:** 
+	<span style="color:#00b050">Hector Scipio</span> - Posh English - A dashing red tiefling with a pleasing personality. His necklace looks very valuable 
+	Heidi Vashon - Vague Spanish - Pale matronly elf seems to be a past adventurer of some sort
+	Drek - Simple English - the Heart's bouncer and quartermaster. 
+	Violet - Peasant English - A normal looking human woman, the tavern's manager and main server. 
 
 
 
-The Magicians Tower
-	A small tower like building only about 4 stories tall with a brick foundation. With a location very near to the center of the Street of Sapphire it's believed to be one of the oldest hospitality businesses in the city. The inside has two levels of seating and is largely made up of large long tables with dozens of seats on each side. The upper levels of the tower are reserved f 
-Owner x
-
-Owners: 
-<span style="color:#00b050">Hector Scipio</span> - Posh English - A dashing red tiefling with a pleasing personality. His necklace looks very valuable 
-Heidi Vashon - Vague Spanish - Pale matronly elf seems to be a past adventurer of some sort
-Drek - Simple English - the Heart's bouncer and quartermaster. 
-Violet - Peasant English - A normal looking human woman, the tavern's manager and main server. 
 
 
-*Helix: Local foliage made up out of Juice Veins, they take the shape of a complex 10+ foot tall blue helix.* 
-
-*BlueFly: Type of Fly that begins to swarm near large collections of non fissure accessed Juice.* 
 
 ---
 <span style="color:#c00000">Aorta</span>'s Workshop (In the Fleshcrafter's Guild area of Opportunity)
