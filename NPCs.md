@@ -11,7 +11,10 @@ While the ritual to both create the world of The Veins was being undertaken in t
 Once the Devoted realized what Eresiod had accomplished they worked together to plan. The Basin is an extension and symbol of a thing called 
 The Fountain
 	The Fountain is the source of all magical power in the universe. It is made up of the souls of all sentient life, and is located in The Beyond but can be seen from the overworld as it flows down into the Basin.
-Barely defeated by The Devoted Eresiod and Verona both shared the blame of their crime. Ersiod was to watch as his lifeforce was split into 
+Barely defeated by The Devoted Eresiod and Verona both shared the blame of their crime. Ersiod's was to watch as his lifeforce was split from his soul, his soul becoming a sun over the land, his life splitting into 44 explorers and descending into each crack of The Veins. 
+
+One of the Devoted, Halessian the Thinker was tasked with finding a fair punishment for god level subterfuge and treason. She came up with this...
+Ersiod's Land would only change through the power of those who had bested their master. 
 
 **<span style="color:#ff0000">Verona</span>** - Ersiod's Widow, still worshipped and some say that she maintains a stronghold somewhere in the veins plotting revenge on the Devoted. 
 
