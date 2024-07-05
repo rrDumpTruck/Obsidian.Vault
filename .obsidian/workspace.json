@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Character Info.md",
+                "file": "Secret Lore Stuff.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Character Info.md",
+                "file": "Secret Lore Stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Character Info.md",
+                "file": "Secret Lore Stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Character Info.md"
+                "file": "Secret Lore Stuff.md"
               }
             }
           },
@@ -192,11 +192,15 @@
   },
   "active": "ce29a28e638fc8bd",
   "lastOpenFiles": [
+    "General Rules.md",
+    "Ideas.md",
+    "Secret Lore Stuff.md",
+    "Session Notes and Quick Reference.md",
+    "Untitled.md",
+    "Player Character Info.md",
     "TO DO.md",
     "NPCs.md",
-    "Ideas.md",
     "Archive-Recap.md",
-    "Player Character Info.md",
     "The Veins Session 0 Handout .md",
     "Home.md",
     "Locations.md",
@@ -204,10 +208,7 @@
     "L - Opportunity.md",
     "Elysium's Equivocation.md",
     "Starter Lore Handout.md",
-    "Secret Lore Stuff.md",
-    "Session Notes and Quick Reference.md",
     "C - Opportunity.md",
-    "General Rules.md",
     "Active Projects/(Current Project) Bladerunner (1982)/Project Notes.md",
     "MORE IN SEPERATE SHEET.md",
     "DoA.md",
@@ -217,7 +218,6 @@
     "Active Projects/(Current Project) Bladerunner (1982)/Video Script.md",
     "Active Projects/(Current Project) Bladerunner (1982)/Plot Summary.md",
     "School Planning.md",
-    "Working Title, a Personal Journal.md",
     "School Planning 1",
     "Active Projects/Bladerunner (1982)/Bladerunner(1982).jpg",
     "Active Projects/Bladerunner (1982)/obsidian-colored-text.zip",
