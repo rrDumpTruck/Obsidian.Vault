@@ -36,7 +36,7 @@ Layout for next session:
 1. Allow adventure near <span style="color:#ff0000">Aortas Workshop</span> or wherever they choose to wander. 
 2. Arrive at opportunity where they hear the town criers say at each crossroads in the city " The Fool Throwing Festival in Damius' Forum" 
 3. Party can choose to stay at an inn in any various district of the city, the Halessian institute student housing, or choose to move out immediately. 
-4. The party must register with the Pathfinder's Guild in Opportunity before being able to undertake any jobs fo r
+4. The party must register with the Pathfinder's Guild in Opportunity before being able to undertake any jobs for Vein Hunting or Prospecting. 
 5. Remind players to check out shops, guilds, churches, libraries or to visit old friends before departing the city. 
 6. Destination (Vein Hunter Mission) lies behind a region called The Obsidian Peak to the north of Opportunity 
 ---
