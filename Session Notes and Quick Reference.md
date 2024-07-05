@@ -7,7 +7,6 @@ Thump: 4
 Sazen: 10
 Illayra: 12
 
-Met by Argus at the bloody hart inn with the Page. 
 <span style="color:#ff0000">Argus</span> (Lieutenant of the Fleshcrafter's)
 	A non-descript man usually seen in a plague mask while doing business for the Fleshcrafter's Guild. His voice sounds like Lord Davos (From Game of Thrones). He cares about the people who he is deemed in charge of, often too much. 
 	He owns a high quality town home in The Narrows and has a house Homunculus named Gregory. 

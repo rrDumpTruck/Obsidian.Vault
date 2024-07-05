@@ -4,13 +4,14 @@ sticker: emoji//1f9cd
 # <span style="color:#ffc000">The Precursors</span>
 	The precursors are those who exist in the plane of The Veins, but are stuck as outside observers due to their immense power. You may call on them but at great peril. 
 
-**Eresiod** - also known as “THE WATCHER” by the denizens of The Veins
+**<span style="color:#ff0000">Eresiod</span>** - Also known as “THE WATCHER” by the denizens of The Veins, he is responsible for The Vein's habitation by mortal men. Initially used as an experiment in his attempt to create a tap of power coming out of The Basin in the overworld. 
+Being found out and eventually punished for his crime by his once brothers and sisters in the Devoted, he knew hem 
 
-**Verona** - Important *somehow*
+**<span style="color:#ff0000">Verona</span>** - Ersiod's Widow, still worshipped and some say that she maintains a stronghold somewhere in the veins plotting revenge on the Devoted. 
 
-**Placeholder 3**
+**<span style="color:#ff0000">Placeholder</span> 3**
 
-**Placeholder 42069**
+**<span style="color:#ff0000">Placeholder</span> 42069**
 
 # <span style="color:#ffff00">The Devoted</span> 
 
