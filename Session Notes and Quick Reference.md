@@ -20,8 +20,12 @@ Verona:
 The Consortium's reason for surveying the land is somewhat of a trick. They are interested in the lands surrounding the fissure but know that something lingers here. But they don't want their contractor to find out because it will save them gold.
 
 "The Area" lies on the other side of a place the The Obsidian Peak. A series of spline-like mountains of obsidian and granite. It twists and winds while leaving hundreds of feet overhead of rock and sky. 
-The party must make a series of (2-4) navigation checks based on how good they do DC 14 Surv Check, if they fail everyone must make a DC 13 Dexterity Save or take 1d6 Slashing damage from having to do various maneuvers. 
-After arriv
+The party must make a series of (2-4) navigation checks based on how good they do DC 14 Survival Check, if they fail everyone must make a DC 13 Dexterity Save or take 1d6 Slashing damage from having to do various maneuvers. 
+
+After arriving there they find large sections of veins leading out of the rocks and to two buildings. A small barn like building with 2 bedrooms, and 
+A wood and stone tower about a hundred feet from the barn. 
+
+As they approach the tower they see a large hole headed deeper into the earth, with veins on every surface. 
 
 ---
 <span style="color:#ffff00">Session Reminders: </span>
@@ -30,10 +34,11 @@ After arriv
 ---
 Layout for next session: 
 1. Allow adventure near <span style="color:#ff0000">Aortas Workshop</span> or wherever they choose to wander. 
-2. Party can choose to stay at an inn in any various district of the city, the Halessian institute student housing, or choose to move out immediately. 
-3. Remind players to check out shops, guilds, churches, libraries or to visit old friends before departing the city. 
-4. Arrive at opportunity where they hear the town criers say at each crossroads in the city " The Fool Throwing Festival in Damius' Forum" 
-5. Destination (Vein Hunter Mission) lies behind a region called The Obsidian Peak to the north of Opportunity 
+2. Arrive at opportunity where they hear the town criers say at each crossroads in the city " The Fool Throwing Festival in Damius' Forum" 
+3. Party can choose to stay at an inn in any various district of the city, the Halessian institute student housing, or choose to move out immediately. 
+4. The party must register with the Pathfinder's Guild in Opportunity before being able to undertake any jobs fo r
+5. Remind players to check out shops, guilds, churches, libraries or to visit old friends before departing the city. 
+6. Destination (Vein Hunter Mission) lies behind a region called The Obsidian Peak to the north of Opportunity 
 ---
 <span style="color:#ffc000">Ranks</span> for The Consortium's Members and most others in the setting if they use a ranking system.
 Lord - The Formless ally who dares not reveal themselves, playing unknown games to unseen ends. 
