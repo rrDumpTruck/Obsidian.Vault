@@ -19,7 +19,9 @@ Verona:
 
 The Consortium's reason for surveying the land is somewhat of a trick. They are interested in the lands surrounding the fissure but know that something lingers here. But they don't want their contractor to find out because it will save them gold.
 
-"The Area" lies on the other side of a crystal spike 
+"The Area" lies on the other side of a place the The Obsidian Peak. A series of spline-like mountains of obsidian and granite. It twists and winds while leaving hundreds of feet overhead of rock and sky. 
+The party must make a series of (2-4) navigation checks based on how good they do DC 14 Surv Check, if they fail everyone must make a DC 13 Dexterity Save or take 1d6 Slashing damage from having to do various maneuvers. 
+After arriv
 
 ---
 <span style="color:#ffff00">Session Reminders: </span>
