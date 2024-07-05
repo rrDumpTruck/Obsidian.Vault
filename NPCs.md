@@ -14,7 +14,10 @@ The Fountain
 Barely defeated by The Devoted Eresiod and Verona both shared the blame of their crime. Ersiod's was to watch as his lifeforce was split from his soul, his soul becoming a sun over the land, his life splitting into 44 explorers and descending into each crack of The Veins. 
 
 One of the Devoted, Halessian the Thinker was tasked with finding a fair punishment for god level subterfuge and treason. She came up with this...
-Ersiod's Land would only change through the power of those who had bested their master. 
+Ersiod's Land would only change through the power of those who had bested their master. All his children growing and living false lives through the power of the foe he gave his existence to cheat. 
+Every morning the full force of Ersiod's hatred is felt through a brief red gaze cast on everyone and everything incinerating anything that isn't infused with The Juice. 
+Every afternoon Ersiod's face changes to a grin, reviving those who have passed on unless unworthy
+Every night Ersiod's face c
 
 **<span style="color:#ff0000">Verona</span>** - Ersiod's Widow, still worshipped and some say that she maintains a stronghold somewhere in the veins plotting revenge on the Devoted. 
 
