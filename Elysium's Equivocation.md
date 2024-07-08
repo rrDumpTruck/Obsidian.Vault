@@ -2,9 +2,16 @@
 sticker: emoji//1f60b
 ---
 Goals: 
-1. Learn more about Mick's past group. 
-2. Determine what my discovery will be (from background).
-3. Sell drugs to a student. 
+1. Save the life of one of my new friends 
+2. 
+3. 
+
+Completed Goals: 
+- Learn more about Mick's past group. 
+- Determine what my discovery will be (from background).
+
+Paused Goals
+- Sell drugs to a student. 
 
 The Party: 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Elysium's Equivocation.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Elysium's Equivocation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Elysium's Equivocation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Elysium's Equivocation.md"
               }
             }
           },
@@ -192,6 +192,7 @@
   },
   "active": "ce29a28e638fc8bd",
   "lastOpenFiles": [
+    "Home.md",
     "TO DO.md",
     "Archive-Recap.md",
     "Session Notes and Quick Reference.md",
@@ -204,7 +205,6 @@
     "General Rules.md",
     "Untitled.md",
     "The Veins Session 0 Handout .md",
-    "Home.md",
     "The Timeline.md",
     "Elysium's Equivocation.md",
     "Starter Lore Handout.md",
