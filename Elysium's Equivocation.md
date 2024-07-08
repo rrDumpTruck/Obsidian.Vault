@@ -3,7 +3,7 @@ sticker: emoji//1f60b
 ---
 Goals: 
 1. Save the life of one of my new friends 
-2. 
+2. Make it to the Crimson Covert 
 3. 
 
 Completed Goals: 
