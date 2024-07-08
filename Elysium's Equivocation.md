@@ -3,7 +3,7 @@ sticker: emoji//1f60b
 ---
 Goals: 
 1. Save the life of one of my new friends 
-2. 1. Make a good drawing of a creature I find on my field trip.
+2. Make a good drawing of a creature I find on my field trip.
 3. Find out a secret about someone in the party. 
 
 Completed Goals: 
