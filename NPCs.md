@@ -45,11 +45,11 @@ Weather events, Natural Disasters, Destruction without cause, Change of Fortune 
 **The** Promised Pair is actually two Nephilim that make the aspect of one god, a god of healing and saving the weak from death. Due to their duality they are also the gods of natural disasters and phenomena. Typically gods forget or choose not to go by their names from their life as mortals, because of this The Pair use their mortal names to distinguish between each other. Aelyr is usually depicted as a man with short black hair clothed in flowing robes wearing a flower crown, usually at his side is his pet rabbit Malady. Aelar is usually depicted as a woman wearing a green gown with extremely long pure white hair. People who follow them usually have a carefree spirit, a love of nature and sporadic behavior. In their Life as Man they were lovers that were kept from each other by feuding royal families.    
 
 Malady: Aelyr’s pet rabbit
-	Malady is the Goddess of Deception, along with 
+	Malady is the lesser Goddess of Deception, along with Vengeance through anger.
 
 <span style="color:#ff0000">The Faceless Man </span>
 
-(M - Sosoro) –  Violence, Rebels, Liberators, Theft, Deception and Subterfuge.  
+(M - Sosoro) –  Deceptive Violence, Rebels, Liberators, Theft, Deception and Subterfuge.  God of Fate.
 
 **The** Faceless Man is the god of anarchy, deception, and domination but most of all he is the god of fate. The Faceless man is typically depicted as a man wearing a silver featureless mask, and wielding a rapier with a golden pommel. In his past life he was Sosoro the Hidden, a great liberator of the great and now Capital city of Ereguard in 126 A.D. People who follow him are known for their rowdiness, lust for fortune and willing to do anything to get it. Lately he has been in contact with the Radigan Institute of the Arcane, a grand university that researches manners of alchemy, spells and rituals. 
 
