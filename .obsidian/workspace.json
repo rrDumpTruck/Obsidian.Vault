@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas.md",
+                "file": "Lore Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas.md",
+                "file": "Lore Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas.md",
+                "file": "Lore Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas.md"
+                "file": "Lore Rules.md"
               }
             }
           },
@@ -172,13 +172,13 @@
   },
   "active": "ce29a28e638fc8bd",
   "lastOpenFiles": [
-    "Lore Rules.md",
-    "L - Opportunity.md",
-    "NPCs.md",
     "Ideas.md",
+    "NPCs.md",
+    "Locations.md",
+    "L - Opportunity.md",
+    "Lore Rules.md",
     "Starter Lore Handout.md",
     "Session Notes and Quick Reference.md",
-    "Locations.md",
     "TO DO.md",
     "Player Character Info.md",
     "C - Opportunity.md",

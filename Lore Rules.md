@@ -50,7 +50,19 @@ Any person if older than 100 may be deemed unnecessary by the local Lord and rec
 <span style="color:#ffc000">The Industry Behind the Scenes</span>
 Starting from the beginning, a person who wishes to become a Vein Hunter must first have requisite experience working in another persons outfit or have a degree from a permitted school. They are then gifted with a Prospectors permit. Which costs 10gp. With this you could prospect possible claims and sell reports if they could be worthwhile. 
 The next test is to find a pathfinder and  hire his services to help you qualify for the next licensing step which is the Vein Hunters Permit. 
-  
+
+<span style="color:#00b050">GEOLOGY</span>
+
+
+
+
+
+
+
+
+
+
+
 ---
 <span style="color:#ff0000">Setting Specific Adjectives</span>
 

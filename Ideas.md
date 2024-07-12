@@ -5,27 +5,16 @@ sticker: emoji//1f648
 
 Keenan   
  
-Radigan is arriving in opportunity at request of Lady Kyrie of the Lake of Serene. Now acting for the King as well in his absence due to his investigation into the second Herald's arrival in the Vein beneath Opportunity and then its abcence 
+Radigan is arriving in opportunity at request of Lady Kyrie of the Lake of Serene. Now acting for King Damocan, but in his absence due to his investigation into the second Herald's arrival in the Fissure beneath Opportunity and then its hasty absence. 
+
+An oversized pocket-watch sparkling silver with red accents. Etched on the cover of the watch states "My life... for you Verona" With the Initials V. + E *Eresiod*. underneath.
+
+
+Radigan is missing since bombings, having only occasionally shown her self at other major political events very briefly. 
 
 
 
-USE G.A.U.R.D.S.  method to create a few concrete details of some cities 
-come up with an idea of the other cities in the world. 
-(Government Buildings
-Underworld Activities
-Altars
-Resources
-Defenses
-Social Hubs)
-
-An oversized pocketwatch sparkling silver with red accents. Etched on the cover of the watch states "My life... for you Verona" With the Initials V. + E *Eresiod*. underneath.
-
-
-Radigan is missing since bombings, having only occasionionally shown her self at other major political events very briefly. 
-
-
-
-Being the first to take form gives her a power over time by way of premonition and futuresight. 
+Being the first to take form gives her a power over time by way of premonition and future-sight. 
 
 Naming her successor has yet to be spoken of in court rulings but rumor has it she has found something big. Speakings of some portal found deep within the earth. 
 
