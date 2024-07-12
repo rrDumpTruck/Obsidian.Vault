@@ -40,15 +40,16 @@ _followers known as Devotee(s)._ 
 <span style="color:#00b050">The “Promised” Pair</span>
 
 (M - Aelyr _and_ F -Aelar) – Healing the Sick and Wounded, Opposing Death,
-Weather events, Natural Disasters, Destruction without cause
+Weather events, Natural Disasters, Destruction without cause, Change of Fortune (Good or Bad)
 
 **The** Promised Pair is actually two Nephilim that make the aspect of one god, a god of healing and saving the weak from death. Due to their duality they are also the gods of natural disasters and phenomena. Typically gods forget or choose not to go by their names from their life as mortals, because of this The Pair use their mortal names to distinguish between each other. Aelyr is usually depicted as a man with short black hair clothed in flowing robes wearing a flower crown, usually at his side is his pet rabbit Malady. Aelar is usually depicted as a woman wearing a green gown with extremely long pure white hair. People who follow them usually have a carefree spirit, a love of nature and sporadic behavior. In their Life as Man they were lovers that were kept from each other by feuding royal families.    
 
 Malady: Aelyr’s pet rabbit
+	Malady is the Goddess of Deception, along with 
 
 <span style="color:#ff0000">The Faceless Man </span>
 
-(M - Sosoro) –  Violence, Rebels, Liberators, Theft, , Subterfuge, Deception,  Domination, Conquest for greed
+(M - Sosoro) –  Violence, Rebels, Liberators, Theft, Deception and Subterfuge.  
 
 **The** Faceless Man is the god of anarchy, deception, and domination but most of all he is the god of fate. The Faceless man is typically depicted as a man wearing a silver featureless mask, and wielding a rapier with a golden pommel. In his past life he was Sosoro the Hidden, a great liberator of the great and now Capital city of Ereguard in 126 A.D. People who follow him are known for their rowdiness, lust for fortune and willing to do anything to get it. Lately he has been in contact with the Radigan Institute of the Arcane, a grand university that researches manners of alchemy, spells and rituals. 
 
@@ -56,7 +57,7 @@ Malady: Aelyr’s pet rabbit
 
 <span style="color:#00b0f0">The Thinker</span>
 
-(F - Halessian) – Craft, Invention, Lore, Secrets, Courage, Justice
+(F - Halessian) – Craft, Invention, Lore, Secrets, Courage, Justice, Conquest for greed, Domination
 
 **The** Thinker is the god of Invention and Lore, Knowledge gained by any source and the use of it to reveal the truth of things. The Thinker is typically depicted as a raven haired woman using a parisol usually in the possession of books or tablets. In Her past life she was Halessian, a great scientist responsible for the creation of the first IPD_(**Infinite Persistence Device**)._ She went on to found the school of Carnighast that focuses on magical exploration and study. People who follow her are usually creative and practical, capable of making things well. Followers of The Thinker usually are staunch believers in the truth and demand that justice be had using it. Currently the Clerics of The Thinker serve as researchers the school of Charnighast.   
 
