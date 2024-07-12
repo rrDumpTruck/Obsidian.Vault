@@ -5,8 +5,9 @@ sticker: emoji//1f648
 
 Keenan   
  
+Radigan is arriving in opportunity at request of Lady Kyrie of the Lake of Serene. Now acting for the King as well in his absence due to his investigation into the second Herald's arrival in the Vein beneath Opportunity and then its abcence 
 
- 
+
 
 USE G.A.U.R.D.S.  method to create a few concrete details of some cities 
 come up with an idea of the other cities in the world. 

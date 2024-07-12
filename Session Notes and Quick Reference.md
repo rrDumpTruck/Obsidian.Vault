@@ -21,10 +21,10 @@ The Consortium's reason for surveying the land is somewhat of a trick. They are 
 
 When the Party goes to leave the city a large dragon flies overhead, 
 
-Recently She (Radigan) has been seen in the form of a dragon over a few local political events in Opportunity. 
 
-"The Area" lies on the other side of a place the The Obsidian Peak. A series of spline-like mountains of obsidian and granite. It twists and winds while leaving hundreds of feet overhead of rock and sky. 
-The party must make a series of (2-4) navigation checks based on how good they do DC 14 Survival Check, if they fail everyone must make a DC 13 Dexterity Save or take 1d6 Slashing damage from having to do various maneuvers. 
+<span style="color:#ffc000">ENTER THE MAZE OF PEAKS</span>
+	"The Area" lies on the other side of a place the The Obsidian Peak. A series of spline-like mountains of obsidian and granite. It twists and winds while leaving hundreds of feet overhead of rock and sky. 
+	<span style="color:#c00000">The party must make</span> a series of (2-4) navigation checks based on how good they do <span style="color:#c00000">DC 14 Survival Check</span>, if they fail everyone must make a <span style="color:#c00000">DC 13 Dexterity Save</span> or take <span style="color:#ffff00">1d6</span> Slashing damage from having to do various maneuvers. 
 
 After arriving there they find large sections of veins leading out of the rocks and to two buildings. A small barn like building with 2 bedrooms, and 
 A wood and stone tower about a hundred feet from the barn. 
