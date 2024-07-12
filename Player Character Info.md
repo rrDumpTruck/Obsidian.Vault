@@ -29,7 +29,7 @@ Short backstory due to a short(ish) life. More to come.
 
 <span style="color:#ffc000">Has Ties</span> to the Family in <span style="color:#ffc000">Opportunity</span>. 
 	Kobold who originally lived in The Profligate city during its collapse. 
-	While stealing he was caught by Mavakos, a member of The Family's fencing 
+	While stealing he was caught by Mavakos, a member of The Family's secret fencing guild. He tested him with a few contracts and then a large one, after it's completion he gave her The Pocket Watch. 
 <span style="color:#ffc000">"More info needed, seems like filler."</span>
 
 
