@@ -8,7 +8,7 @@ Pathfinder Sorcerer who witnessed the herald on one of his jobs for a crime grou
 <span style="color:#ffc000">Illayra</span> ||| @Nebulousmatt Foundry PW: (old)323456789 > f
 Wants to play Human Artificer who made @KrYpTiX's Warforged Character.
 
-A tavern owner in Opportunity
+Owner of "The Golden Flagon" in the 
 Used to have seedy visitors. Now bankrupt and adventuring for themselves. 
 
 ---
