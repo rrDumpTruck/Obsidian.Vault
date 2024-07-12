@@ -60,12 +60,17 @@ The Juice flows through everything and everyone in small ways, and big ones. The
 
 Types of Veins
 -Capillaries - Hold small, impure amounts, very common
--Vein - The Large thing rope like strands of interwoven capillaries 5-10 feet wide  places that tie different regions sets of capillaries together. Veins are also responsible for transporting Juice to the Arties and then back to the Convergence. 
+-Vein - The Large thing rope like strands of interwoven capillaries 5-10 feet wide  places that tie different regions sets of capillaries together. Once Properly interwoven the Veins become so tough that nothing can penetrate them. Veins are also responsible for transporting Juice to the Arties and then back to the Convergence. 
 -Arteries - Huge 20-40ft chords of veins turning into a conglomerate of glowing blue energy that transports back to The Convergence, then back to the Fountain.  
 -Heart(Convergence)
 
 A Fissure 
-Occasionally 
+Occasionally a procedure is undertaken where Pathfinders are able to divine a location where a Vein is weak enough to possibly be Opened. 
+
+
+
+
+
 
 A Fracture
 Occasionally an event takes place where an Artery is burst or ruptured in some way, a Fracture takes place, usually destroying anything in a very large radius. The open wound will continue to heal over time, sending more Juice to that area trying to repair it. These events are rare, and have been the arriving point of The Herald in Opportunity. 
