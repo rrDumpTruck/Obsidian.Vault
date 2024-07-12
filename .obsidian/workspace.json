@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs.md",
+                "file": "Lore Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs.md",
+                "file": "Lore Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs.md",
+                "file": "Lore Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs.md"
+                "file": "Lore Rules.md"
               }
             }
           },
@@ -172,9 +172,9 @@
   },
   "active": "ce29a28e638fc8bd",
   "lastOpenFiles": [
+    "NPCs.md",
     "Lore Rules.md",
     "Ideas.md",
-    "NPCs.md",
     "Locations.md",
     "L - Opportunity.md",
     "Starter Lore Handout.md",

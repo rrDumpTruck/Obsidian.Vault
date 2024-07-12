@@ -55,13 +55,15 @@ The next test is to find a pathfinder and  hire his services to help you qualify
 
 The world of the veins is a largely cavernous and eroded place, a large amount of ground gives way and is not stable to build on due to being eroded by the juice's flow. Regenerating in most ways over time the landscape continues to adapt to the lifeforms that live on it. 
 
-Mining operations must be undertaken with a preinstallment of the Juice due to the soil regenerating if not treated with trace amounts of it at first 
+Mining operations must be undertaken with a preapplication of the Juice due to the soil regenerating if not treated with trace amounts of it during The Watchers Gaze. 
+
+The Juice flows through everything and everyone in small ways, and big ones. The things we call The Veins are referring to the small Capillaries that hold small amounts of impure juice. 
 
 
 
 
-
-
+Types of Veins
+Capillaries - Hold small, impure amounts, very common
 
 
 
