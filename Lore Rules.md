@@ -64,6 +64,8 @@ The Juice flows through everything and everyone in small ways, and big ones. The
 
 Types of Veins
 Capillaries - Hold small, impure amounts, very common
+Vein - The Large thing rope like strands of interwoven capillaries 5-10 feet wide  places that tie different regions sets of capillaries together. Veins are also responsible for transporting Juice to the Arties and then back to the Convergence. 
+Arteries - Huge 20-40ft chords of veins turning into a conglomerate of glowing blue energy that transports back to The Converg 
 
 
 
