@@ -52,22 +52,20 @@ Starting from the beginning, a person who wishes to become a Vein Hunter must fi
 The next test is to find a pathfinder and  hire his services to help you qualify for the next licensing step which is the Vein Hunters Permit. 
 
 <span style="color:#00b050">GEOLOGY and JUICEOLOGY </span>
-
 The world of the veins is a largely cavernous and eroded place, a large amount of ground gives way and is not stable to build on due to being eroded by the juice's flow. Regenerating in most ways over time the landscape continues to adapt to the lifeforms that live on it. 
 
 Mining operations must be undertaken with a preapplication of the Juice due to the soil regenerating if not treated with trace amounts of it during The Watchers Gaze. 
 
-The Juice flows through everything and everyone in small ways, and big ones. The things we call The Veins are referring to the small Capillaries that hold small amounts of impure juice. 
-
-
-
+The Juice flows through everything and everyone in small ways, and big ones. The things we call The Veins are referring to the small Capillaries that hold small amounts of impure juice. The juice in the Capillaries travel through the Veins, then The Arteries and returns back to the Convergence. 
 
 Types of Veins
-Capillaries - Hold small, impure amounts, very common
-Vein - The Large thing rope like strands of interwoven capillaries 5-10 feet wide  places that tie different regions sets of capillaries together. Veins are also responsible for transporting Juice to the Arties and then back to the Convergence. 
-Arteries - Huge 20-40ft chords of veins turning into a conglomerate of glowing blue energy that transports back to The Converg 
+-Capillaries - Hold small, impure amounts, very common
+-Vein - The Large thing rope like strands of interwoven capillaries 5-10 feet wide  places that tie different regions sets of capillaries together. Veins are also responsible for transporting Juice to the Arties and then back to the Convergence. 
+-Arteries - Huge 20-40ft chords of veins turning into a conglomerate of glowing blue energy that transports back to The Convergence, then back to the Fountain.  
+-Heart(Convergence)
 
-
+A Fissure 
+Occasionally an event takes place where an Artery is burst or 
 
 ---
 <span style="color:#ff0000">Setting Specific Adjectives</span>
