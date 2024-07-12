@@ -1,15 +1,17 @@
 ---
 sticker: emoji//1f3ae
 ---
-<span style="color:#ffc000">(Sazen Bhamar)</span> ||| @Badmeis Foundry PW: 223456789
+<span style="color:#ffc000">Sazen Bhamar</span> ||| @Badmeis Foundry PW: 223456789
 Pathfinder Sorcerer who witnessed the herald on one of his jobs for a crime group called the Consortium, by which he was adopted when he was 13. When he witnessed the herald he lost his vision.
 
 ---
 <span style="color:#ffc000">Illayra</span> ||| @Nebulousmatt Foundry PW: (old)323456789 > f
 Wants to play Human Artificer who made @KrYpTiX's Warforged Character.
 
-Owner of "The Golden Flagon" in the 
-Used to have seedy visitors. Now bankrupt and adventuring for themselves. 
+<span style="color:#ffc000">Owner of "The Golden Flagon" </span>
+	In the Guild Square near the central intersection where their estate lies. It Used to have seedy visitors. Now bankrupt and adventuring for themselves. 
+<span style="color:#ffc000">Constructed T.H.U.M.P.</span>
+	
 
 ---
 <span style="color:#ffc000">T. H. U. M. P. </span>||| @KrYpTiX Foundry PW: 423456789
