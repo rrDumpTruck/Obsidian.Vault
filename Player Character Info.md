@@ -7,7 +7,7 @@ Pathfinder Sorcerer who witnessed the herald on one of his jobs for a crime grou
 ---
 <span style="color:#ff0000">Illayra</span> ||| @Nebulousmatt Foundry PW: (old)323456789 > f
 Human Artificer 
-
+<span style="color:#7030a0">Chaotic Neutral</span>
 <span style="color:#ffc000">Owner of "The Golden Flagon" </span>
 	In the Guild Square near the central intersection where their estate lies. It Used to have seedy visitors. 
 	After a run in with "The Family" the bar is now owned by her, but at a steep debt that will need to be repaid in time. 
@@ -19,14 +19,14 @@ Human Artificer
 ---
 <span style="color:#ff0000">T. H. U. M. P. </span>||| @KrYpTiX Foundry PW: 423456789
 Warforged monk, made of beer barrels. 
-
+<span style="color:#7030a0">Neutral</span>
 Short backstory due to a short(ish) life. More to come.
 
 ---
 <span style="color:#ff0000">SKREEP</span> ||| @RebelliousBear Foundry PW: (old)523456789 > Skreep
 (Kobold Rogue/Paladin) *a "non-serious character"* 
 <span style="color:#00b0f0">THIEVES CANT IN CHAR. SHEET</span>
-
+<span style="color:#7030a0">Chaotic Good</span>
 <span style="color:#ffc000">Has Ties</span> to the Family in <span style="color:#ffc000">Opportunity</span>. 
 	Kobold who originally lived in The Profligate city during its collapse. 
 	While stealing he was caught by Mavakos, a member of The Family's secret fencing guild. He tested him with a few contracts and then a large one, after it's completion he gave her The Pocket Watch. 
