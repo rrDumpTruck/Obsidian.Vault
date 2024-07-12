@@ -18,26 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "76fadf4f3205c416",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
-          },
-          {
-            "id": "ead1f5856d705f01",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
         ]
       }
@@ -192,16 +172,16 @@
   },
   "active": "ce29a28e638fc8bd",
   "lastOpenFiles": [
+    "NPCs.md",
+    "TO DO.md",
+    "Locations.md",
     "Player Character Info.md",
     "L - Opportunity.md",
     "C - Opportunity.md",
     "Home.md",
     "Elysium's Equivocation.md",
-    "TO DO.md",
     "Archive-Recap.md",
     "Session Notes and Quick Reference.md",
-    "NPCs.md",
-    "Locations.md",
     "Lore Rules.md",
     "Ideas.md",
     "General Rules.md",

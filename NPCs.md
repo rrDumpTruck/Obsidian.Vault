@@ -4,7 +4,8 @@ sticker: emoji//1f9cd
 # <span style="color:#ffc000">The Precursors</span>
 	The precursors are those who exist in the plane of The Veins, but are stuck as outside observers due to their immense power. You may call on them but at great peril. 
 
-**<span style="color:#ff0000">Eresiod</span>** - Also known as “THE WATCHER” by the denizens of The Veins, he is responsible for The Vein's habitation by mortal men. Initially used as an experiment in his attempt to create a tap of power coming out of The Basin in the overworld. 
+**<span style="color:#ff0000">Eresiod</span>** - He was once The Thinker in The Overworld, god of lore and knowledge... of course the burning desire for knowledge can lead a god to a place where no thing should tread. 
+But now he is known as “<span style="color:#c00000">THE WATCHER</span>” by the denizens of The Veins, he is responsible for The Vein's habitation by mortal men. Initially used as an experiment in his attempt to create a tap of power coming out of The Basin in the overworld. 
 Being found out and eventually punished for his crime by his once brothers and sisters in the Devoted, he knew he must put a backup plan in place that couldn't fail. So he made a small change to the spell responsible for creating the siphon in The Basin. 
 The spell would cause him and anyone who remained inside of the portal that would create the hole and the reservoir Eresiod had created for the magic of The Basin to reside. The plan went well executed but like he had suspected he was caught. 
 While the ritual to both create the world of The Veins was being undertaken in the overworld, Ersiod's wife Verona had managed to make it into the circle without being noticed, sending her soul and energy along with Ersiod's into the world of The Veins. 
@@ -58,7 +59,7 @@ Malady: Aelyr’s pet rabbit
 <span style="color:#00b0f0">The Thinker</span>
 
 (F - Halessian) – Craft, Invention, Lore, Secrets, Courage, Justice, Conquest for greed, Domination
-
+	Originally 
 **The** Thinker is the god of Invention and Lore, Knowledge gained by any source and the use of it to reveal the truth of things. The Thinker is typically depicted as a raven haired woman using a parisol usually in the possession of books or tablets. In Her past life she was Halessian, a great scientist responsible for the creation of the first IPD_(**Infinite Persistence Device**)._ She went on to found the school of Carnighast that focuses on magical exploration and study. People who follow her are usually creative and practical, capable of making things well. Followers of The Thinker usually are staunch believers in the truth and demand that justice be had using it. Currently the Clerics of The Thinker serve as researchers the school of Charnighast.   
 
 ***The Thinker has always has always been closely recognized next to The Nurse and Due to a recent event at the Radigan Institute of the Arcane they have become closer than ever. *** 
