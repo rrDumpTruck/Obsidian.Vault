@@ -65,7 +65,10 @@ Types of Veins
 -Heart(Convergence)
 
 A Fissure 
-Occasionally an event takes place where an Artery is burst or 
+Occasionally 
+
+A Fracture
+Occasionally an event takes place where an Artery is burst or ruptured in some way, a Fracture takes place, usually destroying anything in a very large radius. The open wound will continue to heal over time, sending more Juice to that area trying to repair it. These events are rare, and have been the arriving point of The Herald in Opportunity. 
 
 ---
 <span style="color:#ff0000">Setting Specific Adjectives</span>
