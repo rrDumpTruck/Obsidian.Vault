@@ -58,7 +58,7 @@ Malady: Aelyr’s pet rabbit
 
 <span style="color:#00b0f0">The Thinker</span>
 
-(F - Halessian) – Craft, Invention, Lore, Secrets, Courage, Justice, Conquest for greed, Domination
+(F - Halessian) – Craft, Invention, Lore, Secrets, Courage, Justice, Righteous Conquest, Domination with Purpose
 	Originally an primary student of Eresiod when he had access to the Overworld before The Convergence. 
 **The** Thinker is the god of Invention and Lore, Knowledge gained by any source and the use of it to reveal the truth of things. The Thinker is typically depicted as a raven haired woman using a parasol usually in the possession of books or tablets. In Her past life she was Halessian, a great scientist responsible for the creation of the first IPD_(**Infinite Persistence Device**)._ She went on to found the school of Carnighast that focuses on magical exploration and study. People who follow her are usually creative and practical, capable of making things well. Followers of The Thinker usually are staunch believers in the truth and demand that justice be had using it. Currently the Clerics of The Thinker serve as researchers the school of Carnighast.   
 
