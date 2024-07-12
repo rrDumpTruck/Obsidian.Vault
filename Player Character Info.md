@@ -30,12 +30,11 @@ Short backstory due to a short(ish) life. More to come.
 <span style="color:#ffc000">Has Ties</span> to the Family in <span style="color:#ffc000">Opportunity</span>. 
 	Kobold who originally lived in The Profligate city during its collapse. 
 	While stealing he was caught by Mavakos, a member of The Family's secret fencing guild. He tested him with a few contracts and then a large one, after it's completion he gave her The Pocket Watch. 
+	(<span style="color:#ff0000">This will probably lead to a quest in the future</span>)
+*"An oversized pocket-watch sparkling silver with red accents. Etched on the cover of the watch states "My life... for you Verona" With the Initials V. + E. underneath."*
 <span style="color:#ffc000">"More info needed, seems like filler."</span>
 
-
-
-The Family reached out after a job and gifted Skreep the following item: (<span style="color:#ff0000">This will probably lead to a quest in the future</span>)
-*"An oversized pocket-watch sparkling silver with red accents. Etched on the cover of the watch states "My life... for you Verona" With the Initials V. + E. underneath."*
+The Family reached out after a job and gifted Skreep the following item: 
 
 ---
 GOALS: XP values are Encounter Difficulty * 3 in XP value
