@@ -6,7 +6,7 @@ Pathfinder Sorcerer who witnessed the herald on one of his jobs for a crime grou
 
 ---
 <span style="color:#ff0000">Illayra</span> ||| @Nebulousmatt Foundry PW: (old)323456789 > f
-Wants to play Human Artificer who made @KrYpTiX's Warforged Character.
+Human Artificer 
 
 <span style="color:#ffc000">Owner of "The Golden Flagon" </span>
 	In the Guild Square near the central intersection where their estate lies. It Used to have seedy visitors. 
@@ -18,17 +18,18 @@ Wants to play Human Artificer who made @KrYpTiX's Warforged Character.
 
 ---
 <span style="color:#ff0000">T. H. U. M. P. </span>||| @KrYpTiX Foundry PW: 423456789
-Wants to play Warforged created by @Nebulousmatt's Artificer character. 
-
 Warforged monk, made of beer barrels. 
+
+Short backstory due to a short(ish) life. More to come.
 
 ---
 <span style="color:#ff0000">SKREEP</span> ||| @RebelliousBear Foundry PW: (old)523456789 > Skreep
-(Kobold Rogue/Paladin) *a "non-serious character"*
+(Kobold Rogue/Paladin) *a "non-serious character"* 
+THIEVES CANT IN CHAR. SHEET
 Has ties to the Family in Opportunity. 
 
-The Family reached out after a job and gifted Skreep the following item: 
-*"An oversized pocketwatch sparkling silver with red accents. Etched on the cover of the watch states "My life... for you Verona" With the Initials V. + E. underneath."*
+The Family reached out after a job and gifted Skreep the following item: (<span style="color:#ff0000">This will probably lead to a quest in the future</span>)
+*"An oversized pocket-watch sparkling silver with red accents. Etched on the cover of the watch states "My life... for you Verona" With the Initials V. + E. underneath."*
 
 ---
 GOALS: XP values are Encounter Difficulty * 3 in XP value
