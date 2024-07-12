@@ -53,7 +53,9 @@ The next test is to find a pathfinder and  hire his services to help you qualify
 
 <span style="color:#00b050">GEOLOGY and JUICEOLOGY </span>
 
-The world of the veins is a largely cavernous and eroded place, a large amount of ground gives way and is not stable to build on due to 
+The world of the veins is a largely cavernous and eroded place, a large amount of ground gives way and is not stable to build on due to being eroded by the juice's flow. Regenerating in most ways over time the landscape continues to adapt to the lifeforms that live on it. 
+
+Mining operations must be undertaken with a preinstallment of the Juice due to the soil regenerating if not treated with trace amounts of it at first 
 
 
 
