@@ -25,8 +25,14 @@ Short backstory due to a short(ish) life. More to come.
 ---
 <span style="color:#ff0000">SKREEP</span> ||| @RebelliousBear Foundry PW: (old)523456789 > Skreep
 (Kobold Rogue/Paladin) *a "non-serious character"* 
-THIEVES CANT IN CHAR. SHEET
-Has ties to the Family in Opportunity. 
+<span style="color:#00b0f0">THIEVES CANT IN CHAR. SHEET</span>
+
+<span style="color:#ffc000">Has Ties</span> to the Family in <span style="color:#ffc000">Opportunity</span>. 
+	Kobold who originally lived in The Profligate city during its collapse. 
+	While stealing he was caught by Mavakos, a member of The Family's fencing 
+<span style="color:#ffc000">"More info needed, seems like filler."</span>
+
+
 
 The Family reached out after a job and gifted Skreep the following item: (<span style="color:#ff0000">This will probably lead to a quest in the future</span>)
 *"An oversized pocket-watch sparkling silver with red accents. Etched on the cover of the watch states "My life... for you Verona" With the Initials V. + E. underneath."*
