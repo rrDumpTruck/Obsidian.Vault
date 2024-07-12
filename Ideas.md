@@ -22,7 +22,7 @@ An oversized pocketwatch sparkling silver with red accents. Etched on the cover 
 
 Radigan is missing since bombings, having only occasionionally shown her self at other major political events very briefly. 
 
-Recently She (Radigan) has been seen in the form of a dragon over a few local political events in Opportunity. 
+
 
 Being the first to take form gives her a power over time by way of premonition and futuresight. 
 
