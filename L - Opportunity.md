@@ -71,7 +71,7 @@ Father Janus Julii
 Mother Dianne Julii - <span style="color:#c00000">contract to be killed by Aorta for an undetermined amount of gold</span>
 	Head of acquisition of new business for the whole guild. Deciding vote on family matters.
 Daughter Iris Julii
-	Head of 
+	Head of accounting, history, and 
 Son Leto Julii - <span style="color:#c00000">contract to be killed by Aorta 250gp</span>
 	Head of Research and notorious party boy. Commonly travels to different places to party. 
 
