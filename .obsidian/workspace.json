@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "NPCs.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C - Opportunity.md",
+                "file": "L - Opportunity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -220,14 +220,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a135e35c9306e986",
+  "active": "c48f9ca86dc62bee",
   "lastOpenFiles": [
-    "Locations.md",
+    "C - Opportunity.md",
     "NPCs.md",
     "L - Opportunity.md",
+    "Locations.md",
     "Session Notes and Quick Reference.md",
     "Ideas.md",
-    "C - Opportunity.md",
     "General Rules.md",
     "Player Character Info.md",
     "Lore Rules.md",
