@@ -7,6 +7,9 @@ Thump: 4
 Sazen: 10
 Illarya: 12
 
+Juice Bar
+
+
 Gave everyone a vial of juice worth 50gp in session 2
 
 Velyr - Captain of secret acquisitions department at the Consortium
