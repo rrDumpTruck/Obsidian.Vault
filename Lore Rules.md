@@ -69,7 +69,10 @@ Fissure Creation
 	- When created a Fracture lasts for 100 years at least, as far as we can tell. 
 
 Death and Dying
-	The World of the Veins is a harsh place, inevitably you will end up facing a fight you cannot win, or meeting an obstacle you couldn't have foreseen. In cases of death, most creatures seem to return to life within 
+	The World of the Veins is a harsh place, inevitably you will end up facing a fight you cannot win, or meeting an obstacle you couldn't have foreseen. In cases of death, most creatures seem to return to life within 4-8 cycles. 
+	During a persons death, strange hallucinations have been witnessed and a mortal occasion is typically met with memory loss of the entire previous cycle as well as in some rare cases where people lose weeks or months worth of memories. Some rare cases show resurected people forgetting a specific person or item as well. 
+	In cases where a person loses a limb, head or even entire body the following takes place. 
+	A 
 
 
 
