@@ -1,6 +1,10 @@
 ---
 sticker: emoji//1f564
 ---
+
+
+
+
 # Overworld - 
 
 _B.D. = Before Devotion_  

@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Timeline.md",
+                "file": "NPCs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Timeline.md",
+                "file": "Session Notes and Quick Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Timeline.md",
+                "file": "Session Notes and Quick Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Timeline.md"
+                "file": "Session Notes and Quick Reference.md"
               }
             }
           },
@@ -183,17 +182,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88e12e27fc6af856",
+  "active": "ce29a28e638fc8bd",
   "lastOpenFiles": [
+    "NPCs.md",
+    "Ideas.md",
+    "Lore Rules.md",
+    "Time - Timelines and the Weather.md",
     "Session Notes and Quick Reference.md",
     "C - Opportunity.md",
     "L - Opportunity.md",
     "Player Character Info.md",
-    "NPCs.md",
     "TO DO.md",
     "Home.md",
-    "Lore Rules.md",
-    "Ideas.md",
     "Locations.md",
     "Starter Lore Handout.md",
     "Elysium's Equivocation.md",
@@ -201,7 +201,6 @@
     "General Rules.md",
     "Untitled.md",
     "The Veins Session 0 Handout .md",
-    "The Timeline.md",
     "Active Projects/(Current Project) Bladerunner (1982)/Project Notes.md",
     "MORE IN SEPERATE SHEET.md",
     "DoA.md",

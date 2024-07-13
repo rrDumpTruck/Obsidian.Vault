@@ -96,6 +96,8 @@ Backstory: she used to be the wife of the Warden during their mortal life. Only
 
  **Saint Damius** (Saint of Conquest for greed) - Founder of Opportunity and now ruler of The Plateau. 
 
+Harvestmen - Elite military flesh crafted units following The Harvester(Damocan)
+
 <span style="color:#92d050">The Listener (Wastes) </span>
 	(Radigan) - forgotten knowledge, craving for knowledge, addiction, jealousy. Can turn into a scale-less dragon (like sith from dark souls) with red constantly dripping flesh. 
 
