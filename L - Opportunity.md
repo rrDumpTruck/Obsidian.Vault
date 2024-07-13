@@ -68,11 +68,11 @@ Ranks for The Consortium's Members
 ### House <span style="color:#00b050">Julii</span> *(jool-ee-aye)*
 Father Janus Julii 
 	Leader and helmsman of the guild and the family. 
-Mother Dianne Julii
-	Head of acquisition for the whole guild. Deciding vote on family matters.
+Mother Dianne Julii - <span style="color:#c00000">contract to be killed by Aorta for an undetermined amount of gold</span>
+	Head of acquisition of new business for the whole guild. Deciding vote on family matters.
 Daughter Iris Julii
-	
-Son Leto Julii - contract to be killed by Aorta 250gp
+	Head of 
+Son Leto Julii - <span style="color:#c00000">contract to be killed by Aorta 250gp</span>
 	Head of Research and notorious party boy. Commonly travels to different places to party. 
 
 ### -<span style="color:#00b050">The Fleshcrafter's Guild </span>
