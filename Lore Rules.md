@@ -1,26 +1,19 @@
 ---
 sticker: emoji//1f340
 ---
-The World So Far  
 
-### Overview
 
-Overview - I am thinking this setting as being inspired by a setting on a old Rollplay show called Court of Swords, specifically the place called The Court of the Void. The culture and time setting will be different but the concepts of vein hunters, and cities built secretly on top of large ones. The settings best part will come when the party learns of the second part of the setting, they are in a different plane and the overworld exists (probably hint with an object made of a material only in the overworld). They will uncover a hidden mystery and why the two planes were created (main story seed).
 
-Time - I think I want this to be outside of normal fantasy settings with some allegorical connections to pop culture and history. A dark perverse place haunted by demons of the past and present, feelings of an ultimate evil obscured by time.
+Overview
+	I am thinking this setting as being inspired by a setting on a old Rollplay show called Court of Swords, specifically the place called The Court of the Void. The culture and time setting will be different but the concepts of vein hunters, and cities built secretly on top of large ones. The settings best part will come when the party learns of the second part of the setting, they are in a different plane and the overworld exists (probably hint with an object made of a material only in the overworld). They will uncover a hidden mystery and why the two planes were created (main story seed).
 
-Themes - This will be an anxious, dark, regal one with momentary parts horror and mischief or frivolity.
+Time
+	I think I want this to be outside of normal fantasy settings with some allegorical connections to pop culture and history. A dark perverse place haunted by demons of the past and present, feelings of an ultimate evil obscured by time.
 
-Interaction Level - I will likely play this by ear, start out small as a local actor and possibly introduce bigger characters over time.
-
-Stakes - This will largely play off of interaction level and player interest (combat, lore, loot)
+Themes
+	This will be an anxious, dark, regal one with momentary parts horror and mischief or frivolity.
 
 Personal Goals - I want this to be equal parts challenging and self indulging for me. An opportunity to meet different types of people and let there stories form my future and current ones. Hopefully we can find some people who care about this as much as I can when in the deep end of world building and roleplaying.
-
-  
-
-  
-
 ### First Imagining
 
 You see a flowing stream, quick clear vapors with little blue glistering specks of shining in some light overhead emanating from a hole in the sky crimson sky, black as pitch. A dark greyish red landscape dotted by crevices known as The Veins by everyone who calls this place home. Things here don't change, not without a little special treatment at least. Unless you imbue something with The Juice; a substance retrieved from fissures by people called Vein Hunters. The object recovers any harm that is done to it every day at sunrise. Memories never fade, people old or young never advance their age past their current one.
@@ -73,7 +66,7 @@ Occasionally an event takes place where an Artery is burst or ruptured in some w
 Fissure Creation
 A fissure is capable of withstanding all but the most powerful of explosions or the sharpest of spells and knives. 
 
-SECRET DM VEIN STUFF
+<span style="color:#c00000">SECRET DM VEIN STUFF</span>
 When created a Fissure will last 10d10 days before sealing itself, during the last half of the duration the flow rate is reduced by half. 
 
 When created a Fracture lasts for 100 years at least, as far as we can tell. 
