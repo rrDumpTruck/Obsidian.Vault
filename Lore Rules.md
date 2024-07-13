@@ -52,7 +52,7 @@ Starting from the beginning, a person who wishes to become a Vein Hunter must fi
 The next test is to find a pathfinder and  hire his services to help you qualify for the next licensing step which is the Vein Hunters Permit. 
 
 <span style="color:#00b050">GEOLOGY and JUICEOLOGY </span>
-The world of the veins is a largely cavernous and eroded place, a large amount of ground gives way and is not stable to build on due to being eroded by the juice's flow. Regenerating in most ways over time the landscape continues to adapt to the lifeforms that live on it. 
+The world of the veins is a largely cavernous and eroded place, a large amount of ground gives way easily and is not stable to build on due to being eroded by the juice's flow. Regenerating in most ways over time the landscape continues to adapt to the lifeforms that live on it. 
 
 Mining operations must be undertaken with a preapplication of the Juice due to the soil regenerating if not treated with trace amounts of it during The Watchers Gaze. 
 
@@ -65,7 +65,7 @@ Types of Veins
 -Heart(Convergence)
 
 A Fissure 
-Occasionally a procedure is undertaken where Pathfinders are able to divine a location where a Vein is weak enough to possibly be Opened. 
+Occasionally a procedure is undertaken where Pathfinders are able to divine a location where a Vein is weak enough to possibly be Opened. If the difficult task of finding a weak point is succeeded Juice will deluge out of the vein until it seals itself in time. 
 
 
 
