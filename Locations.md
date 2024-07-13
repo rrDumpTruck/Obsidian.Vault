@@ -23,7 +23,7 @@ sticker: emoji//1f5fa-fe0f
 
 <span style="color:#ffff00">The Wall </span>
 	The wall, or in some places lack thereof is what people call the large dividing plethora of obstacles that block off the provinces from each other. Some know how to manipulate the field of energy that is exposed in some places. These people call themselves the pathfinders and usually make you pay quite a fee for transit. Otherwise the only way around is in the very center of the continent at the Convergence.   
-	*The world of The Veins depicts a circle of varied lands quadrisected by the ivory walls that stand apart from all landmass by having a moat 20ft deep and across of hyperpure Juice, And at the very center is the Convergence near two hundred feet deep. Each quadrant of land bearing a name won through much bloody war. The endless ocean surrounding all landmasses is known as The Sapphire Abyss. Left too long in its tides it disintegrates anything it touches.*
+	*The world of The Veins depicts a circle of varied lands quadrisect by the ivory walls that stand apart from all landmass by having a moat 20ft deep and across of hyperpure Juice, And at the very center is the Convergence near two hundred feet deep. Each quadrant of land bearing a name won through much bloody war. The endless ocean surrounding all landmasses is known as The Sapphire Abyss. Left too long in its tides it disintegrates anything it touches.*
 
 ---
 
