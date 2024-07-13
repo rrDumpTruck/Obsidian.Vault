@@ -67,13 +67,16 @@ Types of Veins
 A Fissure 
 Occasionally a procedure is undertaken where Pathfinders are able to divine a location where a Vein is weak enough to possibly be Opened. If the difficult task of finding a weak point is succeeded Juice will deluge out of the vein until it seals itself in time. 
 
-
-
-
-
-
 A Fracture
 Occasionally an event takes place where an Artery is burst or ruptured in some way, a Fracture takes place, usually destroying anything in a very large radius. The open wound will continue to heal over time, sending more Juice to that area trying to repair it. These events are rare, and have been the arriving point of The Herald in Opportunity. 
+
+Fissure Creation
+A fissure is capable of withstanding all but the most powerful of explosions or the sharpest of spells and knives. 
+
+SECRET DM VEIN STUFF
+When created a Fissure will last 10d10 days before sealing itself, during the last half of the duration the flow rate is reduced by half. 
+
+When created a Fracture lasts for 100 years at least, as far as we can tell. 
 
 ---
 <span style="color:#ff0000">Setting Specific Adjectives</span>
