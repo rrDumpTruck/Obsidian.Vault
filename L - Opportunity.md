@@ -59,9 +59,7 @@ Ranks for The Consortium's Members
 	-Castellan - The well connected, well invested, and very influential of the Consortium's finest. Leaders of inner circles, national spies and dangerous assassins. 
 	-Lieutenant - Capable of creating your own missions to send others on and/or yourself. Capable to enter the upper circle's clubs and galleries. 
 	-Ensign - Capable of only taking work from a handler, entrance to the different clubhouses.
-	-Due to its ability to find curios and rare materials around the world they make quite a lot of money. In addition to their "Original activities"
-
-
+	-Due to its ability to find curios and rare materials around the world they make quite a lot of money. In addition to their "Original activities". 
 ## Guild Square 
 ### -The <span style="color:#00b050">Family</span> 
 	A mob-like organization that deals primarily in deals in shipping and transit in between The Wall. Securing a deal with them can be done but you must become a trusted venture before they are willing to help your cause. 

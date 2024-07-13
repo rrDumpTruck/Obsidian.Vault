@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "Player Character Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "Player Character Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "Player Character Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L - Opportunity.md"
+                "file": "Player Character Info.md"
               }
             }
           },
@@ -222,9 +222,9 @@
   },
   "active": "5ef6e6e0f2d951f0",
   "lastOpenFiles": [
+    "L - Opportunity.md",
     "Starter Lore Handout.md",
     "Session Notes and Quick Reference.md",
-    "L - Opportunity.md",
     "Locations.md",
     "Lore Rules.md",
     "Ideas.md",
