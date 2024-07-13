@@ -47,7 +47,7 @@ QUESTS: XP values are Encounter Difficulty * 4 in XP value
 [Encounter Calculator](https://www.dndbeyond.com/sources/basic-rules/building-combat-encounters#CombatEncounterDifficulty)
 
 <span style="color:#00b0f0">Quests</span>
-1. Come up with a Vein Hunter Group name. 
+1. Come up with a Vein Hunter Group name. (200)
 2. 
 
 <span style="color:#00b0f0">Goals</span>
@@ -56,26 +56,26 @@ QUESTS: XP values are Encounter Difficulty * 4 in XP value
 2. earn some extra cash outside the mission [S1] WT+1
 3. find out one weird thing from the other people [S1] WT+1
 
-
+Last Session: 
 
 <span style="color:#ffc000">Illayra</span> @Nebuluousmatt (Level 1 Human, Artificer)
 1. I want to take my tavern back (Private) [S1] WT+1
 2. I want to establish as a vein hunter [S2] 
 3. I want to dig up more info on The Family [S1] WT+1
 
-
+Last Session: WT 1, 
 
 <span style="color:#ffc000">T. H. U. M. P. </span>(Level 1 Warforged, Monk)
 1. Harvest a fissure [S1] WT+1
 2. To become closer to the party members [S1] WT+1
 3. To protect someone from someone/something else [S1] 
 
-
+Last Session: 
 
 <span style="color:#ffc000">SKREEP</span> (Level 1 Kobold, Draconic Sorcerer)
 1. Join a party of adventurers [S1]
 2. Ask around if anyone has heard of the name Verona (Private) [S1 Complete] 
 3. Find Mavakos' whereabouts (Private) [S1]
 
-
+Last Session: 
 
