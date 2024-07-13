@@ -70,7 +70,7 @@ Worked on all 3
 2. To become closer to the party members [S1]
 3. To protect someone from someone/something else [S1]
 
-
+Worked on two 
 
 <span style="color:#ffc000">SKREEP</span> (Level 1 Kobold, Draconic Sorcerer)
 1. Join a party of adventurers [S1]

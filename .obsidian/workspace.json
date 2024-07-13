@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,7 +220,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce29a28e638fc8bd",
+  "active": "5ef6e6e0f2d951f0",
   "lastOpenFiles": [
     "Session Notes and Quick Reference.md",
     "L - Opportunity.md",
