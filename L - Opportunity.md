@@ -67,9 +67,13 @@ Ranks for The Consortium's Members
 *Currently has a debt with Illarya
 House <span style="color:#00b050">Julii</span> *(jool-ee-aye)*
 	Father Janus Julii 
+		Leader and helmsman of the guild and the family. 
 	Mother Dianne Julii
+		Head of acquisition for the whole guild. Deciding vote on family matters.
 	Daughter Iris Julii
+	
 	Son Leto Julii - contract to be killed by Aorta 250gp
+
 ### -<span style="color:#00b050">The Fleshcrafter's Guild </span>
 <span style="color:#00b050">Aorta</span>'s Work Shop
 	The shop where "Where did I leave my Aorta" has started the Empire of Flesh in Opportunity. Now has a common area where he greets guests and holds guild events with other guilds that work with him. 
