@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Character Info.md",
+                "file": "Session Notes and Quick Reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,8 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c48f9ca86dc62bee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C - Opportunity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Character Info.md",
+                "file": "NPCs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Character Info.md",
+                "file": "NPCs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Character Info.md"
+                "file": "NPCs.md"
               }
             }
           },
@@ -207,18 +220,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce29a28e638fc8bd",
+  "active": "359dd1785c644dbe",
   "lastOpenFiles": [
-    "Locations.md",
-    "Player Character Info.md",
-    "Archive-Recap.md",
-    "L - Opportunity.md",
-    "NPCs.md",
     "Session Notes and Quick Reference.md",
+    "Player Character Info.md",
+    "C - Opportunity.md",
+    "L - Opportunity.md",
+    "Locations.md",
+    "Archive-Recap.md",
+    "NPCs.md",
     "Lore Rules.md",
     "Ideas.md",
     "Time - Timelines and the Weather.md",
-    "C - Opportunity.md",
     "TO DO.md",
     "Home.md",
     "Starter Lore Handout.md",

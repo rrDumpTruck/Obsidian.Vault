@@ -7,6 +7,11 @@ Thump: 4
 Sazen: 10
 Illarya: 12
 
+<span style="color:#7030a0">Intro for Session 2</span>
+	All you see is darkness at first... then slowly fading in from black a viscerally bright cyan light followed by a cacophony of rumbling, shattering and cracking of land being pushed aside hastily followed by 
+
+
+
 <span style="color:#ff0000">Argus</span> (Lieutenant of the Fleshcrafter's)
 	A non-descript man usually seen in a plague mask while doing business for the Fleshcrafter's Guild. His voice sounds like Lord Davos (From Game of Thrones). He cares about the people who he is deemed in charge of, often too much. 
 	He owns a high quality town home in The Narrows and has a house Homunculus named Gregory. 
