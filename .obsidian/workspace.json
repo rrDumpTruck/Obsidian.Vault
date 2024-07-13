@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes and Quick Reference.md",
+                "file": "L - Opportunity.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes and Quick Reference.md",
+                "file": "L - Opportunity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes and Quick Reference.md",
+                "file": "L - Opportunity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes and Quick Reference.md"
+                "file": "L - Opportunity.md"
               }
             }
           },
@@ -222,12 +222,13 @@
   },
   "active": "5ef6e6e0f2d951f0",
   "lastOpenFiles": [
-    "Locations.md",
     "NPCs.md",
     "Session Notes and Quick Reference.md",
-    "Player Character Info.md",
+    "The Veins Session 0 Handout .md",
     "L - Opportunity.md",
     "Starter Lore Handout.md",
+    "Locations.md",
+    "Player Character Info.md",
     "Lore Rules.md",
     "Ideas.md",
     "C - Opportunity.md",
@@ -238,7 +239,6 @@
     "Home.md",
     "Elysium's Equivocation.md",
     "Untitled.md",
-    "The Veins Session 0 Handout .md",
     "Active Projects/(Current Project) Bladerunner (1982)/Project Notes.md",
     "MORE IN SEPERATE SHEET.md",
     "DoA.md",
