@@ -4,6 +4,9 @@ sticker: emoji//1f4a5
 <span style="color:#ff0000">Sazen Bhamar</span> ||| @Badmeis Foundry PW: 223456789
 Pathfinder Sorcerer 
 
+Adopted by Edrin
+	Edrin an Aasimar adopted Sazen after the fall of Elysia. 
+
 Witnessed the Herald 
 	On one of his jobs for a crime group called the Consortium, by which he was adopted when he was 13. When he witnessed the herald he lost his vision.
 

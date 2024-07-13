@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,8 +222,8 @@
   "active": "ce29a28e638fc8bd",
   "lastOpenFiles": [
     "Player Character Info.md",
-    "L - Opportunity.md",
     "Session Notes and Quick Reference.md",
+    "L - Opportunity.md",
     "Lore Rules.md",
     "C - Opportunity.md",
     "NPCs.md",
