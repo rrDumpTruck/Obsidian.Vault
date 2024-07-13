@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore Rules.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore Rules.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore Rules.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore Rules.md"
+                "file": "Home.md"
               }
             }
           },
@@ -172,10 +172,10 @@
   },
   "active": "ce29a28e638fc8bd",
   "lastOpenFiles": [
+    "Lore Rules.md",
     "Ideas.md",
     "Session Notes and Quick Reference.md",
     "Locations.md",
-    "Lore Rules.md",
     "NPCs.md",
     "L - Opportunity.md",
     "Starter Lore Handout.md",
