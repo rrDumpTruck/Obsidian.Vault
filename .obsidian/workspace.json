@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs.md",
+                "file": "Session Notes and Quick Reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs.md",
+                "file": "Session Notes and Quick Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs.md",
+                "file": "Session Notes and Quick Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs.md"
+                "file": "Session Notes and Quick Reference.md"
               }
             }
           },
@@ -222,10 +222,10 @@
   },
   "active": "a135e35c9306e986",
   "lastOpenFiles": [
+    "NPCs.md",
     "Session Notes and Quick Reference.md",
     "Ideas.md",
     "C - Opportunity.md",
-    "NPCs.md",
     "L - Opportunity.md",
     "General Rules.md",
     "Player Character Info.md",
