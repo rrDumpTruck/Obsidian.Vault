@@ -19,7 +19,8 @@ Verona:
 
 The Consortium's reason for surveying the land is somewhat of a trick. They are interested in the lands surrounding the fissure but know that something lingers here. But they don't want their contractor to find out because it will save them gold.
 
-When the Party goes to leave the city a large dragon flies overhead, Re
+When the Party goes to leave the city a large dragon flies overhead, 
+Red and with a sheen like a pool of blood the dragon flies up to Kaom's Keep
 
 
 <span style="color:#ffc000">ENTER THE MAZE OF PEAKS</span>
@@ -31,12 +32,15 @@ A wood and stone tower about a hundred feet from the barn.
 
 As they approach the tower they see a large hole headed deeper into the earth, with veins on every surface. 
 
+
+
 ---
 <span style="color:#ffff00">Session Reminders: </span>
 "Do remember to register to hunt." ~ Aorta after giving the party their mission. 
 
+
 ---
-Layout for next session: 
+<span style="color:#00b0f0">Layout for next session: </span>
 1. Allow adventure near <span style="color:#ff0000">Aortas Workshop</span> or wherever they choose to wander. 
 2. Arrive at opportunity where they hear the town criers say at each crossroads in the city " The Fool Throwing Festival in Damius' Forum" 
 3. Party can choose to stay at an inn in any various district of the city, the Halessian institute student housing, or choose to move out immediately. 

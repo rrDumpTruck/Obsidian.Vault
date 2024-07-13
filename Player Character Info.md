@@ -27,7 +27,7 @@ Short backstory due to a short(ish) life. More to come.
 ---
 <span style="color:#ff0000">SKREEP</span> ||| @RebelliousBear Foundry PW: (old)523456789 > Skreep
 (Kobold Rogue/Paladin) *a "non-serious character"* 
-<span style="color:#00b0f0">THIEVES CANT IN CHAR. SHEET</span>
+<span style="color:#00b0f0">"THIEVES CANT" IN CHAR. SHEET</span>
 <span style="color:#7030a0">Chaotic Good</span>
 <span style="color:#ffc000">Has Ties</span> to the Family in <span style="color:#ffc000">Opportunity</span>. 
 	Kobold who originally lived in The Profligate city during its collapse. 
