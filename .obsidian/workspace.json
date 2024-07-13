@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs.md",
+                "file": "L - Opportunity.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs.md",
+                "file": "L - Opportunity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs.md",
+                "file": "L - Opportunity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs.md"
+                "file": "L - Opportunity.md"
               }
             }
           },
@@ -222,15 +222,15 @@
   },
   "active": "a135e35c9306e986",
   "lastOpenFiles": [
+    "Locations.md",
+    "NPCs.md",
     "L - Opportunity.md",
     "Session Notes and Quick Reference.md",
-    "NPCs.md",
     "Ideas.md",
     "C - Opportunity.md",
     "General Rules.md",
     "Player Character Info.md",
     "Lore Rules.md",
-    "Locations.md",
     "Archive-Recap.md",
     "Time - Timelines and the Weather.md",
     "TO DO.md",
