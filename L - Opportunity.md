@@ -69,7 +69,7 @@ House <span style="color:#00b050">Julii</span> *(jool-ee-aye)*
 	Father Janus Julii 
 	Mother Dianne Julii
 	Daughter Iris Julii
-	Son Leto Julii - contract to be killed by Aorta 
+	Son Leto Julii - contract to be killed by Aorta 250gp
 ### -<span style="color:#00b050">The Fleshcrafter's Guild </span>
 <span style="color:#00b050">Aorta</span>'s Work Shop
 	The shop where "Where did I leave my Aorta" has started the Empire of Flesh in Opportunity. Now has a common area where he greets guests and holds guild events with other guilds that work with him. 
