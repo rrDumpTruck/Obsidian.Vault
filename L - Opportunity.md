@@ -50,6 +50,8 @@ The Narrows:
 
 <span style="color:#ffff00">Edrin</span> - A blonde Aasimar who wears a silk robe and a wizards hat who works for the Consortium as a Castellan, that also adopted Sazen Bhamar. 
 
+Velear
+
 Ranks for The Consortium's Members 
 	Lord - The Formless ally who dares not reveal themselves, playing unknown games to unseen ends. 
 	-Commissar - The Innocuous Leader of the group. Beholden only to the Lord who is yet in the Dark. 
@@ -58,6 +60,7 @@ Ranks for The Consortium's Members
 	-Lieutenant - Capable of creating your own missions to send others on and/or yourself. Capable to enter the upper circle's clubs and galleries. 
 	-Ensign - Capable of only taking work from a handler, entrance to the different clubhouses.
 	-Due to its ability to find curios and rare materials around the world they make quite a lot of money. In addition to their "Original activities"
+
 
 ## Guild Square 
 ### -The <span style="color:#00b050">Family</span> 

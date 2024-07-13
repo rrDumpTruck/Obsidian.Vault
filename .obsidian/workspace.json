@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations.md",
+                "file": "L - Opportunity.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations.md",
+                "file": "L - Opportunity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations.md",
+                "file": "L - Opportunity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations.md"
+                "file": "L - Opportunity.md"
               }
             }
           },
@@ -222,20 +222,20 @@
   },
   "active": "5ef6e6e0f2d951f0",
   "lastOpenFiles": [
+    "Starter Lore Handout.md",
     "Session Notes and Quick Reference.md",
+    "L - Opportunity.md",
+    "Locations.md",
+    "Lore Rules.md",
+    "Ideas.md",
     "NPCs.md",
     "Player Character Info.md",
     "C - Opportunity.md",
-    "L - Opportunity.md",
-    "Locations.md",
-    "Ideas.md",
     "General Rules.md",
-    "Lore Rules.md",
     "Archive-Recap.md",
     "Time - Timelines and the Weather.md",
     "TO DO.md",
     "Home.md",
-    "Starter Lore Handout.md",
     "Elysium's Equivocation.md",
     "Untitled.md",
     "The Veins Session 0 Handout .md",
