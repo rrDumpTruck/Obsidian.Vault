@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes and Quick Reference.md",
+                "file": "Player Character Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes and Quick Reference.md",
+                "file": "Player Character Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes and Quick Reference.md",
+                "file": "Player Character Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes and Quick Reference.md"
+                "file": "Player Character Info.md"
               }
             }
           },
@@ -221,13 +221,13 @@
   },
   "active": "ce29a28e638fc8bd",
   "lastOpenFiles": [
+    "Session Notes and Quick Reference.md",
     "L - Opportunity.md",
     "Player Character Info.md",
     "C - Opportunity.md",
     "Lore Rules.md",
     "NPCs.md",
     "Locations.md",
-    "Session Notes and Quick Reference.md",
     "Archive-Recap.md",
     "Ideas.md",
     "Time - Timelines and the Weather.md",
