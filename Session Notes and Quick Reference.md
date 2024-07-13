@@ -7,8 +7,10 @@ Thump: 4
 Sazen: 10
 Illarya: 12
 
-Juice Bar
+Find out if Skreep converted her juice to "gold"
 
+Juice Bar
+	Verona - blue skinned blonde hair tiefling. Runs a rundown juice bar in the streets of sapphire. On a backstreet. 
 
 Gave everyone a vial of juice worth 50gp in session 2
 
