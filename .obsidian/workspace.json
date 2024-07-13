@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "Session Notes and Quick Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "Session Notes and Quick Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L - Opportunity.md"
+                "file": "Session Notes and Quick Reference.md"
               }
             }
           },
@@ -220,13 +219,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a135e35c9306e986",
+  "active": "ce29a28e638fc8bd",
   "lastOpenFiles": [
+    "L - Opportunity.md",
     "Player Character Info.md",
     "C - Opportunity.md",
     "Lore Rules.md",
     "NPCs.md",
-    "L - Opportunity.md",
     "Locations.md",
     "Session Notes and Quick Reference.md",
     "Archive-Recap.md",
