@@ -48,10 +48,18 @@ The Narrows:
 
 ### <span style="color:#00b050">-The Consortium</span>
 
-Edrin - A blonde Aasimar who wears a silk robe and a wizards hat who works for a Fence that adopted @Badmeis' character Sazen Bhamar. 
+<span style="color:#ffff00">Edrin</span> - A blonde Aasimar who wears a silk robe and a wizards hat who works for the Consortium as a Castellan, that also adopted Sazen Bhamar. 
 
+Ranks for The Consortium's Members 
 
-Guild Square 
+Lord - The Formless ally who dares not reveal themselves, playing unknown games to unseen ends. 
+Commissar - The Innocuous Leader of the group. Beholden only to the Lord who is yet in the Dark. Captain - The Inner Circle, law maker, Juice Barron or political or familial ally to the Major. Castellan - The well connected, well invested, and very influential of the Consortium's finest. Leaders of inner circles, national spies and dangerous assassins. 
+Lieutenant - Capable of creating your own missions to send others on and/or yourself. Capable to enter the upper circle's clubs and galleries. 
+Ensign - Capable of only taking work from a handler, entrance to the different clubhouses.
+
+Due to its ability to find curios and rare materials around the world they make quite a lot of money. In addition to their "Original activities"
+
+## Guild Square 
 ### -The <span style="color:#00b050">Family</span> 
 	A mob-like organization that deals primarily in deals in shipping and transit in between The Wall. Securing a deal with them can be done but you must become a trusted venture before they are willing to help your cause. 
 	The Family lives in a walled in estate in the center of the Guild Square of Opportunity. 

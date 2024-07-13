@@ -24,3 +24,5 @@ Mavakos
 	*<span style="color:#c00000"> *Personality: A chaotic pragmatist who plays favorites, genuinely disgusted by playing it safe in any way. Greedy but only until she makes you upset.* </span>
 
 
+The Consortium 
+<span style="color:#ffff00">Edrin</span> - A blonde Aasimar who wears a silk robe and a wizards hat who works for the Consortium as a Castellan, that also adopted Sazen Bhamar. 
