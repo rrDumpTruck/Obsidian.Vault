@@ -16,7 +16,7 @@ The consortium maintains a legitimate business in Opportunity where they run a k
 	Holding a large number of businesses their servants and resources are uncounted. 
 
 Mavakos
-	The owner of the shop decided to hire him as one of his "underground" workers so to speak. And thus began Skreep's life of crime
+	The owner of the shop decided to hire him as one of his "underground" workers so to speak. And thus began Skreep's life of crime. 
 
 <span style="color:#c00000">Aorta</span>'s Workshop 
 	"Where did I leave my Aorta" or "<span style="color:#c00000">Aorta</span>" - A squelching mass of arms, the thing known as Aorta has a pinkish red hue allover its bodies various and numbered joints. Ligaments, arteries, fingers, mouths, tongues and the end and beginning of this creature is held in question. Eventually they seem to open the central cavity and a short cylindrical web of muscle fibers, tendons and nerve endings lead up to a globe of eyes. Some darting, some scanning, some staring... all manner of beast, fish, man and even some you don't recognize seem to look through you. 

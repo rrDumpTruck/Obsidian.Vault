@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes and Quick Reference.md",
+                "file": "Locations.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "C - Opportunity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "Locations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "Locations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L - Opportunity.md"
+                "file": "Locations.md"
               }
             }
           },
@@ -220,16 +220,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c48f9ca86dc62bee",
+  "active": "5ef6e6e0f2d951f0",
   "lastOpenFiles": [
-    "C - Opportunity.md",
+    "Session Notes and Quick Reference.md",
     "NPCs.md",
+    "Player Character Info.md",
+    "C - Opportunity.md",
     "L - Opportunity.md",
     "Locations.md",
-    "Session Notes and Quick Reference.md",
     "Ideas.md",
     "General Rules.md",
-    "Player Character Info.md",
     "Lore Rules.md",
     "Archive-Recap.md",
     "Time - Timelines and the Weather.md",
