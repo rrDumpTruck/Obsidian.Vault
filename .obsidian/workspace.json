@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Session Notes and Quick Reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Session Notes and Quick Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Session Notes and Quick Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Session Notes and Quick Reference.md"
               }
             }
           },
@@ -172,17 +172,17 @@
   },
   "active": "ce29a28e638fc8bd",
   "lastOpenFiles": [
+    "NPCs.md",
+    "TO DO.md",
+    "Session Notes and Quick Reference.md",
+    "Player Character Info.md",
+    "Home.md",
     "Lore Rules.md",
     "Ideas.md",
-    "Session Notes and Quick Reference.md",
     "Locations.md",
-    "NPCs.md",
     "L - Opportunity.md",
     "Starter Lore Handout.md",
-    "TO DO.md",
-    "Player Character Info.md",
     "C - Opportunity.md",
-    "Home.md",
     "Elysium's Equivocation.md",
     "Archive-Recap.md",
     "General Rules.md",

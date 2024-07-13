@@ -19,7 +19,7 @@ Verona:
 
 The Consortium's reason for surveying the land is somewhat of a trick. They are interested in the lands surrounding the fissure but know that something lingers here. But they don't want their contractor to find out because it will save them gold.
 
-When the Party goes to leave the city a large dragon flies overhead, 
+When the Party goes to leave the city a large dragon flies overhead, Re
 
 
 <span style="color:#ffc000">ENTER THE MAZE OF PEAKS</span>

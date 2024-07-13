@@ -97,7 +97,7 @@ Backstory: she used to be the wife of the Warden during their mortal life. Only
  **Saint Damius** (Saint of Conquest for greed) - Founder of Opportunity and now ruler of The Plateau. 
 
 <span style="color:#92d050">The Listener (Wastes) </span>
-	(Radigan) - forgotten knowledge, craving for knowledge, addiction, jealousy. Can turn into a scale-less dragon (like sith from dark souls).  
+	(Radigan) - forgotten knowledge, craving for knowledge, addiction, jealousy. Can turn into a scale-less dragon (like sith from dark souls) with red constantly dripping flesh. 
 
  **Saint Tynen** (Saint of Jealousy) - Ruler of the Ashen Wastes and leader of the Profligate City during its fall.  Lurks in his laboratory trying to decipher the Amulet of the Herald. 
 The Heir to the world as due to her lineage claim to be the daughter of the Watcher. 
