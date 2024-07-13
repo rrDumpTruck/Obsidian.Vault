@@ -50,7 +50,7 @@ The Narrows:
 
 <span style="color:#ffff00">Edrin</span> - A blonde Aasimar who wears a silk robe and a wizards hat who works for the Consortium as a Castellan, that also adopted Sazen Bhamar. 
 
-Velear
+Velyr - Captain of secret acquisitions department. 
 
 Ranks for The Consortium's Members 
 	Lord - The Formless ally who dares not reveal themselves, playing unknown games to unseen ends. 
