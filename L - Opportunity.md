@@ -65,14 +65,15 @@ Ranks for The Consortium's Members
 	A mob-like organization that deals primarily in deals in shipping and transit in between The Wall. Securing a deal with them can be done but you must become a trusted venture before they are willing to help your cause. 
 	The Family lives in a walled in estate in the center of the Guild Square of Opportunity. 
 *Currently has a debt with Illarya
-House <span style="color:#00b050">Julii</span> *(jool-ee-aye)*
-	Father Janus Julii 
-		Leader and helmsman of the guild and the family. 
-	Mother Dianne Julii
-		Head of acquisition for the whole guild. Deciding vote on family matters.
-	Daughter Iris Julii
+### House <span style="color:#00b050">Julii</span> *(jool-ee-aye)*
+Father Janus Julii 
+	Leader and helmsman of the guild and the family. 
+Mother Dianne Julii
+	Head of acquisition for the whole guild. Deciding vote on family matters.
+Daughter Iris Julii
 	
-	Son Leto Julii - contract to be killed by Aorta 250gp
+Son Leto Julii - contract to be killed by Aorta 250gp
+	Head of Research and notorious party boy. Commonly travels to different places to party. 
 
 ### -<span style="color:#00b050">The Fleshcrafter's Guild </span>
 <span style="color:#00b050">Aorta</span>'s Work Shop
