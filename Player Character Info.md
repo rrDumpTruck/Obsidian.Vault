@@ -56,7 +56,7 @@ QUESTS: XP values are Encounter Difficulty * 4 in XP value
 2. earn some extra cash outside the mission [S1] WT+1
 3. find out one weird thing from the other people [S1] WT+1
 
-Last Session: WT 1, WT 2, 
+Last Session: WT 1, WT 2, 3 Med (150) = 250xp 
 
 <span style="color:#ffc000">Illayra</span> @Nebuluousmatt (Level 1 Human, Artificer)
 1. I want to take my tavern back (Private) [S1] WT+1
