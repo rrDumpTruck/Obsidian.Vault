@@ -63,14 +63,14 @@ Last Session:
 2. I want to establish as a vein hunter [S2] 
 3. I want to dig up more info on The Family [S1] WT+1
 
-Last Session: WT 1, 
+Last Session: WT 1, 2 (75xp), WT 3 = 175xp (level up?)
 
 <span style="color:#ffc000">T. H. U. M. P. </span>(Level 1 Warforged, Monk)
 1. Harvest a fissure [S1] WT+1
 2. To become closer to the party members [S1] WT+1
 3. To protect someone from someone/something else [S1] 
 
-Last Session: 
+Last Session: WT 1, 2 
 
 <span style="color:#ffc000">SKREEP</span> (Level 1 Kobold, Draconic Sorcerer)
 1. Join a party of adventurers [S1]
