@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C - Opportunity.md",
+                "file": "NPCs.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C - Opportunity.md",
+                "file": "NPCs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C - Opportunity.md",
+                "file": "NPCs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C - Opportunity.md"
+                "file": "NPCs.md"
               }
             }
           },
@@ -222,6 +222,7 @@
   },
   "active": "5ef6e6e0f2d951f0",
   "lastOpenFiles": [
+    "C - Opportunity.md",
     "Session Notes and Quick Reference.md",
     "NPCs.md",
     "Starter Lore Handout.md",
@@ -231,7 +232,6 @@
     "The Veins Session 0 Handout .md",
     "Lore Rules.md",
     "Ideas.md",
-    "C - Opportunity.md",
     "General Rules.md",
     "Archive-Recap.md",
     "Time - Timelines and the Weather.md",
