@@ -40,3 +40,5 @@ be at the crimson covert by the night of the full moon (A few days away).
 
 Tempest: God of storms and sudden weather
 Raijin: God of lightning and thunder. 
+
+Took a jar of sap from the tree in the crimson covert 
