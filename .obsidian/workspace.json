@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a135e35c9306e986",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DO.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DO.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DO.md"
+                "file": "Home.md"
               }
             }
           },
@@ -185,6 +173,7 @@
   },
   "active": "5ef6e6e0f2d951f0",
   "lastOpenFiles": [
+    "TO DO.md",
     "Home.md",
     "NPCs.md",
     "C - Opportunity.md",
@@ -199,7 +188,6 @@
     "General Rules.md",
     "Archive-Recap.md",
     "Time - Timelines and the Weather.md",
-    "TO DO.md",
     "Elysium's Equivocation.md",
     "Untitled.md",
     "Active Projects/(Current Project) Bladerunner (1982)/Project Notes.md",
