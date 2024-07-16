@@ -30,6 +30,8 @@ NPC's
 Tempest: God of storms and sudden weather
 Raijin: God of lightning and thunder. 
 
+Taleous Vermillion: Crimson covert 
+
 At the Mysteria Academy
 Groundskeeper Cloverine - Tends to the land and gardens of the school. Special contact of mine. 
 
