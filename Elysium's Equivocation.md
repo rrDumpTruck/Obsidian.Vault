@@ -48,5 +48,6 @@ Session 6
 	(2x leunoveon silver, 3 leuno. copper)
 4 bones
 2 keys
+Saved by a god in the crimson covert. 
 
 Took a jar of sap from the tree in the crimson covert 
