@@ -42,6 +42,11 @@ Session 5: Field trip to Crimson Forest
 Given whistle that summons teacher
 be at the crimson covert by the night of the full moon (A few days away). 
 
-
+Session 6
+3 broaches
+12 coins of random currencies 
+	(2x leunoveon silver, 3 leuno. copper)
+4 bones
+2 keys
 
 Took a jar of sap from the tree in the crimson covert 
