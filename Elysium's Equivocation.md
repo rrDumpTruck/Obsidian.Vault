@@ -46,6 +46,7 @@ be at the crimson covert by the night of the full moon (A few days away).
 
 Session 6
 3 broaches
+	(gold with ruby, silver with aquamarine/emerald+)
 12 coins of random currencies 
 	(2x leunoveon silver, 3 leuno. copper)
 4 bones
