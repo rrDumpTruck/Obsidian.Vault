@@ -6,6 +6,9 @@ Goals:
 2. Make a good drawing of a creature I find on my field trip.
 3. Find out a secret about someone in the party. 
 
+Quest: 
+Gather jar of sap and 5 stingers back to the academy and deliver to blue cat.
+
 Completed Goals: 
 - Learn more about Mick's past group. 
 - Determine what my discovery will be (from background).
@@ -23,22 +26,22 @@ Follower of Minerva, Goddess of wisdom and crafts.
 
 4. Chael Hemlock - Plague doctor cleric with a cane and unnatural way of moving. All skin covered by fabric. 
 
+NPC's
+Tempest: God of storms and sudden weather
+Raijin: God of lightning and thunder. 
 
 At the Mysteria Academy
 Groundskeeper Cloverine - Tends to the land and gardens of the school. Special contact of mine. 
 
-Session notes: 
-Increase in security at the academy with "the military". 
+Session notes: 4
+	Increase in security at the academy with "the military". 
+	Belly Coast Dorms - Dorm at school. 
+	Gained supplier for illicit substances in city outside of school. 
 
-Belly Coast Dorms - Dorm at school. 
-
-Gained supplier for illicit substances in city outside of school. 
-
-Field trip to Crimson Forest
+Session 5: Field trip to Crimson Forest
 Given whistle that summons teacher
 be at the crimson covert by the night of the full moon (A few days away). 
 
-Tempest: God of storms and sudden weather
-Raijin: God of lightning and thunder. 
+
 
 Took a jar of sap from the tree in the crimson covert 
