@@ -2,12 +2,13 @@
 sticker: emoji//1f60b
 ---
 Goals: 
-1. Save the life of one of my new friends 
-2. Make a good drawing of a creature I find on my field trip.
-3. Find out a secret about someone in the party. 
+1. Save the life of one of my new friends [s5]
+2. Make a good drawing of a creature I find on my field trip. complete 150
+3. Find out a secret about someone in the party. [s6]
 
 Quest: 
 Gather jar of sap and 5 stingers back to the academy and deliver to blue cat.
+200xp for quest
 
 Completed Goals: 
 - Learn more about Mick's past group. 
@@ -30,10 +31,12 @@ NPC's
 Tempest: God of storms and sudden weather
 Raijin: God of lightning and thunder. 
 
-Taleous Vermillion: Crimson covert owlin
+Taleous Vermillion: Crimson covert Owlin
+
 
 At the Mysteria Academy
 Groundskeeper Cloverine - Tends to the land and gardens of the school. Special contact of mine. 
+Headmaster Schrodinger
 
 Session notes: 4
 	Increase in security at the academy with "the military". 
@@ -52,5 +55,7 @@ Session 6
 4 bones
 2 keys
 Saved by a god in the crimson covert. 
+
+
 
 Took a jar of sap from the tree in the crimson covert 
