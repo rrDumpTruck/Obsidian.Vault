@@ -45,6 +45,8 @@ Damocan's Grounds:
 Storming Ridge: 
 
 The Narrows: 
+Velyr - (Sazen's friend from the Consortium) has a safehouse here that can be used if a DC14 persuasion check can be passed. (12 if done by Sazen).
+
 
 ### <span style="color:#00b050">-The Consortium</span>
 

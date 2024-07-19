@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "Archive-Recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "Archive-Recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L - Opportunity.md"
+                "file": "Archive-Recap.md"
               }
             }
           },
@@ -195,8 +196,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc7de9b787ebec59",
+  "active": "5ef6e6e0f2d951f0",
   "lastOpenFiles": [
+    "L - Opportunity.md",
     "NPCs.md",
     "Session Notes and Quick Reference.md",
     "Archive-Recap.md",
@@ -208,7 +210,6 @@
     "Elysium's Equivocation.md",
     "C - Opportunity.md",
     "Starter Lore Handout.md",
-    "L - Opportunity.md",
     "Locations.md",
     "Ideas.md",
     "General Rules.md",
