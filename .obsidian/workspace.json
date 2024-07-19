@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "bc7de9b787ebec59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes and Quick Reference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "510affb478e717ae",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive-Recap.md",
+                "file": "Session Notes and Quick Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive-Recap.md",
+                "file": "Session Notes and Quick Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive-Recap.md"
+                "file": "Session Notes and Quick Reference.md"
               }
             }
           },
@@ -183,11 +196,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ef6e6e0f2d951f0",
+  "active": "bc7de9b787ebec59",
   "lastOpenFiles": [
+    "Archive-Recap.md",
     "NPCs.md",
     "Lore Rules.md",
-    "Archive-Recap.md",
     "Player Character Info.md",
     "TO DO.md",
     "Home.md",
