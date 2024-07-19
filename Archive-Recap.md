@@ -8,10 +8,19 @@ To start off the session we are greeted with a flashback of Sazen underground al
 Resuming from last session we come back to Aorta's Workshop, with Skreep being sniffed by Druzil. 
 Aorta tells them to seek a person at The Pathfinder's guild and gives them a silver metallic cylinder. Inside are a Vial of high purity Juice and a Certification of Contract from Opportunity. 
 
+
 [Quest]Come up with a Vein Hunter Group name. (200) complete
 
 Sazen: find out one weird thing from the other people [S1] WT+1 Complete S2
+Last Session: WT 1, WT 2, 3 Med (150) = 250xp 
 
+Illarya: 
+Last Session: WT 1, 2 (75xp), WT 3 = 175xp (level up 2)
+
+Thump: 
+Last Session: WT 1, 2 (150), WT 3 = 250 (Level up 2)
+
+Skreep: NO SHOW NO XP 
 
 ---
 

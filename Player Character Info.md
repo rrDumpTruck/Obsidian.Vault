@@ -63,7 +63,7 @@ Last Session: WT 1, WT 2, 3 Med (150) = 250xp
 2. I want to establish as a vein hunter [S2] 
 3. I want to dig up more info on The Family [S1] WT+1
 
-Last Session: WT 1, 2 (75xp), WT 3 = 175xp (level up?)
+Last Session: WT 1, 2 (75xp), WT 3 = 175xp (level up 2)
 
 <span style="color:#ffc000">T. H. U. M. P. </span>(Level 1 Warforged, Monk)
 1. Harvest a fissure [S1] WT+1
