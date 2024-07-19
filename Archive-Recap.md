@@ -4,7 +4,7 @@ sticker: emoji//1f4d3
 Session 3 (7/20/24)
 
 *(Recap from session 2)* 
-
+To start off the session we are greeted with a flashback of the 
 
 [Quest]Come up with a Vein Hunter Group name. (200) complete
 
