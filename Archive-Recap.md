@@ -4,7 +4,8 @@ sticker: emoji//1f4d3
 Session 3 (7/20/24)
 
 *(Recap from session 2)* 
-To start off the session we are greeted with a flashback of Sazen underground along with three other figures. Eventually the figures are assaulted by a burgeoning a
+To start off the session we are greeted with a flashback of Sazen underground along with three other figures. Eventually the figures are assaulted by a burgeoning artery from the sewer system liked to the area they stood.
+
 
 [Quest]Come up with a Vein Hunter Group name. (200) complete
 
