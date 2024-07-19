@@ -5,6 +5,7 @@ Session 3 (7/20/24)
 
 *(Recap from session 2)* 
 To start off the session we are greeted with a flashback of Sazen underground along with three other figures. Eventually the figures are assaulted by a burgeoning artery from the sewer system liked to the area they stood.
+Resuming from last session we come back to Aorta's Workshop, with Skreep being sniffed by Druzil. 
 
 
 [Quest]Come up with a Vein Hunter Group name. (200) complete
