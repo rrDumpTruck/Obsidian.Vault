@@ -9,16 +9,20 @@ Resuming from last session we come back to Aorta's Workshop, with Skreep being s
 Aorta tells them to seek a person at The Pathfinder's guild and gives them a silver metallic cylinder. Inside are a Vial of high purity Juice and a Certification of Contract from Opportunity. 
 
 
+
 [Quest]Come up with a Vein Hunter Group name. (200) complete
 
-Sazen: find out one weird thing from the other people [S1] WT+1 Complete S2
+Sazen: 
 Last Session: WT 1, WT 2, 3 Med (150) = 250xp 
+find out one weird thing from the other people [S1] WT+1 Complete S2
 
 Illarya: 
 Last Session: WT 1, 2 (75xp), WT 3 = 175xp (level up 2)
+I want to establish as a vein hunter [S2] Complete S2
 
 Thump: 
 Last Session: WT 1, 2 (150), WT 3 = 250 (Level up 2)
+To become closer to the party members [S1] WT+1 S2 complete
 
 Skreep: NO SHOW NO XP 
 
@@ -35,6 +39,9 @@ On the way into the city it is evident this is no safe or normal place to be, so
 Led by Argus the party makes their way into the Fleshcrafter's guild in Opportunities Guild Square. 
 Leaving them at the door Argus makes sure none of the party members are bleeding. 
 The Party meets Aorta for the first time... A pleasure I'm sure.
+
+Skreep: 
+Ask around if anyone has heard of the name Verona (Private) [S1 Complete] 
 
 
 ---
