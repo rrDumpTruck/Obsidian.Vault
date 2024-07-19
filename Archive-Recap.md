@@ -6,6 +6,11 @@ Session 3 (7/20/24)
 *(Recap from session 2)* 
 
 
+[Quest]Come up with a Vein Hunter Group name. (200) complete
+
+Sazen: find out one weird thing from the other people [S1] WT+1 Complete S2
+
+
 ---
 
 

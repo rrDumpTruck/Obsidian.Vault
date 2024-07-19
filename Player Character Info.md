@@ -47,14 +47,14 @@ QUESTS: XP values are Encounter Difficulty * 4 in XP value
 [Encounter Calculator](https://www.dndbeyond.com/sources/basic-rules/building-combat-encounters#CombatEncounterDifficulty)
 
 <span style="color:#00b0f0">Quests</span>
-1. Come up with a Vein Hunter Group name. (200)
+1. 
 2. 
 
 <span style="color:#00b0f0">Goals</span>
 <span style="color:#ffc000">(Sazen Bhamar)</span> @Badmeis (Level 1 Human, Sorcerer)
 1. harvest a newly formed local fissure [S1] WT+1
 2. earn some extra cash outside the mission [S1] WT+1
-3. find out one weird thing from the other people [S1] WT+1
+3. 
 
 Last Session: WT 1, WT 2, 3 Med (150) = 250xp 
 
