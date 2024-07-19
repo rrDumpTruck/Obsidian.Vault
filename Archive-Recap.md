@@ -9,7 +9,8 @@ Resuming from last session we come back to Aorta's Workshop, with Skreep being s
 Aorta tells them to seek a person at The Pathfinder's guild and gives them a silver metallic cylinder. Inside are a Vial of high purity Juice and a Certification of Contract from Opportunity. 
 The Party travels the guild square, heading for The Pathfinders guild. 
 We meet our first Harvestman just before arriving at the guild.
-Upon arrival at the registration center, the party takes a little too long to realize Velyr the person sent to meet them represe
+Upon arrival at the registration center, the party takes a little too long to realize Velyr the person sent to meet them representing the Consortium. 
+The party gets some slow service but eventually meets with the clerk for the Consortium's Registrar and 
 
 
 [Quest]Come up with a Vein Hunter Group name. (200) complete
