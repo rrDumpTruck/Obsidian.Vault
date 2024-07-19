@@ -11,6 +11,7 @@ The Party travels the guild square, heading for The Pathfinders guild.
 We meet our first Harvestman just before arriving at the guild.
 Upon arrival at the registration center, the party takes a little too long to realize Velyr the person sent to meet them representing the Consortium. 
 The party gets some slow service but eventually meets with the clerk for the Consortium's Registrar and get registered to become Prospectors by the Authority of the Consortium. 
+As we make our way back 
 
 
 
