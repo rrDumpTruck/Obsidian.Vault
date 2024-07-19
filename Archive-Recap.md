@@ -7,7 +7,7 @@ Session 3 (7/20/24)
 To start off the session we are greeted with a flashback of Sazen underground along with three other figures. Eventually the figures are assaulted by a burgeoning artery from the sewer system liked to the area they stood.
 Resuming from last session we come back to Aorta's Workshop, with Skreep being sniffed by Druzil. 
 Aorta tells them to seek a person at The Pathfinder's guild and gives them a silver metallic cylinder. Inside are a Vial of high purity Juice and a Certification of Contract from Opportunity. 
-
+The Party travels the guild square, heading for The Pathfinders guild they are stopped by a harvestman. 
 
 
 [Quest]Come up with a Vein Hunter Group name. (200) complete
