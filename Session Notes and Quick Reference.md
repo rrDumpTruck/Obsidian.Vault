@@ -34,17 +34,22 @@ As they approach the tower they see a large hole headed deeper into the earth, w
 
 ---
 <span style="color:#ffff00">Session Reminders: </span>
-"Do remember to register to hunt." ~ Aorta after giving the party their mission. 
+Take notes on when party departs and arrives back in the city for faction clock reasons.
+Leaves: 
+Returned: 
+
 
 
 ---
 <span style="color:#00b0f0">Layout for next session: </span>
-1. Allow adventure near <span style="color:#ff0000">Aortas Workshop</span> or wherever they choose to wander. 
-2. Arrive at opportunity where they hear the town criers say at each crossroads in the city " The Fool Throwing Festival in Damius' Forum" 
-3. Party can choose to stay at an inn in any various district of the city, the Halessian institute student housing, or choose to move out immediately. 
-4. The party must register with the Pathfinder's Guild in Opportunity before being able to undertake any jobs for Vein Hunting or Prospecting. 
-5. Remind players to check out shops, guilds, churches, libraries or to visit old friends before departing the city. 
-6. Destination (Vein Hunter Mission) lies behind a region called The Obsidian Peak to the north of Opportunity 
+
+1. Party leaves opportunity? otherwise likely an assassination mission is happening.
+2. Destination (Vein Hunter Mission) lies behind a region called The Obsidian Peak to the north of Opportunity
+3.  
+
+
+
+
 ---
 <span style="color:#ffc000">Ranks</span> for The Consortium's Members and most others in the setting if they use a ranking system.
 Lord - The Formless ally who dares not reveal themselves, playing unknown games to unseen ends. 
