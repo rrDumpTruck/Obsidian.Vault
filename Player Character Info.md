@@ -53,6 +53,9 @@ QUESTS: XP values are Encounter Difficulty * 4 in XP value
 1. 
 2. 
 
+Son Leto Julii - <span style="color:#c00000">contract to be killed by Aorta 250gp</span>
+Mother Dianne Julii - <span style="color:#c00000">contract to be killed by Aorta for an undetermined amount of gold</span>
+
 <span style="color:#00b0f0">Goals</span>
 <span style="color:#ffc000">(Sazen Bhamar)</span> @Badmeis (Level 1 Human, Sorcerer)
 1. harvest a newly formed local fissure [S1] WT+1

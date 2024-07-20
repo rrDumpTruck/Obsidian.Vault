@@ -13,15 +13,7 @@ Juice Bar:
 	Verona - blue skinned blonde hair tiefling. Runs a rundown juice bar in the streets of sapphire. On a backstreet. 
 		Bob - Extra servant 
 
-Gave everyone a vial of juice worth 50gp in session 2
 
-Velyr - Captain of secret acquisitions department at the Consortium
-
-
-
-Son Leto Julii - <span style="color:#c00000">contract to be killed by Aorta 250gp</span>
-
-Mother Dianne Julii - <span style="color:#c00000">contract to be killed by Aorta for an undetermined amount of gold</span>
 <span style="color:#7030a0">Intro for Session 2</span>
 	All you see is darkness at first... then slowly fading in from black a viscerally bright cyan light followed by a cacophony of rumbling, shattering and cracking of land being pushed aside hastily followed by chords of interwoven blue Veins piling through the newly made cavern. 
 	Stone by stone the Artery shoots through the cavern and eventually comes to an abrupt halt. 
