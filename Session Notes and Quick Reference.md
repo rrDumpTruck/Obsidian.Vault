@@ -38,7 +38,7 @@ As they approach the tower they see a large hole headed deeper into the earth, w
 ---
 <span style="color:#ffff00">Session Reminders: </span>
 Take notes on when party departs and arrives back in the city for faction clock reasons.
-Leaves: 
+Left: 
 Returned: 
 
 
@@ -50,22 +50,20 @@ Returned:
 2. Destination (Vein Hunter Mission) lies behind a region called The Obsidian Peak to the north of Opportunity
 3.  
 
-
-
-
 ---
-<span style="color:#ffc000">Ranks</span> for The Consortium's Members and most others in the setting if they use a ranking system.
-Lord - The Formless ally who dares not reveal themselves, playing unknown games to unseen ends. 
-Commissar - The Innocuous Leader of the group. Beholden only to the Lord who is yet in the Dark. 
-Captain - The Inner Circle, law maker, Juice Barron or political or familial ally to the Major. 
-Castellan - The well connected, well invested, and very influential of the Consortium's finest. Leaders of inner circles, national spies and dangerous assassins. 
-Lieutenant - Capable of creating your own missions to send others on and/or yourself. Capable to enter the upper circle's clubs and galleries. 
-Ensign - Capable of only taking work from a handler, entrance to the different clubhouses. 
+<span style="color:#7030a0">Ranks</span>
+	for The Consortium's Members and most others in the setting if they use a ranking system.
+	-Lord - The Formless ally who dares not reveal themselves, playing unknown games to unseen ends. 
+	-Commissar - The Innocuous Leader of the group. Beholden only to the Lord who is yet in the Dark. 
+	-Captain - The Inner Circle, law maker, Juice Barron or political or familial ally to the Major. 
+	-Castellan - The well connected, well invested, and very influential of the Consortium's finest. -Leaders of inner circles, national spies and dangerous assassins. 
+	-Lieutenant - Capable of creating your own missions to send others on and/or yourself. -Capable to enter the upper circle's clubs and galleries. 
+	-Ensign - Capable of only taking work from a handler, entrance to the different clubhouses. 
 
 <span style="color:#00b0f0">The Magicians Tower</span>
 	A small tower like building only about 4 stories tall with a brick foundation. With a location very near to the center of the <span style="color:#00b0f0">Street of Sapphire</span> it's believed to be one of the oldest hospitality businesses in the city. The inside has two levels of seating and is largely made up of large long tables with dozens of seats on each side. The upper levels of the tower are reserved for available rentable rooms and a private quarters in the attic.  
 	**Owners:** 
-	<span style="color:#00b050">Hector Scipio</span> - Posh English - A dashing red tiefling with a pleasing personality. His necklace looks very valuable 
+	<span style="color:#00b050">Hector Scipio</span> - Proper Spanish - A dashing red tiefling with a pleasing personality. His necklace looks very valuable 
 	Heidi Vashon - Vague Spanish - Pale matronly elf seems to be a past adventurer of some sort
 	Drek - Simple English - the Heart's bouncer and quartermaster. 
 	Violet - Peasant English - A normal looking human woman, the tavern's manager and main server. 
