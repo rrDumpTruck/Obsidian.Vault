@@ -25,7 +25,7 @@ Skreep's secret interaction with Druzil:
 	-Third Card: The Hermit: Representative of contemplative change of the inner self. Since its drawn in the third position it means that there is change to come in your future by direct result of your inner self changing.
 
 Assassination side quest: 
-Leto Julii is hosting a week long party at a safehouse near the 
+Leto Julii is hosting a week long party at a safehouse near Damocan's Grounds
 
 
 <span style="color:#c00000">SIDE: The Fool *(Inverse)*'s Carnival
