@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "613410b41f6d45ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Character Info.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b9f8121ae8f273bc",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2060e320eb380308",
@@ -130,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive-Recap.md",
+                "file": "Session Notes and Quick Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive-Recap.md",
+                "file": "Session Notes and Quick Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive-Recap.md"
+                "file": "Session Notes and Quick Reference.md"
               }
             }
           },
@@ -207,14 +220,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9bbc5d42db16977d",
+  "active": "5c14ed5c7c6a6e50",
   "lastOpenFiles": [
+    "Player Character Info.md",
     "Session Notes and Quick Reference.md",
     "Archive-Recap.md",
-    "L - Opportunity.md",
     "TO DO.md",
+    "L - Opportunity.md",
     "Home.md",
-    "Player Character Info.md",
     "NPCs.md",
     "The Veins Session 0 Handout .md",
     "Lore Rules.md",

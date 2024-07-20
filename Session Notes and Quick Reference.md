@@ -17,7 +17,7 @@ Gave everyone a vial of juice worth 50gp in session 2
 
 Velyr - Captain of secret acquisitions department at the Consortium
 
-"Cass"-idy - Thief who worked with Sazen Bhamar in the heist where he saw the Herald
+
 
 Son Leto Julii - <span style="color:#c00000">contract to be killed by Aorta 250gp</span>
 

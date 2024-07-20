@@ -10,6 +10,9 @@ Adopted by Edrin
 Witnessed the Herald 
 	On one of his jobs for a crime group called the Consortium, by which he was adopted when he was 13. When he witnessed the herald he lost his vision.
 
+<span style="color:#ffff00">"Cass"-idy - Thief who worked with Sazen Bhamar in the heist where he saw the Herald
+</span>
+
 ---
 <span style="color:#ff0000">Illayra</span> ||| @Nebulousmatt Foundry PW: (old)323456789 > f
 Human Artificer 
