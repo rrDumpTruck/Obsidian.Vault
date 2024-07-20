@@ -15,7 +15,7 @@ On our way back to Aorta's Workshop the party passes by the Page and the Fool tr
 Arriving back at the workshop Skreep is drawing tarot cards at the table when they arrive. 
 Aorta recognizes their new prospector's certification and tells them to seek their goal. 
 Thump approaches Druzil about his offer of "wetwork" and discovers that Skreep, Thump, Illayra and Druzil all speak Draconic. 
-Druzil says that The Fleshcrafter's are currently offering a contract on 
+Druzil says that The Fleshcrafter's are currently offering a contract on killing Dianne Julii for an indeterminate  and her son Leto Julii for a lesser amount of (250gp)
 
 
 
