@@ -14,6 +14,7 @@ The party gets some slow service but eventually meets with the clerk for the Con
 On our way back to Aorta's Workshop the party passes by the Page and the Fool traveling together in a palanquin in the streets of the guild square. Skreep senses their mind being toyed with and runs ahead of the group fleeing to the workshop. Illayra is compelled to skip along. 
 Arriving back at the workshop Skreep is drawing tarot cards at the table when they arrive. 
 Aorta recognizes their new prospector's certification and tells them to seek their goal. 
+Thump approaches Druzil about his offer of "wetwork" and discovers that Skreep, Thump, Illayra and Druzil all speak Draconic. 
 
 
 

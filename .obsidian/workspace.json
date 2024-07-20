@@ -54,6 +54,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c14ed5c7c6a6e50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes and Quick Reference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -209,12 +221,12 @@
   },
   "active": "27b9803133eff225",
   "lastOpenFiles": [
+    "Session Notes and Quick Reference.md",
+    "Player Character Info.md",
+    "Archive-Recap.md",
     "TO DO.md",
     "L - Opportunity.md",
-    "Archive-Recap.md",
-    "Player Character Info.md",
     "NPCs.md",
-    "Session Notes and Quick Reference.md",
     "The Veins Session 0 Handout .md",
     "Lore Rules.md",
     "Home.md",
