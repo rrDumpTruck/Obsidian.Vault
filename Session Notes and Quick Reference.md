@@ -23,6 +23,9 @@ Juice Bar:
 ###### When the Party goes to leave the city a large dragon flies overhead, 
 ###### Red and with a sheen like a pool of blood the dragon flies up to Kaom's Keep
 
+Howling Plateau Encounters: 
+1. 
+
 
 <span style="color:#ffc000">ENTER THE MAZE OF PEAKS</span>
 	"The Area" lies on the other side of a place the The Obsidian Peak. A series of spline-like mountains of obsidian and granite. It twists and winds while leaving hundreds of feet overhead of rock and sky. 
@@ -47,8 +50,9 @@ Returned:
 <span style="color:#00b0f0">Layout for next session: </span>
 
 1. Party leaves opportunity? otherwise likely an assassination mission is happening.
-2. Destination (Vein Hunter Mission) lies behind a region called The Obsidian Peak to the north of Opportunity
-3.  
+2. Possible participation in/spectating of the Fools carnival? If not now, when they get back
+3. Destination (Vein Hunter Mission) lies behind a region called The Obsidian Peak to the north of Opportunity
+4.  
 
 ---
 <span style="color:#7030a0">Ranks</span>
