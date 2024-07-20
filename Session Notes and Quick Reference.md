@@ -24,7 +24,8 @@ Juice Bar:
 ###### Red and with a sheen like a pool of blood the dragon flies up to Kaom's Keep
 
 Howling Plateau Encounters: 
-1. 
+1.Vein Spiders. 
+	Creatures lying in wait in larger streams of the juice in the wilds of the Howling Plateau. Their spindly legs make deadly weapons and their agility makes them appear to move like water.
 
 
 <span style="color:#ffc000">ENTER THE MAZE OF PEAKS</span>
