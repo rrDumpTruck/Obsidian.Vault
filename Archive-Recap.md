@@ -17,6 +17,7 @@ Aorta recognizes their new prospector's certification and tells them to seek the
 Thump approaches Druzil about his offer of "wetwork" and discovers that Skreep, Thump, Illayra and Druzil all speak Draconic. 
 Druzil says that The Fleshcrafter's are currently offering a contract on killing Dianne Julii for an indeterminate amount of gold and her son Leto Julii for a lesser amount of (250gp). 
 The gang stops at a friendly juice bar (insert name here), and meets Verona and her servant Bob. They sell their Juice for 55 gold and get some information on the city and its recent developments. 
+The session ends as 
 
 
 
