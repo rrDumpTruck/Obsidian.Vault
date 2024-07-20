@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Character Info.md",
+                "file": "Session Notes and Quick Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Character Info.md",
+                "file": "Session Notes and Quick Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Character Info.md"
+                "file": "Session Notes and Quick Reference.md"
               }
             }
           },
@@ -232,10 +232,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "613410b41f6d45ab",
+  "active": "5c14ed5c7c6a6e50",
   "lastOpenFiles": [
-    "Session Notes and Quick Reference.md",
     "Archive-Recap.md",
+    "Session Notes and Quick Reference.md",
     "C - Opportunity.md",
     "Player Character Info.md",
     "TO DO.md",

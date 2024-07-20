@@ -14,20 +14,12 @@ Juice Bar:
 		Bob - Extra servant 
 
 
-<span style="color:#7030a0">Intro for Session 2</span>
-	All you see is darkness at first... then slowly fading in from black a viscerally bright cyan light followed by a cacophony of rumbling, shattering and cracking of land being pushed aside hastily followed by chords of interwoven blue Veins piling through the newly made cavern. 
-	Stone by stone the Artery shoots through the cavern and eventually comes to an abrupt halt. 
-	Stopping in its tracks right in front of a group of four hooded figures walking through an underground portion of a vault of some kind. 
 
-
-
-<span style="color:#ff0000">Argus</span> (Lieutenant of the Fleshcrafter's)
-	A non-descript man usually seen in a plague mask while doing business for the Fleshcrafter's Guild. His voice sounds like Lord Davos (From Game of Thrones). He cares about the people who he is deemed in charge of, often too much. 
-	He owns a high quality town home in The Narrows and has a house Homunculus named Gregory. 
 
 <span style="color:#ff0000">MAIN QUEST</span>: <span style="color:#c00000">Aorta</span> is negotiating a deal between the party and an anonymous buyer (The Consortium.  
  
-<span style="color:#00b050">The Consortium</span> are looking for a new location to invest their hard earned wealth in. For some reason the location that they have in mind is an decrepit castle to the far north of Opportunity off in an area lost inside the maze of The Obsidian Peak. ***They have the blueprints for a the same weapon that the Stygian Forest used on Elysia.  
+<span style="color:#00b050">The Consortium</span> 
+	are looking for a new location to invest their hard earned wealth in. For some reason the location that they have in mind is an decrepit castle to the far north of Opportunity off in an area lost inside the maze of The Obsidian Peak. ***They have the blueprints for a the same weapon that the Stygian Forest used on Elysia.  
 
 The Consortium's reason for surveying the land is somewhat of a trick. They are interested in the lands surrounding the fissure but know that something lingers here. But they don't want their contractor to find out because it will save them gold.
 

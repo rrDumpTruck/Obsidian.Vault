@@ -37,6 +37,14 @@ To become closer to the party members [S1] WT+1 S2 complete
 
 Skreep: NO SHOW NO XP 
 
+<span style="color:#7030a0">Intro for Session 2</span>
+	All you see is darkness at first... then slowly fading in from black a viscerally bright cyan light followed by a cacophony of rumbling, shattering and cracking of land being pushed aside hastily followed by chords of interwoven blue Veins piling through the newly made cavern. 
+	Stone by stone the Artery shoots through the cavern and eventually comes to an abrupt halt. 
+	Stopping in its tracks right in front of a group of four hooded figures walking through an underground portion of a vault of some kind. 
+
+
+
+
 ---
 
 
