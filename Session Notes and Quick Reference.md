@@ -26,7 +26,7 @@ Juice Bar:
 Howling Plateau Encounters: 
 1.Vein Spiders. 
 	Creatures lying in wait in larger streams of the juice in the wilds of the Howling Plateau. Their spindly legs make deadly weapons and their agility makes them appear to move like water.
-
+2.Random group of bandits that will negotiate (DC14 Persuasion Check) but must be bribed or intimidated to be bypassed. Use 3xBandit and 
 
 <span style="color:#ffc000">ENTER THE MAZE OF PEAKS</span>
 	"The Area" lies on the other side of a place the The Obsidian Peak. A series of spline-like mountains of obsidian and granite. It twists and winds while leaving hundreds of feet overhead of rock and sky. 
