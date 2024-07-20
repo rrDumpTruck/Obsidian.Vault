@@ -14,7 +14,9 @@ Juice Bar: Paradise Gate
 	"Look at him run from our power... how times have changed."
 
 Skreep's secret interaction with Druzil: 
-	When Skreep arrives at the 
+	-When Skreep arrives at Aorta's workshop, he meets Druzil who seems to be writing in a ledger at a desk in the back corner of the room. 
+	-Druzil asks when the last time Skreep had their fortune read. (Offers to do a reading)
+	-
 
 <span style="color:#c00000">SIDE: The Fool *(Inverse)*'s Carnival
 </span>	The fool is holding a carnival starting in The Narrow's and leading all the way up to Damocan's Grounds for the main event. The parade has many stops along the way up to the grounds. Pausing at the fighting pits for a scheduled 3 rounds of fighting. 
