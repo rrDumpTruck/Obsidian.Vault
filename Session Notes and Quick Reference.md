@@ -6,10 +6,13 @@ Juice Bar:
 	Verona - blue skinned blonde hair tiefling. Runs a rundown juice bar in the streets of sapphire. On a backstreet. 
 		Bob - Extra servant 
 
-The Fool *(Inverse)*'s Carnival
-	The fool is holding a carnival starting in The Narrow's and leading all the way up to Damocan's Grounds for the main event. The parade has many stops along the way up to the grounds. Pausing at the fighting pits for a scheduled 3 rounds of fighting. 
+<span style="color:#c00000">The Fool *(Inverse)*'s Carnival
+</span>	The fool is holding a carnival starting in The Narrow's and leading all the way up to Damocan's Grounds for the main event. The parade has many stops along the way up to the grounds. Pausing at the fighting pits for a scheduled 3 rounds of fighting. 
 	1. The Grand Melee
-	2. 
+	2. A Royal Joust
+	3. A Tourney style list with the top 10 contenders from the beginning Melee. Winning the Joust gives you a +2 bonus to all rolls during the event. 
+	-During the event the Court stays mostly together, separating between and after the events but staying close together during them. 
+
 
 
 <span style="color:#ff0000">MAIN QUEST</span>: <span style="color:#c00000">Aorta</span> is negotiating a deal between the party and an anonymous buyer (The Consortium.  
