@@ -6,11 +6,12 @@ Juice Bar: Paradise Gate
 	Verona - blue skinned blonde hair tiefling. Runs a rundown juice bar in the streets of sapphire. On a backstreet. 
 		Bob - Extra servant 
 
-The Session starts with a view of the streets of the guild square from the padded white seat of a palanquin. 
-"(laughs) Look that one's skipping"
-"Oh do be nice to them, competition is good for business..."
-"I swear I recognized the Kobold from somewhere."
-""
+<span style="color:#7030a0">The Session starts with a view of the streets of the guild square from the padded white seat of a palanquin. </span>
+	"(laughs) Look that one's skipping"
+	"Oh do be nice to them, competition is good for business..."
+	"I swear I recognized the Kobold from somewhere."
+	"I shall have my birds look into them, can't have unknowns at a time like this."
+	"Look at him run from our power... how times have changed."
 
 Skreep's secret interaction with Druzil: 
 	When Skreep arrives at the 
