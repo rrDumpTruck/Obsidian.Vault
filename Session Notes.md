@@ -7,6 +7,9 @@ Juice Bar: Paradise Gate
 		Bob - Extra servant 
 
 The Session starts with a view of the streets of the guild square from the padded white seat of a palanquin. 
+"(laughs) Look that one's skipping"
+"Oh do be nice to them, competition is good for business..."
+"I swear I recognized the"
 
 Skreep's secret interaction with Druzil: 
 	When Skreep arrives at the 
