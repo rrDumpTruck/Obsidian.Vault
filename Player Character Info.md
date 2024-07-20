@@ -17,7 +17,7 @@ Witnessed the Herald
 <span style="color:#ff0000">Illayra</span> ||| @Nebulousmatt Foundry PW: (old)323456789 > f
 Human Artificer 
 <span style="color:#7030a0">Chaotic Neutral</span>
-<span style="color:#ffc000">Owner of "The Golden Flagon" </span>
+<span style="color:#ffc000">Owner of "Sinner's Rest" </span>
 	In the Guild Square near the central intersection where their estate lies. It Used to have seedy visitors. 
 	After a run in with "The Family" she now owes a debt, and they foreclosed on The Golden Flagon. 
 
