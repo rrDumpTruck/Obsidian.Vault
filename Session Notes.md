@@ -24,6 +24,10 @@ Skreep's secret interaction with Druzil:
 	-Second Card: The Fool Inverse: Representative of recklessness, in its current place its saying that your present actions are reckless and without thought. 
 	-Third Card: The Hermit: Representative of contemplative change of the inner self. Since its drawn in the third position it means that there is change to come in your future by direct result of your inner self changing.
 
+Assassination side quest: 
+
+
+
 <span style="color:#c00000">SIDE: The Fool *(Inverse)*'s Carnival
 </span>	The fool is holding a carnival starting in The Narrow's and leading all the way up to Damocan's Grounds for the main event. The parade has many stops along the way up to the grounds. Pausing at the fighting pits for a scheduled 3 rounds of fighting. 
 	1. The Grand Melee
