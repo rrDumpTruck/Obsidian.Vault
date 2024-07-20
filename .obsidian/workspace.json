@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Character Info.md",
+                "file": "Session Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Character Info.md",
+                "file": "Session Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Character Info.md",
+                "file": "Session Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Character Info.md"
+                "file": "Session Notes.md"
               }
             }
           },
@@ -222,8 +222,8 @@
   },
   "active": "e26b8df8a07a4105",
   "lastOpenFiles": [
-    "Session Notes.md",
     "Player Character Info.md",
+    "Session Notes.md",
     "To Do.md",
     "TO DO/TO DO.md",
     "Channel Planning.md",
