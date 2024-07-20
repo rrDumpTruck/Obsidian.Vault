@@ -17,9 +17,9 @@ Skreep's secret interaction with Druzil:
 	-When Skreep arrives at Aorta's workshop, he meets Druzil who seems to be writing in a ledger at a desk in the back corner of the room. 
 	-Druzil asks when the last time Skreep had their fortune read. (Offers to do a reading)
 	Druzil sits down to do the reading, shuffles an ornate looking deck of cards and reverses half the deck. He lays out three cards face down, the one in the middle already facing upwards. 
-	-First Card: 
-	-Second Card: The Fool Inverse: Representative of recklessness, 
-	-Third Card: 
+	-First Card: The Tower: Represents sudden upheaval and disaster... since it is in the first position it indicates your past. 
+	-Second Card: The Fool Inverse: Representative of recklessness, in its current place its saying that your present actions are reckless and without thought. 
+	-Third Card: The Hermit: Representative of contemplative change of the inner self. Since its drawn in the third position it means that there is change to come in your future by direct result of your inner self changing.
 
 <span style="color:#c00000">SIDE: The Fool *(Inverse)*'s Carnival
 </span>	The fool is holding a carnival starting in The Narrow's and leading all the way up to Damocan's Grounds for the main event. The parade has many stops along the way up to the grounds. Pausing at the fighting pits for a scheduled 3 rounds of fighting. 
