@@ -1,3 +1,6 @@
+---
+sticker: emoji//2705
+---
 1. Develop faction turn / clock
 2. Come up with intro sequence showing skreep's interaction involving tarot cards in aorta's workshop. 
 3. Create assassination's mission for the family (in case they intend to cause problems).

@@ -63,7 +63,8 @@
     null,
     "Obsidian.Vault",
     null,
-    "D&D"
+    "D&D",
+    "You-Tube"
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -96,7 +97,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1721496919543,
+  "spacesAutoBackupLast": 1721497159336,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

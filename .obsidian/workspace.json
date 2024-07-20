@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac8e0a7702262de7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes.md",
+                "file": "To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes.md",
+                "file": "To Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes.md"
+                "file": "To Do.md"
               }
             }
           },
@@ -171,14 +184,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e26b8df8a07a4105",
+  "active": "ac8e0a7702262de7",
   "lastOpenFiles": [
-    "Archive-Recap.md",
+    "TO DO/TO DO.md",
+    "To Do.md",
+    "Player Character Info.md",
+    "Channel Planning.md",
+    "TO DO",
     "Session Notes.md",
+    "Archive-Recap.md",
     "Context/School.mdb",
     "Starter Lore Handout.md",
-    "Player Character Info.md",
-    "TO DO.md",
     "Home.md",
     "Factions.md",
     "Session Notes and Quick Reference/Session Notes and Quick Reference.md",
@@ -199,8 +215,6 @@
     "Rules of the Setting.md",
     "Fragmented.md",
     "Channel Ideas.md",
-    "Active Projects/(Current Project) Bladerunner (1982)/Video Script.md",
-    "Active Projects/(Current Project) Bladerunner (1982)/Plot Summary.md",
     "School Planning 1",
     "Active Projects/Bladerunner (1982)/Bladerunner(1982).jpg",
     "Active Projects/Bladerunner (1982)/obsidian-colored-text.zip",
@@ -208,7 +222,6 @@
     "context.mdb",
     "Untitled.loom",
     "Untitled 1.loom",
-    "Active Projects/Bladerunner (1982)/Bladerunner(1982).jpg.crdownload",
-    "Active Projects/(Current Project) Bladerunner (1982)"
+    "Active Projects/Bladerunner (1982)/Bladerunner(1982).jpg.crdownload"
   ]
 }
