@@ -11,9 +11,11 @@
             "id": "e26b8df8a07a4105",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "D&D//"
+                "file": "Archive-Recap.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -71,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Archive-Recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Archive-Recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Archive-Recap.md"
+              }
             }
           },
           {
@@ -167,6 +172,7 @@
   },
   "active": "e26b8df8a07a4105",
   "lastOpenFiles": [
+    "Context/School.mdb",
     "Starter Lore Handout.md",
     "Player Character Info.md",
     "TO DO.md",
