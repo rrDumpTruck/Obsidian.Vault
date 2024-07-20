@@ -3,7 +3,7 @@ sticker: emoji//1f6a9
 ---
 The Crackheads: 
 
-
+Darian Xycloss 
 
 Juice Bar: Paradise Gate
 	Verona - blue skinned blonde hair tiefling. Runs a rundown juice bar in the streets of sapphire. On a backstreet. 
