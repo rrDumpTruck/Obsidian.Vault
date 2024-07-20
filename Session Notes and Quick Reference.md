@@ -1,13 +1,6 @@
 ---
 sticker: emoji//1f6a9
 ---
-<span style="color:#ff0000">Charisma Save</span> for envelope: *Gauges how much/or little <span style="color:#ff0000">Aurora</span> will tolerate your presence *
-Skreep: 2 (1)
-Thump: 4
-Sazen: 10
-Illarya: 12
-
-Find out if Skreep converted her juice to "gold"
 
 Juice Bar: 
 	Verona - blue skinned blonde hair tiefling. Runs a rundown juice bar in the streets of sapphire. On a backstreet. 
@@ -19,12 +12,12 @@ Juice Bar:
 <span style="color:#ff0000">MAIN QUEST</span>: <span style="color:#c00000">Aorta</span> is negotiating a deal between the party and an anonymous buyer (The Consortium.  
  
 <span style="color:#00b050">The Consortium</span> 
-	are looking for a new location to invest their hard earned wealth in. For some reason the location that they have in mind is an decrepit castle to the far north of Opportunity off in an area lost inside the maze of The Obsidian Peak. ***They have the blueprints for a the same weapon that the Stygian Forest used on Elysia.  
+	Are looking for a new location to invest their hard earned wealth in. For some reason the location that they have in mind is an decrepit castle to the far north of Opportunity off in an area lost inside the maze of The Obsidian Peak. ***They have the blueprints for a the same weapon that the Stygian Forest used on Elysia.  
 
-The Consortium's reason for surveying the land is somewhat of a trick. They are interested in the lands surrounding the fissure but know that something lingers here. But they don't want their contractor to find out because it will save them gold.
+	The Consortium's reason for surveying the land is somewhat of a trick. They are interested in the lands surrounding the fissure but know that something lingers here. But they don't want their contractor to find out because it will save them gold.
 
-When the Party goes to leave the city a large dragon flies overhead, 
-Red and with a sheen like a pool of blood the dragon flies up to Kaom's Keep
+###### When the Party goes to leave the city a large dragon flies overhead, 
+###### Red and with a sheen like a pool of blood the dragon flies up to Kaom's Keep
 
 
 <span style="color:#ffc000">ENTER THE MAZE OF PEAKS</span>
