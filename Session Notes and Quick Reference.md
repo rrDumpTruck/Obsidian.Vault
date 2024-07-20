@@ -6,7 +6,8 @@ Juice Bar:
 	Verona - blue skinned blonde hair tiefling. Runs a rundown juice bar in the streets of sapphire. On a backstreet. 
 		Bob - Extra servant 
 
-
+The Fool *(Inverse)*'s Carnival
+	The fool is holding a carnival starting in The Narrow's and leading all the way up to Damocan's Grounds for the main event. The parade has many stops 
 
 
 <span style="color:#ff0000">MAIN QUEST</span>: <span style="color:#c00000">Aorta</span> is negotiating a deal between the party and an anonymous buyer (The Consortium.  
