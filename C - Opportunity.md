@@ -15,6 +15,15 @@ The consortium maintains a legitimate business in Opportunity where they run a k
 	The family is the term for the current controlling family of the cities collection of guilds, they hold the controlling vote in guild matters due to having an odd number of votes from The Court. 
 	Holding a large number of businesses their servants and resources are uncounted. 
 
+Father Janus Julii 
+	Leader and helmsman of the guild and the family. 
+Mother Dianne Julii - <span style="color:#c00000">contract to be killed by Aorta for an undetermined amount of gold</span>
+	Head of acquisition of new business for the whole guild. Deciding vote on family matters.
+Daughter Iris Julii
+	Head of accounting, history, and 
+Son Leto Julii - <span style="color:#c00000">contract to be killed by Aorta 250gp</span>
+	Head of Research and notorious party boy. Commonly travels to different places to party. 
+
 Mavakos
 	The owner of the shop decided to hire him as one of his "underground" workers so to speak. And thus began Skreep's life of crime. 
 

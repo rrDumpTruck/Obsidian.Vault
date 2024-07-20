@@ -42,8 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b72e24dc955e57b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C - Opportunity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5545193c77a47194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L - Opportunity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes.md",
+                "file": "C - Opportunity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes.md",
+                "file": "C - Opportunity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes.md"
+                "file": "C - Opportunity.md"
               }
             }
           },
@@ -195,10 +220,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c3cde2f2e7f45b02",
+  "active": "2b72e24dc955e57b",
   "lastOpenFiles": [
-    "Player Character Info.md",
+    "L - Opportunity.md",
+    "C - Opportunity.md",
     "Session Notes.md",
+    "Player Character Info.md",
     "To Do.md",
     "Archive-Recap.md",
     "TO DO/TO DO.md",
@@ -210,8 +237,6 @@
     "Factions.md",
     "Session Notes and Quick Reference/Session Notes and Quick Reference.md",
     "Session Notes and Quick Reference",
-    "L - Opportunity.md",
-    "C - Opportunity.md",
     "NPCs.md",
     "The Veins Session 0 Handout .md",
     "Lore Rules.md",
