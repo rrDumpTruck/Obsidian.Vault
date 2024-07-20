@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive-Recap.md",
+                "file": "Session Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive-Recap.md",
+                "file": "Session Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive-Recap.md",
+                "file": "Session Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive-Recap.md"
+                "file": "Session Notes.md"
               }
             }
           },
@@ -172,12 +173,13 @@
   },
   "active": "e26b8df8a07a4105",
   "lastOpenFiles": [
+    "Archive-Recap.md",
+    "Session Notes.md",
     "Context/School.mdb",
     "Starter Lore Handout.md",
     "Player Character Info.md",
     "TO DO.md",
     "Home.md",
-    "Archive-Recap.md",
     "Factions.md",
     "Session Notes and Quick Reference/Session Notes and Quick Reference.md",
     "Session Notes and Quick Reference",
@@ -207,7 +209,6 @@
     "Untitled.loom",
     "Untitled 1.loom",
     "Active Projects/Bladerunner (1982)/Bladerunner(1982).jpg.crdownload",
-    "Active Projects/(Current Project) Bladerunner (1982)",
-    "Active Projects"
+    "Active Projects/(Current Project) Bladerunner (1982)"
   ]
 }
