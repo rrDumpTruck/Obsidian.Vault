@@ -2,9 +2,12 @@
 sticker: emoji//1f6a9
 ---
 
-Juice Bar: 
+Juice Bar: Paradise Gate
 	Verona - blue skinned blonde hair tiefling. Runs a rundown juice bar in the streets of sapphire. On a backstreet. 
 		Bob - Extra servant 
+
+Skreep's secret interaction with Druzil: 
+
 
 <span style="color:#c00000">SIDE: The Fool *(Inverse)*'s Carnival
 </span>	The fool is holding a carnival starting in The Narrow's and leading all the way up to Damocan's Grounds for the main event. The parade has many stops along the way up to the grounds. Pausing at the fighting pits for a scheduled 3 rounds of fighting. 
