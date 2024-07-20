@@ -65,8 +65,8 @@ Mother Dianne Julii - <span style="color:#c00000">contract to be killed by Aorta
 Last Session: WT 1, WT 2, 3 Med (150) = 250xp 
 
 <span style="color:#ffc000">Illayra</span> @Nebuluousmatt (Level 1 Human, Artificer)
-1. I want to take my tavern back (Private) [S1] WT+1
-2. 
+1. I want to take my tavern back [S1] WT+1
+2. Get started taking down the family [s3] 
 3. I want to dig up more info on The Family [S1] WT+1 
 
 Last Session: WT 1, 2 (75xp), WT 3 = 175xp (level up 2)
@@ -81,7 +81,7 @@ Last Session: WT 1, 2 (150), WT 3 = 250 (Level up 2)
 <span style="color:#ffc000">SKREEP</span> (Level 1 Kobold, Draconic Sorcerer)
 1. Join a party of adventurers [S1]
 2. 
-3. Find Mavakos' whereabouts (Private) [S1]
+<span style="color:#c00000">3. Find Mavakos' whereabouts (Private) [S1]</span>
 
 Last Session: 
 
