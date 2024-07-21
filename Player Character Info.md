@@ -71,17 +71,17 @@ Last Session: WT 3, WT 2 = 200
 
 Last Session: WT 2 = 100
 
-<span style="color:#ffc000">T. H. U. M. P. </span>(Level 1 Warforged, Monk)
+<span style="color:#ffc000">T. H. U. M. P. </span>(Level 2 Warforged, Monk)
 1. Harvest a fissure [S1] WT+2
 2. To complete the Leto contract [S3]
 3. To protect someone from someone/something else [S1] WT +1
 
-Last Session: WT 2, 
+Last Session: WT 2, 3 = Medium = 400
 
 <span style="color:#ffc000">SKREEP</span> (Level 1 Kobold, Draconic Sorcerer)
-1. Join a party of adventurers [S1]
+1. Join a party of adventurers [S1] 
 2. - <span style="color:#c00000">Find information about Verona and Eresiod (Private)</span>
 <span style="color:#c00000">3. Find Mavakos' whereabouts (Private) [S1]</span>
 
-Last Session: 
+Last Session: 1 Hard (225), 2 Hard (225), 3 WT = 500
 
