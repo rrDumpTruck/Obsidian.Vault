@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Archive-Recap.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Archive-Recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Archive-Recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Archive-Recap.md"
               }
             }
           },
@@ -197,6 +197,7 @@
   },
   "active": "e26b8df8a07a4105",
   "lastOpenFiles": [
+    "Home.md",
     "Player Character Info.md",
     "L - Opportunity.md",
     "C - Opportunity.md",
@@ -210,7 +211,6 @@
     "TO DO",
     "Context/School.mdb",
     "Starter Lore Handout.md",
-    "Home.md",
     "Factions.md",
     "Session Notes and Quick Reference/Session Notes and Quick Reference.md",
     "Session Notes and Quick Reference",
