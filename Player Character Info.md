@@ -57,26 +57,26 @@ Son Leto Julii - <span style="color:#c00000">contract to be killed by Aorta 250g
 Mother Dianne Julii - <span style="color:#c00000">contract to be killed by Aorta for an undetermined amount of gold</span>
 
 <span style="color:#00b0f0">Goals</span>
-<span style="color:#ffc000">(Sazen Bhamar)</span> @Badmeis (Level 1 Human, Sorcerer)
+<span style="color:#ffc000">(Sazen Bhamar)</span> @Badmeis (Level 2 Human, Sorcerer)
 1. harvest a newly formed local fissure [S1] WT+1
 2. earn some extra cash outside the mission [S1] WT+1
 3. Figure out where Leto is [S3]
 
-Last Session: WT 1, WT 2, 3 Med (150) = 250xp 
+Last Session: WT 3, WT 2 = 200
 
 <span style="color:#ffc000">Illayra</span> @Nebuluousmatt (Level 1 Human, Artificer)
 1. I want to take my tavern back [S1] WT+1
 2. Get started taking down the family [s3] 
 3. I want to dig up more info on The Family [S1] WT+1 
 
-Last Session: WT 1, 2 (75xp), WT 3 = 175xp (level up 2)
+Last Session: WT 2 = 100
 
 <span style="color:#ffc000">T. H. U. M. P. </span>(Level 1 Warforged, Monk)
 1. Harvest a fissure [S1] WT+2
 2. To complete the Leto contract [S3]
 3. To protect someone from someone/something else [S1] WT +1
 
-Last Session: WT 1, 2 (150), WT 3 = 250 (Level up 2)
+Last Session: WT 2, 
 
 <span style="color:#ffc000">SKREEP</span> (Level 1 Kobold, Draconic Sorcerer)
 1. Join a party of adventurers [S1]
