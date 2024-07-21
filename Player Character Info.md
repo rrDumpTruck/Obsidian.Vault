@@ -60,7 +60,7 @@ Mother Dianne Julii - <span style="color:#c00000">contract to be killed by Aorta
 <span style="color:#ffc000">(Sazen Bhamar)</span> @Badmeis (Level 1 Human, Sorcerer)
 1. harvest a newly formed local fissure [S1] WT+1
 2. earn some extra cash outside the mission [S1] WT+1
-3. Figure out where leto is [S3]
+3. Figure out where Leto is [S3]
 
 Last Session: WT 1, WT 2, 3 Med (150) = 250xp 
 
