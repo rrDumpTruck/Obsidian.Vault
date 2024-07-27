@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C - Opportunity.md",
+                "file": "Session Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C - Opportunity.md",
+                "file": "Session Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C - Opportunity.md"
+                "file": "Session Notes.md"
               }
             }
           },
@@ -232,11 +232,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "69944700e725a0fb",
+  "active": "d8589a8a27168bd4",
   "lastOpenFiles": [
+    "C - Opportunity.md",
     "L - Opportunity.md",
     "Session Notes.md",
-    "C - Opportunity.md",
     "Player Character Info.md",
     "Archive-Recap.md",
     "Lore Rules.md",
