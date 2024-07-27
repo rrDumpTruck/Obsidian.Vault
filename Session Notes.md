@@ -17,6 +17,9 @@ Juice Bar: Paradise Gate
 Assassination side quest: 
 Leto Julii is hosting a week long party at a safehouse near Damocan's Grounds
 
+Creatures in attendance at the fool's carnival: 
+
+
 
 <span style="color:#c00000">SIDE: The Fool *(Inverse)*'s Carnival
 </span>	The fool is holding a carnival starting in The Narrow's and leading all the way up to Damocan's Grounds for the main event. The parade has many stops along the way up to the grounds. Pausing at the fighting pits for a scheduled 3 rounds of fighting. 
@@ -25,10 +28,12 @@ Leto Julii is hosting a week long party at a safehouse near Damocan's Grounds
 		DC 14: Barely placed on the lists but you fight some of the weaker contenders and win. 
 		DC 16: You do well, fighting with grace and energy, you start to draw some attention to yourselves from the crowd...
 		DC 18: You do extremely well, defeating all but the most powerful opponents and earning your place near the top of the tournament lists. 
-	1. A Royal Joust
-		The joust serve as a welcome reprieve from the intense combat of the many down to two opponents. 
-	1. A Tourney style list with the top 10 contenders from the beginning Melee. Winning the Joust gives you a +2 bonus to all rolls during the event. 
+	2. A Royal Joust
+		The joust serve as a welcome reprieve from the intense combat of the many down to two opponents. To win the event you must unhorse your opponent or cause them to falter to gain a smaller amount of points. 
+	3. A Tourney style list with the top 10 contenders from the beginning Melee. Winning your Joust gives you a +2 bonus to all rolls during the event. The difficulty of the fight will depend on how well the party does in the Melee. 
 	-During the event the Court stays mostly together, separating between and after the events but staying close together during them. 
+
+
 
 <span style="color:#ff0000">MAIN QUEST</span>: <span style="color:#c00000">Aorta</span> is negotiating a deal between the party and an anonymous buyer (The Consortium.  
  
