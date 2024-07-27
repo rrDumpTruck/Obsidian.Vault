@@ -14,12 +14,18 @@ Juice Bar: Paradise Gate
 		Bob - Extra servant 
 	Visitors met at the bar: Darian Xycloss and his female elf friend who are competing in the tournaments. 
 
-Assassination side quest: 
-Leto Julii is hosting a week long party at a safehouse near Damocan's Grounds
+<span style="color:#ff0000">Assassination</span> side quest: 
+<span style="color:#ffc000">Leto Julii</span> is hosting a week long party at a safehouse near Damocan's Grounds
 	Assassination attempt guidelines
 	-
 	Strength: Has lots of high end connections, and near endless resources.
 	Weakness: Leto is very regimented in his activities
+	Weakness: He is loyal to those who work with him well
+	Circumstance: 
+	Opportunity: Leto spends his off hours either in his family's highly protected estate or in his safehouse a converted bar that used to be called "si"
+
+
+
 Creatures in attendance at the fool's carnival: 
 
 
