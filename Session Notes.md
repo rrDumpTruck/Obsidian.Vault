@@ -3,7 +3,8 @@ sticker: emoji//1f6a9
 ---
 The Crackheads: 
 
-Darian Xycloss 
+
+
 
 Rayastha's Mystery Wares: 
 
@@ -11,7 +12,7 @@ Rayastha's Mystery Wares:
 Juice Bar: Paradise Gate
 	Verona - blue skinned blonde hair tiefling. Runs a rundown juice bar in the streets of sapphire. On a backstreet. 
 		Bob - Extra servant 
-
+	Visitors met at the bar: Darian Xycloss and his female elf friend who are competing in the tournaments. 
 
 Assassination side quest: 
 Leto Julii is hosting a week long party at a safehouse near Damocan's Grounds
@@ -22,9 +23,11 @@ Leto Julii is hosting a week long party at a safehouse near Damocan's Grounds
 	1. The Grand Melee
 		Placement can be done individually or together, the dc remains the same.
 		DC 14: Barely placed on the lists but you fight some of the weaker contenders and win. 
-		DC 16: You do well, fighting with grace and energy, 
+		DC 16: You do well, fighting with grace and energy, you start to draw some attention to yourselves from the crowd...
+		DC 18: You do extremely well, defeating all but the most powerful opponents and earning your place near the top of the tournament lists. 
 	1. A Royal Joust
-	2. A Tourney style list with the top 10 contenders from the beginning Melee. Winning the Joust gives you a +2 bonus to all rolls during the event. 
+		The joust serve as a welcome reprieve from the intense combat of the many down to two opponents. 
+	1. A Tourney style list with the top 10 contenders from the beginning Melee. Winning the Joust gives you a +2 bonus to all rolls during the event. 
 	-During the event the Court stays mostly together, separating between and after the events but staying close together during them. 
 
 <span style="color:#ff0000">MAIN QUEST</span>: <span style="color:#c00000">Aorta</span> is negotiating a deal between the party and an anonymous buyer (The Consortium.  
