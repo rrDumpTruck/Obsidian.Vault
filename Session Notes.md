@@ -28,6 +28,11 @@ Juice Bar: Paradise Gate
 
 Creatures in attendance at the fool's carnival: 
 
+Thief face reveal when?
+	Thump:13
+	Skreep:13
+	Sazen: 15(spent more time with the thief)
+
 
 
 <span style="color:#c00000">SIDE: The Fool *(Inverse)*'s Carnival
