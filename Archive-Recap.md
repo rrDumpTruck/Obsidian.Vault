@@ -1,6 +1,31 @@
 ---
 sticker: emoji//1f4d3
 ---
+Session 4 (7/27/24)
+
+(Recap from session 3)
+
+
+old notes:
+<span style="color:#7030a0">The Session starts with a view of the streets of the guild square from the padded white seat of a palanquin. </span>
+	"(laughs) Look that one's skipping"
+	"Oh do be nice to them, competition is good for business..."
+	"I swear I recognized the Kobold from somewhere."
+	"I shall have my birds look into them, can't have unknowns at a time like this."
+	"Look at him run from our power... how times have changed."
+
+Skreep's secret interaction with Druzil: 
+	-When Skreep arrives at Aorta's workshop, he meets Druzil who seems to be writing in a ledger at a desk in the back corner of the room. 
+	-Druzil asks when the last time Skreep had their fortune read. (Offers to do a reading)
+	Druzil sits down to do the reading, shuffles an ornate looking deck of cards and reverses half the deck. He lays out three cards face down, the one in the middle already facing upwards. 
+	-First Card: The Tower: Represents sudden upheaval and disaster... since it is in the first position it indicates your past. 
+	-Second Card: The Fool Inverse: Representative of recklessness, in its current place its saying that your present actions are reckless and without thought. 
+	-Third Card: The Hermit: Representative of contemplative change of the inner self. Since its drawn in the third position it means that there is change to come in your future by direct result of your inner self changing.
+
+
+---
+
+
 Session 3 (7/20/24)
 
 *(Recap from session 2)* 

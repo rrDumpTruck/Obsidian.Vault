@@ -12,20 +12,6 @@ Juice Bar: Paradise Gate
 	Verona - blue skinned blonde hair tiefling. Runs a rundown juice bar in the streets of sapphire. On a backstreet. 
 		Bob - Extra servant 
 
-<span style="color:#7030a0">The Session starts with a view of the streets of the guild square from the padded white seat of a palanquin. </span>
-	"(laughs) Look that one's skipping"
-	"Oh do be nice to them, competition is good for business..."
-	"I swear I recognized the Kobold from somewhere."
-	"I shall have my birds look into them, can't have unknowns at a time like this."
-	"Look at him run from our power... how times have changed."
-
-Skreep's secret interaction with Druzil: 
-	-When Skreep arrives at Aorta's workshop, he meets Druzil who seems to be writing in a ledger at a desk in the back corner of the room. 
-	-Druzil asks when the last time Skreep had their fortune read. (Offers to do a reading)
-	Druzil sits down to do the reading, shuffles an ornate looking deck of cards and reverses half the deck. He lays out three cards face down, the one in the middle already facing upwards. 
-	-First Card: The Tower: Represents sudden upheaval and disaster... since it is in the first position it indicates your past. 
-	-Second Card: The Fool Inverse: Representative of recklessness, in its current place its saying that your present actions are reckless and without thought. 
-	-Third Card: The Hermit: Representative of contemplative change of the inner self. Since its drawn in the third position it means that there is change to come in your future by direct result of your inner self changing.
 
 Assassination side quest: 
 Leto Julii is hosting a week long party at a safehouse near Damocan's Grounds
@@ -34,8 +20,11 @@ Leto Julii is hosting a week long party at a safehouse near Damocan's Grounds
 <span style="color:#c00000">SIDE: The Fool *(Inverse)*'s Carnival
 </span>	The fool is holding a carnival starting in The Narrow's and leading all the way up to Damocan's Grounds for the main event. The parade has many stops along the way up to the grounds. Pausing at the fighting pits for a scheduled 3 rounds of fighting. 
 	1. The Grand Melee
-	2. A Royal Joust
-	3. A Tourney style list with the top 10 contenders from the beginning Melee. Winning the Joust gives you a +2 bonus to all rolls during the event. 
+		Placement can be done individually or together, the dc remains the same.
+		DC 14: Barely placed on the lists but you fight some of the weaker contenders and win. 
+		DC 16: You do well, fighting with grace and energy, 
+	1. A Royal Joust
+	2. A Tourney style list with the top 10 contenders from the beginning Melee. Winning the Joust gives you a +2 bonus to all rolls during the event. 
 	-During the event the Court stays mostly together, separating between and after the events but staying close together during them. 
 
 <span style="color:#ff0000">MAIN QUEST</span>: <span style="color:#c00000">Aorta</span> is negotiating a deal between the party and an anonymous buyer (The Consortium.  
