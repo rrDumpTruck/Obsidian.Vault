@@ -16,7 +16,10 @@ Juice Bar: Paradise Gate
 
 Assassination side quest: 
 Leto Julii is hosting a week long party at a safehouse near Damocan's Grounds
-
+	Assassination attempt guidelines
+	-
+	Strength: Has lots of high end connections, and near endless resources.
+	Weakness: Leto is very regimented in his activities
 Creatures in attendance at the fool's carnival: 
 
 
