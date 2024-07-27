@@ -58,30 +58,30 @@ Mother Dianne Julii - <span style="color:#c00000">contract to be killed by Aorta
 
 <span style="color:#00b0f0">Goals</span>
 <span style="color:#ffc000">(Sazen Bhamar)</span> @Badmeis (Level 2 Human, Sorcerer)
-1. harvest a newly formed local fissure [S1] WT+1
-2. earn some extra cash outside the mission [S1] WT+1
-3. Figure out where Leto is [S3]
+1. harvest a newly formed local fissure [S1] wt1
+2. earn some extra cash outside the mission [S1] wt2
+3. Figure out where Leto is [S3] wt1
 
 Last Session: WT 3, WT 2 = 200
 
 <span style="color:#ffc000">Illayra</span> @Nebuluousmatt (Level 1 Human, Artificer)
-1. I want to take my tavern back [S1] WT+1
-2. Get started taking down the family [s3] 
-3. I want to dig up more info on The Family [S1] WT+1 
+1. I want to take my tavern back [S1] wt1
+2. Get started taking down the family [s3] wt1
+3. I want to dig up more info on The Family [S1] wt1
 
 Last Session: WT 2 = 100
 
 <span style="color:#ffc000">T. H. U. M. P. </span>(Level 2 Warforged, Monk)
-1. Harvest a fissure [S1] WT+2
-2. To complete the Leto contract [S3]
-3. To protect someone from someone/something else [S1] WT +1
+1. Harvest a fissure [S1] wt1 
+2. To complete the Leto contract [S3] wt1
+3. 
 
 Last Session: WT 2, 3 = Medium = 400
 
 <span style="color:#ffc000">SKREEP</span> (Level 1 Kobold, Draconic Sorcerer)
-1. Join a party of adventurers [S1] 
-2. - <span style="color:#c00000">Find information about Verona and Eresiod (Private)</span>
-<span style="color:#c00000">3. Find Mavakos' whereabouts (Private) [S1]</span>
+1. 
+2. 
+3. <span style="color:#c00000">Find Mavakos' whereabouts (Private) [S1]</span> wt1
 
 Last Session: 1 Hard (225), 2 Hard (225), 3 WT = 500
 
