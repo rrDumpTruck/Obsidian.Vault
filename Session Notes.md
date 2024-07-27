@@ -34,7 +34,7 @@ Creatures in attendance at the fool's carnival:
 	-During the event the Court stays mostly together, separating between and after the events but staying close together during them. 
 
 First combat: Two Black Bear and Druid walk into a bar...
-Second combat: 
+Second combat: Carrion Crawler
 
 <span style="color:#ff0000">MAIN QUEST</span>: <span style="color:#c00000">Aorta</span> is negotiating a deal between the party and an anonymous buyer (The Consortium.  
  
