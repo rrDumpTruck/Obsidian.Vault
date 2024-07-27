@@ -16,7 +16,7 @@ The consortium maintains a legitimate business in Opportunity where they run a k
 	Holding a large number of businesses their servants and resources are uncounted. 
 
 Father Janus Julii 
-	Leader and helmsman of the guild and the family. 
+	Leader and helmsman of the guild and the family. (recent illness)
 Mother Dianne Julii - <span style="color:#c00000">contract to be killed by Aorta for an undetermined amount of gold</span>
 	Head of acquisition of new business for the whole guild. Deciding vote on family matters.
 Daughter Iris Julii
