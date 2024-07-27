@@ -6,6 +6,46 @@ Session 4 (7/27/24)
 (Recap from session 3)
 
 
+GOALS: XP values are Encounter Difficulty * 3 in XP value
+QUESTS: XP values are Encounter Difficulty * 4 in XP value
+[Encounter Calculator](https://www.dndbeyond.com/sources/basic-rules/building-combat-encounters#CombatEncounterDifficulty)
+
+<span style="color:#00b0f0">Quests</span>
+1. 
+2. 
+
+Son Leto Julii - <span style="color:#c00000">contract to be killed by Aorta 250gp</span>
+Mother Dianne Julii - <span style="color:#c00000">contract to be killed by Aorta for an undetermined amount of gold</span>
+
+<span style="color:#00b0f0">Goals</span>
+<span style="color:#ffc000">(Sazen Bhamar)</span> @Badmeis (Level 2 Human, Sorcerer)
+1. harvest a newly formed local fissure [S1] WT+1
+2. earn some extra cash outside the mission [S1] WT+1
+3. Figure out where Leto is [S3]
+
+Last Session: WT 3, WT 2 = 200
+
+<span style="color:#ffc000">Illayra</span> @Nebuluousmatt (Level 1 Human, Artificer)
+1. I want to take my tavern back [S1] WT+1
+2. Get started taking down the family [s3] 
+3. I want to dig up more info on The Family [S1] WT+1 
+
+Last Session: WT 2 = 100
+
+<span style="color:#ffc000">T. H. U. M. P. </span>(Level 2 Warforged, Monk)
+1. Harvest a fissure [S1] WT+2
+2. To complete the Leto contract [S3]
+3. To protect someone from someone/something else [S1] WT +1
+
+Last Session: WT 2, 3 = Medium = 400
+
+<span style="color:#ffc000">SKREEP</span> (Level 1 Kobold, Draconic Sorcerer)
+1. Join a party of adventurers [S1] 
+2. - <span style="color:#c00000">Find information about Verona and Eresiod (Private)</span>
+<span style="color:#c00000">3. Find Mavakos' whereabouts (Private) [S1]</span>
+
+Last Session: 1 Hard (225), 2 Hard (225), 3 WT = 500
+
 old notes:
 <span style="color:#7030a0">The Session starts with a view of the streets of the guild square from the padded white seat of a palanquin. </span>
 	"(laughs) Look that one's skipping"
