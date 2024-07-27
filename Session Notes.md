@@ -30,7 +30,7 @@ Creatures in attendance at the fool's carnival:
 		DC 18: You do extremely well, defeating all but the most powerful opponents and earning your place near the top of the tournament lists. 
 	2. A Royal Joust
 		The joust serve as a welcome reprieve from the intense combat of the many down to two opponents. To win the event you must unhorse your opponent or cause them to falter to gain a smaller amount of points. 
-	3. A Tourney style list with the top 10 contenders from the beginning Melee. Winning your Joust gives you a +2 bonus to all rolls during the event. The difficulty of the fight will depend on how well the party does in the Melee. 
+	3. A Tourney style list with the top 10 contenders from the beginning Melee. Winning your Joust gives you a +2 bonus to all rolls during the event. If you placed high on the lists at the Melee then you will face a more powerful opponent, but you will only have one fight. 
 	-During the event the Court stays mostly together, separating between and after the events but staying close together during them. 
 
 
