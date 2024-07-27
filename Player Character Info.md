@@ -74,8 +74,8 @@ Last Session:
 <span style="color:#ffc000">T. H. U. M. P. </span>(Level 2 Warforged, Monk)
 1. Harvest a fissure [S1] wt1 
 2. To complete the Leto contract [S3] wt1
-3. 
-
+3. Complete a kill for Druzil [S4]
++++
 Last Session: 
 
 <span style="color:#ffc000">SKREEP</span> (Level 1 Kobold, Draconic Sorcerer)
