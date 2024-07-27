@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player Character Info.md",
+                "file": "Archive-Recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player Character Info.md",
+                "file": "Archive-Recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Character Info.md"
+                "file": "Archive-Recap.md"
               }
             }
           },
@@ -208,10 +207,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae2e07291c464569",
+  "active": "e26b8df8a07a4105",
   "lastOpenFiles": [
-    "Archive-Recap.md",
     "Player Character Info.md",
+    "Archive-Recap.md",
     "Session Notes.md",
     "L - Opportunity.md",
     "C - Opportunity.md",
