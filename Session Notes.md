@@ -18,11 +18,11 @@ Juice Bar: Paradise Gate
 <span style="color:#ffc000">Leto Julii</span> is hosting a week long party at a safehouse near Damocan's Grounds
 	Assassination attempt guidelines
 	-
-	Strength: Has lots of high end connections, and near endless resources.
-	Weakness: Leto is very regimented in his activities
-	Weakness: He is loyal to those who work with him well
-	Circumstance: 
-	Opportunity: Leto spends his off hours either in his family's highly protected estate or in his safehouse a converted bar that used to be called "si"
+	**<span style="color:#92d050">Strength</span>**: Has lots of high end connections, and near endless resources.
+	**<span style="color:#00b0f0">Weakness</span>**: Leto is very regimented in his activities
+	**<span style="color:#00b0f0">Weakness</span>**: He is loyal to those who work with him well
+	**<span style="color:#00b050">Circumstance</span>**: Leto is currently fighting with is mother over a quarrel they had over dealings with the <span style="color:#7030a0">Consortium</span>. <span style="color:#ff0000">(Leto wanted to barter for the land that the party was hired to prospect.)</span>
+	**<span style="color:#ffc000">Opportunity</span>**: Leto spends his off hours either in his family's highly protected estate or in his safehouse a converted bar that used to be called "Sinners Rest" in the streets of sapphire. 
 
 
 

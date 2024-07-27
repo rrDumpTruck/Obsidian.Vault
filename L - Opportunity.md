@@ -75,7 +75,7 @@ Mother Dianne Julii - <span style="color:#c00000">contract to be killed by Aorta
 Daughter Iris Julii
 	Head of accounting, history, and 
 Son Leto Julii - <span style="color:#c00000">contract to be killed by Aorta 250gp</span>
-	Head of Research and notorious party boy. Commonly travels to different places to party. 
+	Head of Research and notorious party boy. Commonly travels to different places to party. Uncovered a secret laboratory that belonged to 
 
 ### -<span style="color:#00b050">The Fleshcrafter's Guild </span>
 <span style="color:#00b050">Aorta</span>'s Work Shop
