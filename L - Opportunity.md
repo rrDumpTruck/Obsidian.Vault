@@ -18,7 +18,7 @@ At the Top of the Mountain: Lies a burnt keep rising from the foundational stone
 2. <span style="color:#00b0f0">Damocan's Grounds</span> *highest on hill*: Gov sanctioned fighting pit. for worship through combat surrounded by a few minor religions embassies
 3. <span style="color:#00b0f0">The Streets of Sapphire</span> *lowest on the hill*: Trading/Entertainment district bisected by large Veins)
 4. <span style="color:#7030a0">Storming Ridge</span> "Logistics Co. Sponsored Depot": Undercity of a sort on the outermost part of the city just inside near a train station and large offloading cranes. Train is being assembled in a large yard made *specifically* for interchanging to unbuilt lines. 
-5. <span style="color:#00b0f0">The Narrows</span>: Back alley brawling and more extremism for worshiping Damocan. Also low level bars, businesses among a growing too large amount of homes.
+5. <span style="color:#00b0f0">The Narrows</span>: Back alley brawling and more extremism for worshiping Damocan. Also low level bars, businesses among a growing too large amount of homes. 
 6. Guild Square (Or Diamond)
 	1. The Family (Centrally located family that is fathered by the president of the Craftsman's guild) (((Has ties with Matt's character)))
 	2. The Fleshcrafter's Guild
