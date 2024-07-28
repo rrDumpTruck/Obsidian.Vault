@@ -62,14 +62,14 @@ Mother Dianne Julii - <span style="color:#c00000">contract to be killed by Aorta
 2. earn some extra cash outside the mission [S1] wt2
 3. Figure out where Leto is [S3] wt1
 
-Last Session: 
+Last Session: wt1, wt2 = 100xp (leveled to 3)
 
 <span style="color:#ffc000">Illayra</span> @Nebuluousmatt (Level 1 Human, Artificer)
 1. I want to take my tavern back [S1] wt1
 2. Get started taking down the family [s3] wt1
 3. I want to dig up more info on The Family [S1] wt1
 
-Last Session: 
+Last Session: wt1 = 
 
 <span style="color:#ffc000">T. H. U. M. P. </span>(Level 2 Warforged, Monk)
 1. Harvest a fissure [S1] wt1 
