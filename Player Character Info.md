@@ -69,19 +69,19 @@ Last Session: wt1, wt2 = 100xp (leveled to 3)
 2. Get started taking down the family [s3] wt1
 3. I want to dig up more info on The Family [S1] wt1
 
-Last Session: wt1 = 
+Last Session: wt1, 2 easy (150) = 250
 
-<span style="color:#ffc000">T. H. U. M. P. </span>(Level 2 Warforged, Monk)
+<span style="color:#ffc000">T. H. U. M. P. </span>(Level 3 Warforged, Monk)
 1. Harvest a fissure [S1] wt1 
 2. To complete the Leto contract [S3] wt1
 3. Complete a kill for Druzil [S4]
 
 Last Session: 
 
-<span style="color:#ffc000">SKREEP</span> (Level 1 Kobold, Draconic Sorcerer)
+<span style="color:#ffc000">SKREEP</span> (Level 2 Kobold, Draconic Paladin, rogue)
 1. <span style="color:#ff0000">Prevent the party from killing Leto and Dianne (Private)</span>
 2. <span style="color:#ff0000">Find a black market to sell the juice reagent for a high price (Public & Private)</span>
 3. <span style="color:#c00000">Find Mavakos' whereabouts (Private) [S1]</span> wt1
 
-Last Session: 
+Last Session: 2 medium (300)
 
