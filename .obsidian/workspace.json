@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "Player Character Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L - Opportunity.md",
+                "file": "Player Character Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L - Opportunity.md"
+                "file": "Player Character Info.md"
               }
             }
           },
@@ -232,12 +232,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b7e8f20d32080ad",
+  "active": "ae2e07291c464569",
   "lastOpenFiles": [
+    "L - Opportunity.md",
     "Player Character Info.md",
     "Session Notes.md",
     "C - Opportunity.md",
-    "L - Opportunity.md",
     "Archive-Recap.md",
     "Lore Rules.md",
     "Home.md",
