@@ -78,10 +78,10 @@ Last Session: wt1, 2 easy (150) = 250
 
 Last Session: 
 
-<span style="color:#ffc000">SKREEP</span> (Level 2 Kobold, Draconic Paladin, rogue)
+<span style="color:#ffc000">SKREEP</span> (Level 2 Kobold, Draconic 2 Paladin, 1 rogue)
 1. <span style="color:#ff0000">Prevent the party from killing Leto and Dianne (Private)</span>
 2. <span style="color:#ff0000">Find a black market to sell the juice reagent for a high price (Public & Private)</span>
 3. <span style="color:#c00000">Find Mavakos' whereabouts (Private) [S1]</span> wt1
 
-Last Session: 2 medium (300)
+Last Session: wt1, 2 medium (300) = 400
 
