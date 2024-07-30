@@ -18,10 +18,10 @@ Gather jar of sap and 5 stingers back to the academy and deliver to blue cat.
 - Sell drugs to a student. 
 
 MY BACKSTORY
-I arrived at the Mysteria Academy knowing very little about what I could learn there. Nearly fleeing my home 
+I arrived at the Mysteria Academy knowing very little about what I could learn there. Nearly fleeing my home +++++
 
 
-Death-bloom - A plant grown in the aquatic greenhouses of the homelands of the Tortles (insert tortle city here)
+Death-bloom - A plant grown in the aquatic greenhouses of the homelands of the Turtles (insert tortle city here)
 	
 
 The Party: 
