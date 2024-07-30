@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Elysium's Equivocation.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Elysium's Equivocation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Elysium's Equivocation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Elysium's Equivocation.md"
               }
             }
           },
@@ -197,13 +197,13 @@
   },
   "active": "d8589a8a27168bd4",
   "lastOpenFiles": [
+    "Home.md",
     "Session Notes.md",
     "Player Character Info.md",
     "L - Opportunity.md",
     "C - Opportunity.md",
     "Archive-Recap.md",
     "Lore Rules.md",
-    "Home.md",
     "Time - Timelines and the Weather.md",
     "Locations.md",
     "To Do.md",
