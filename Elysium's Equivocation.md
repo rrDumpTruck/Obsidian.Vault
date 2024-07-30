@@ -17,6 +17,11 @@ Completed Goals:
 Paused Goals
 - Sell drugs to a student. 
 
+MY BACKSTORY
+
+Death-bloom - A plant grown in the aquatic greenhouses of the homelands of the Tortles (insert tortle city here)
+	
+
 The Party: 
 
 1. <span style="color:#92d050">Maleous</span> - ME a turtle with a slow British accent. Clarence & Terrance - Childhood pets of Maleous. From Viaqeris, Opacaro. 
