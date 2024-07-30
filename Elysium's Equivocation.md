@@ -18,32 +18,31 @@ Gather jar of sap and 5 stingers back to the academy and deliver to blue cat.
 <span style="color:#ffff00">Paused</span> <span style="color:#ffff00">Goals</span>
 
 
-MY BACKSTORY
+<span style="color:#92d050">MY BACKSTORY</span>
 I arrived at the Mysteria Academy knowing very little about what I could learn there. Nearly fleeing my home 
 
 
-Death-bloom - A plant grown in the aquatic greenhouses of the homelands of the Tortles (insert tortle city here)
+<span style="color:#92d050">Death-bloom</span> - A plant grown in the aquatic greenhouses of the homelands of the Tortles (insert tortle city here)
 	
 
 The Party: 
 
 1. <span style="color:#92d050">Maleous</span> - ME a turtle with a slow British accent. Clarence & Terrance - Childhood pets of Maleous. From Viaqeris, Opacaro. 
-2. Tek'urat (Specter, Dawn) - Roommate from "swampish". Frill neck lizard folk, viacarys is lizard folk "home". A few lizard folk with scars around wrists or ankles around Leunoveon. 
+2. <span style="color:#7030a0">Tek'urat</span> (Specter, Dawn) - Roommate from "swampish". Frill neck lizard folk, viacarys is lizard folk "home". A few lizard folk with scars around wrists or ankles around Leunoveon. 
 	1. Long term goal to teach how to read/write common.
 	2. 
-3. "Mick Dagger" - Half-elf/half-tiefling, silver hair, tail and horns , white leather jacket. 5'8".
+3. "<span style="color:#7030a0">Mick Dagger</span>" - Half-elf/half-tiefling, silver hair, tail and horns , white leather jacket. 5'8".
 Follower of Minerva, Goddess of wisdom and crafts.
 
-4. Chael Hemlock - Plague doctor cleric with a cane and unnatural way of moving. All skin covered by fabric. 
+4. <span style="color:#7030a0">Chael Hemlock</span> - Plague doctor cleric with a cane and unnatural way of moving. All skin covered by fabric. 
 
-NPC's
-Tempest: God of storms and sudden weather
-Raijin: God of lightning and thunder. 
+### <span style="color:#00b0f0">NPC's</span>
 
-Taleous Vermillion: Crimson covert Owlin
+<span style="color:#ffc000">Gods</span>
+<span style="color:#00b0f0">Tempest</span>: God of storms and sudden weather
+<span style="color:#00b0f0">Raijin</span>: God of lightning and thunder. 
+Taleous Vermillion: Crimson covert Owlin that is 
 
-
-At the Mysteria Academy
 ![[Pasted image 20240729203341.png]]
 -Groundskeeper Cloverine - Tends to the land and gardens of the school. Special contact of mine. 
 	Secret Garden: 
