@@ -1,23 +1,25 @@
 ---
 sticker: emoji//1f60b
 ---
-Goals: 
+### <span style="color:#ffff00">Goals</span>: 
 1. Save the life of one of my new friends [s5]
 2. Make a good drawing of a creature I find on my field trip. complete 150
 3. Find out a secret about someone in the party. [s6]
 
-Quest: 
+### <span style="color:#ffff00">Quest</span>: 
 Gather jar of sap and 5 stingers back to the academy and deliver to blue cat.
 200xp for quest
 
-Completed Goals: 
+<span style="color:#ffff00">Completed Goals: </span>
 - Learn more about Mick's past group. 
 - Determine what my discovery will be (from background).
 
-Paused Goals
+<span style="color:#ffff00">Paused</span> <span style="color:#ffff00">Goals</span>
 - Sell drugs to a student. 
 
 MY BACKSTORY
+I arrived at the Mysteria Academy knowing very little about what I could learn there. Nearly fleeing my home 
+
 
 Death-bloom - A plant grown in the aquatic greenhouses of the homelands of the Tortles (insert tortle city here)
 	
