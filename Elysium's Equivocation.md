@@ -3,8 +3,8 @@ sticker: emoji//1f60b
 ---
 ### <span style="color:#ffff00">Goals</span>: 
 1. Save the life of one of my new friends [s5]
-2. Make a good drawing of a creature I find on my field trip. complete 150
-3. Find out a secret about someone in the party. [s6]
+2. Find a uninhabited place in the school where I can hide things
+3. Severely annoy a faculty member of the school
 
 ### <span style="color:#ffff00">Quest</span>: 
 Gather jar of sap and 5 stingers back to the academy and deliver to blue cat.
@@ -13,6 +13,7 @@ Gather jar of sap and 5 stingers back to the academy and deliver to blue cat.
 <span style="color:#ffff00">Completed Goals: </span>
 - Learn more about Mick's past group. 
 - Determine what my discovery will be (from background).
+- Make a good drawing of a creature I find on my field trip. complete 150
 
 <span style="color:#ffff00">Paused</span> <span style="color:#ffff00">Goals</span>
 
