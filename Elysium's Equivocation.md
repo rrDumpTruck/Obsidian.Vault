@@ -36,8 +36,9 @@ Taleous Vermillion: Crimson covert Owlin
 
 
 At the Mysteria Academy
-Groundskeeper Cloverine - Tends to the land and gardens of the school. Special contact of mine. 
-Headmaster Schrodinger
+-Groundskeeper Cloverine - Tends to the land and gardens of the school. Special contact of mine. 
+	Secret Garden: 
+-Headmaster Schrodinger
 
 Session notes: 4
 	Increase in security at the academy with "the military". 
@@ -57,6 +58,7 @@ Session 6
 2 keys
 Saved by a god in the crimson covert. 
 
-
+Session 7
+Going to teach 
 
 Took a jar of sap from the tree in the crimson covert 
