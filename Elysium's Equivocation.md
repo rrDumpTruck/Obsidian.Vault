@@ -42,6 +42,7 @@ Follower of Minerva, Goddess of wisdom and crafts.
 <span style="color:#00b0f0">Tempest</span>: God of storms and sudden weather
 <span style="color:#00b0f0">Raijin</span>: God of lightning and thunder. 
 Taleous Vermillion: Crimson covert Owlin that is 
+<span style="color:#00b0f0">Lorelath Flum</span>: Magical Theory teacher at Mysteria Academy
 
 ![[Pasted image 20240729203341.png]]
 -Groundskeeper Cloverine - Tends to the land and gardens of the school. Special contact of mine. 
