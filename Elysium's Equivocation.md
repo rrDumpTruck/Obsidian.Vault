@@ -21,7 +21,8 @@ The Party:
 
 1. <span style="color:#92d050">Maleous</span> - ME a turtle with a slow British accent. Clarence & Terrance - Childhood pets of Maleous. From Viaqeris, Opacaro. 
 2. Tek'urat (Specter, Dawn) - Roommate from "swampish". Frill neck lizard folk, viacarys is lizard folk "home". A few lizard folk with scars around wrists or ankles around Leunoveon. 
-	1. Doesn't speak 
+	1. Long term goal to teach how to read/write common.
+	2. 
 3. "Mick Dagger" - Half-elf/half-tiefling, silver hair, tail and horns , white leather jacket. 5'8".
 Follower of Minerva, Goddess of wisdom and crafts.
 
