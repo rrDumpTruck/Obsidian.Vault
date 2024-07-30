@@ -36,8 +36,10 @@ Taleous Vermillion: Crimson covert Owlin
 
 
 At the Mysteria Academy
+![[Pasted image 20240729203341.png]]
 -Groundskeeper Cloverine - Tends to the land and gardens of the school. Special contact of mine. 
-	Secret Garden: 
+	Secret Garden: Secret door under a greenhouse that lead to a tunnel, leading to a secondary door that is somewhat of a homestead... books, reports, potion making supplies, plants, herbology supplies and tools and a garden that specializes in Rare Magical Plants from (possibly from the Fey Realm) 
+		Specifically bred
 -Headmaster Schrodinger
 
 Session notes: 4
@@ -59,6 +61,7 @@ Session 6
 Saved by a god in the crimson covert. 
 
 Session 7
-Going to teach 
+Going to teach Tek how to speak/write common. 
+
 
 Took a jar of sap from the tree in the crimson covert 
